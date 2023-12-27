@@ -11,6 +11,8 @@ draft: false
 
 Craigslist has been one of the best resources for buyers and sellers since 95′. Millions of dollars have been exchanged between buyers and sellers over the years. As we all know, it’s not complicated to _make money on Craigslist_. It’s easy to post items and upload photos. But to earn big profits on Craigslist, you must identify strategic ways to earn money on CL. Many internet entrepreneurs have found ways to earn thousands selling products through classified ad sites. Some part-time, others full-time treating the opportunity as if it were an online business. Many people around the world sell items on Craigslist as a side hustle, and so can you.
 
+{{< toc >}}
+
 ## Steps to Make Money on Craigslist
 
 The sale of goods can be a [profitable side hustle](/blog/best-side-hustle-ideas) nowadays. However, if you want to make money on Craigslist, you must understand the basics of selling items on Craigslist. Fundamentals like don’t post duplicate content, respond to buyers A.S.A.P., or don’t meet people at nighttime. In addition, you must have a strategy. By strategizing, you can increase profits and sales. Instead of earning $300 posts, you could earn $500.

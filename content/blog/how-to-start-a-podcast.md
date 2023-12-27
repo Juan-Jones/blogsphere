@@ -11,6 +11,8 @@ draft: false
 
 Countless podcasters attest, and I wholeheartedly concur, that learning how to _start a podcast_ marks an unparalleled milestone. This transformative endeavor not only empowers you to share your voice on a global scale, but also grants you the remarkable power to impact and inspire countless individuals.
 
+{{< toc >}}
+
 ## How to Start a Podcast Step-by-Step
 
 In this step-by-step guide, I will describe how to start a podcast from beginning to end. Because launching a podcast is much more than recording digital audio files. You must understand the fundamentals of starting a business. More importantly, how to monetize a podcast; that way you can earn a passive income from your content. Below is a step-by-step guide on _how to start a podcast_:
@@ -37,13 +39,13 @@ There are a few options you can use to name your podcast. The first and most pop
 
 ### 4. Purchase Web Hosting Plan
 
-You must purchase a web-hosting plan if you want to launch a professional podcast. The most common question most beginners have is ‘how do I know which web hosting company to pick’? Well, it depends on the nature of your blog. If you have a shopping blog, you probably should consider [Shopify](/recommends/shopify), [Web.com](/recommends/web-com), or [Networksolutions](/recommends/network-solutions). Web Hosting companies that specialize in the eCommerce industry. However, if you have a content site, you can use just about any company.
+You must purchase a web-hosting plan if you want to launch a professional podcast. The most common question most beginners have is ‘how do I know which web hosting company to pick’? Well, it depends on the nature of your blog. If you have a shopping blog, you probably should consider {{< cloakedlink "Become a Shopify Expert" "https://shopify.pxf.io/c/3661625/1728804/13624" "Recommends Shopify" >}}, Web.com, or {{< cloakedlink "Networksolutions" "https://shopify.pxf.io/c/3661625/1728804/13624" "Recommends Networksolutions" >}}. Web Hosting companies that specialize in the eCommerce industry. However, if you have a content site, you can use just about any company.
 
 It’s important to understand, Web Hosting can get expensive. Therefore, you should search for inexpensive Web Hosting companies like Bluehost, Google, or WordPress.
 
 ### 5. Get a Domain Name
 
-It is advised to simultaneously get a domain name and Web Hosting plan. For the simple fact, most companies will give you a discount when you purchase bundle packages. The top 3 I recommend are [Namecheap](/recommends/namecheap), [Domain.com](/recommends/domain-com) and Google Domains. These companies are not only renowned but also offer cost-effective solutions.
+It is advised to simultaneously get a domain name and Web Hosting plan. For the simple fact, most companies will give you a discount when you purchase bundle packages. I recommend {{< cloakedlink "Web.com" "https://web.yoxl.net/c/3661625/362108/1642" "Recommends Web.com" > }} and Google Domains. These companies are not only renowned but also offer cost-effective solutions.
 
 ### 6. Get Equipment
 

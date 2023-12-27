@@ -18,6 +18,8 @@ Blogging has emerged as an influential platform for individuals and businesses t
 - Marketing skills: Marketing is an essential aspect of blogging. You need to be able to promote your blog effectively to attract readers and generate income. This requires skills such as search engine optimization (SEO), social media marketing, and email marketing. By mastering these skills, you can increase your blog's visibility and attract more readers.
 - Persistence: Making money through blogging requires persistence. You need to be patient and persistent, even when it seems like you're not making progress. Building a successful blog takes time and effort, but if you stay committed and work hard, you can achieve your goals.
 
+{{< toc >}}
+
 ## Understand the Fundamentals of Blogging
 
 Before blindly diving in, it's crucial to grasp the fundamental concepts of blog monetization. Making money from blogging involves leveraging your content, traffic, and influence to create income streams. It's much more than just trying to make money online; its about creating content for the audience, not search engine;

@@ -13,6 +13,8 @@ This comprehensive guide unveils a curated list of freelancer websites and resou
 
 > No matter your creative spark—whether it's writing, designing, or coding—rest assured, there's a perfect freelance platform waiting to showcase your talent on the World Wide Web!
 
+{{< toc >}}
+
 ## Best Freelancer Websites - Top 6
 
 This comprehensive guide unveils a curated list of freelancer websites and resources, serving as a compass for those navigating the expansive gig economy. From specialized platforms catering to writers, designers, developers, and beyond, to invaluable resources offering insights, tips, and support, this compilation aims to empower freelancers with a comprehensive toolkit for success in their professional endeavors.

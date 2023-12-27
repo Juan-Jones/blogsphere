@@ -11,6 +11,8 @@ draft: false
 
 A majority of Fiverr’s independent contractors follow the same blueprint. However, truly mastering the art of freelancing on this platform requires thinking outside the box and embracing unconventional strategies. Therefore, in this post we will cover _How to Make Money on Fiverr_ for freelancers to consider.
 
+{{< toc >}}
+
 ## What is Fiverr
 
 Fiverr is a popular platform that connects freelancers with clients from around the world. Freelancers on Fiverr can offer a variety of services, from writing and graphic design to website development and video production.

@@ -15,6 +15,8 @@ In this guide, I’ll explain _how to make money on Pinterest_ in 6 steps. Even 
 
 How can you make money on Pinterest? Well, it’s simple. Pinterest is nothing like most social media networks. To be more specific, most social media networks restrict publishers from sharing affiliate links or promoting affiliate programs. Whereas, Pinterest encourages members to post links and make. Lets get to it, how to _make money on Pinterest_, in six steps:
 
+{{< toc >}}
+
 ### 1. Build a Landing Page
 
 {{< image src="images/post/build-landing-page.jpeg" caption="" alt="Build Landing Page" height="336" width="189" position="center" command="fit" option="q100" class="img-fluid" title="Build Landing Page" webp="false" >}}

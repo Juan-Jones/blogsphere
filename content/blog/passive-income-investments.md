@@ -11,6 +11,8 @@ draft: false
 
 Nowadays, the concept of earning money online has transformed from a mere possibility to a tangible reality. The allure of financial independence, coupled with the convenience of online platforms, has attracted a diverse array of individuals seeking to capitalize on the _best passive income investments_. Thanks to the internet, theres content that provides valuable tips, insights, and strategies that help readers discover ways to _earn money online investing_, more importantly, achieve remarkable returns on investments.
 
+{{< toc >}}
+
 ## What is Passive Income?
 
 In short, passive income is unearned income gained from the slightest effort thats easily maintained or sustained. This type of income does not require too much effort and the owner is not actively involved. The _four types of passive income_ include:

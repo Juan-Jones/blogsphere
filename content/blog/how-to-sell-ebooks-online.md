@@ -11,6 +11,8 @@ draft: false
 
 Why should you learn how to sell an ebook? While selling ebooks can be lucrative, success often requires dedication, quality content creation, effective marketing, and ongoing engagement with your audience. Understanding the market, adapting to changes, and continuous improvement are key to thriving in this space. According to The Association of American Publishers, in 2019, ebook sales were around $1.94 billion in the U.S. One can only imagine the amount of revenue that is generated globally.
 
+{{< toc >}}
+
 ## How to Make Money Selling eBooks
 
 Can you make money selling ebooks? Yes, nowadays people want things right away! The internet gives us access to things we need at the touch of a button. We can shop online, watch tv online and movies. But we can also read digital publications ebooks. Of course, if we can read publications online, others must write publications online. If you want to make money selling ebooks, you must learn how to develop a ebook successfully. That way, you don’t waste your time or money. More importantly, you can get paid for your content.
