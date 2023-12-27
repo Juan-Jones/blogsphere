@@ -69,7 +69,7 @@ Millions of dollars have been earned taking surveys. Many survey sites will give
 
 ### 14. Make Money on Craigslist
 
-Craigslist, often dubbed the online classifieds giant, connects millions of users every day in search of various products and services. However, not everyone fully taps into the platform's potential for profit. With the right strategies and insights, anyone can [make money on Craigslist](make-money-on-craigslist).
+Craigslist, often dubbed the online classifieds giant, connects millions of users every day in search of various products and services. However, not everyone fully taps into the platform's potential for profit. With the right strategies and insights, anyone can [make money on Craigslist](/blog/make-money-on-craigslist).
 
 ### Additional Creative Side Hustle Ideas
 
