@@ -318,7 +318,7 @@ Microtask work involves completing small, quick tasks online in exchange for pay
 Gaming or streaming on platforms like Twitch involves showcasing skills and entertaining audiences while fostering a community. It's a multifaceted pursuit within a vibrant online ecosystem, offering opportunities for revenue generation and connection-building.
 
 - Startup Cost: The startup cost can range from minimal to moderate. Basic requirements include a decent computer or gaming console, a microphone, webcam (optional but beneficial), and high-speed internet. Advanced equipment like professional microphones or capture cards might be additional expenses.
-- Level of Difficulty: The level of difficulty can be moderate to high. Streaming demands technical proficiency in setting up streaming software, understanding the platform's features, and managing overlays or alerts. Additionally, building and engaging an audience require consistency, creativity, and entertainment skills.
+- Level of Difficulty: The level of difficulty can be moderate to high. Streaming demands technical proficiency in setting up streaming software, understanding the platform's features, and managing overlays or alerts. Additionally, building and engaging an audience requires consistency, creativity, and entertainment skills.
 - Resources Needed: Access to gaming equipment, streaming software (such as OBS or Streamlabs), and knowledge of the platform's features are essential. Additionally, skills in graphic design or video editing might enhance stream quality.
 
 Community Building: Success on Twitch involves community engagement. Interacting with viewers, fostering a positive and supportive community, and consistently delivering quality content are key to building a loyal audience.

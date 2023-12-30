@@ -41,7 +41,7 @@ To retain your audience, make sure you add content regularly, and stick to it so
 
 Whether your blogging for money or just for fun, there are plenty of ways earn income from your blog. Here are the most _effective ways to monetize a blog_:
 
-1. Market affiliate products: Selling affiliate products is a powerful way to monetize your blog. You can promote affiliate programs products or services, and when your readers make a purchase through your affiliate links, you earn a commission.
+1. Make Money with Affiliate Programs: Theres plenty of resources to [make money with affiliate programs](/blog/best-affiliate-programs-to-make-money). You can earn commission with just about any companay you can think of including, Walmart, Nike, Target and so on.
 2. Build a service site: Provide services for the audience. Examples include eBay, Craigslist, Offerup, etc.
 3. Create and sell digital products: Leverage your expertise and cater to your audience's needs selling digital products like eBooks, online courses, templates, or printables related to your niche.
 4. [Make money with Google ads](/blog/how-to-make-money-with-google-ads): This is one of the most popular monetization opportunities. It allows you to earn adsense revenue by displaying targeted ads on your blog.
