@@ -44,7 +44,7 @@ Here are _10 Fiverr business tips_ that can help you differentiate yourself from
 
 ### Fiverr Benefits
 
-Fiverr is one of the [best freelance sites](/blog/best-freelancing-sites) available. One of the main benefits of freelancing on Fiverr is the platform's large and diverse user base. Fiverr has millions of users from around the world, which means that freelancers can find buyers for a wide range of services. This includes graphic design, web development, writing, marketing, and much more.
+Fiverr is one of the [best freelance sites](/blog/freelancing-websites-and-resources) available. One of the main benefits of freelancing on Fiverr is the platform's large and diverse user base. Fiverr has millions of users from around the world, which means that freelancers can find buyers for a wide range of services. This includes graphic design, web development, writing, marketing, and much more.
 
 Another benefit of Fiverrs freelancing platform's user-friendly interface. Fiverr makes it easy for freelancers to create profiles, showcase their skills and experience, and connect with buyers. The platform also offers a range of tools and resources to help freelancers succeed, including analytics, promotions, and customer support.
 

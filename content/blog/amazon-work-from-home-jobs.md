@@ -37,7 +37,7 @@ Amazon's Work From Home positions cover a spectrum of job categories, ranging fr
 - Stay at Home Supply Chain Analysts: These roles involve analyzing supply chain data, optimizing logistics, and ensuring efficient operations while working from remote locations.
 - [Remote Legal Counsel](https://www.amazon.jobs/en/business_categories/legal-team): Legal professionals offer counsel and support on legal matters, contracts, and agreements, working remotely to provide legal guidance to the company.
 
-Additional _Amazon home jobs and oppportunities_ include;
+Additional _Amazon home jobs and opportunities_ include;
 
 ### Amazon-Flex
 
