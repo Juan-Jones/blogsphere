@@ -12,7 +12,9 @@ summaryLength = "25"
 googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "earnonline" # get your shortname form here : https://disqus.com
-autoHeadingID = true
+autoHeadingID = true 
+# Robotstxt
+enableRobotsTXT = true
 
 ############################# Modules ##############################
 [module]

@@ -2,8 +2,4 @@ Sitemap: https://earnonlinemoney.org/sitemap.xml
 
 User-agent: *
 
-Allow: /
-Allow: /assets/images/
-Disallow: /admin/
 Disallow: /tags/
-Disallow: /search/
