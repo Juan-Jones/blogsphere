@@ -23,7 +23,7 @@ Finally, be sure to read the policies, terms of service, and posting options bef
 
 To start with you can [create a Craigslist account](https://accounts.craigslist.org/signup/) for free. It will benefit you to have an account. You can use more features and keep track of all your postings. This will help you identify titles and phrases that are effective.
 
-### 2. Browse Though the Site
+### 2. Browse Through the Site
 
 To begin, browse around and get familiar with the site. Check out the pages or posts you’re interested in. Even check out the content you are not interested in. Click through all the sections to get familiar with the site. It can be time-consuming to contact customer support for information that is already provided on the site.
 

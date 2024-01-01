@@ -1,6 +1,6 @@
 ---
 title: "How to Monetize a Blog, Diversifying Income Streams"
-description: "Learn how to monetize a blog effectivly. Explore diverse revenue streams to boost your profits."
+description: "Learn how to monetize a blog effectively. Explore diverse revenue streams to boost your profits."
 image: "images/post/ways-to-monetize-a-blog.jpg"
 date: 2011-08-27T18:19:25+06:00
 categories: ["monetizing"]

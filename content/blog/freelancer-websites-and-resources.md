@@ -59,7 +59,7 @@ Upwork ranks number one in its respective markets. Annually, Upwork generates an
 
 Want to increase your income? Start searching for additional freelance platforms. By using more platforms you can generate leads, build your reputation, and boost your income. Here are a few to get started:
 
-- BloggingPro Job Board: Focused on blogging and content creation, BloggingPro lists freelance writing opportunities. BloggingPro.com is one of the most reliable resources to find work. Here, on-demand workers can find updated job boards that post freelance writing jobs, blog writing jobs, and paid blogging jobs every day.
+- BloggingPro Job Board: Focused on blogging and content creation, BloggingPro lists freelance writing opportunities. Here, on-demand workers can find updated job boards that post freelance writing jobs, blog writing jobs, and paid blogging jobs every day.
 - Clearvoice: You can expand your network with Clearvoice quickly. Being that this company partner with top brands nationwide, it's easy to grow! Here you can set your own rates.
 - Freelance writers can earn big with Constant Content. There are several authors who have written over 10,000 articles. On average, writers earn up to $250 per article.
 - At Creativecircle you can find full-time jobs, short-term assignments, or projects. However, you must fill out an application to qualify.
@@ -90,10 +90,10 @@ Want to increase your income? Start searching for additional freelance platforms
 - Zeerk: Offering microjobs and services starting at $, Zeerk covers various categories like writing, marketing, and programming.
 - Textbroker: Focused on content creation, Textbroker connects freelance writers with clients needing written content.
 - ProjectHire: Providing a platform for freelancers in programming, design, writing, and other fields to bid on projects.
-- Outsourcify: Primarily for tech and software development, Outsourcify caters to businesses seeking freelance developers.
+- Outsourcify: Primarily for tech and software development, [Outsourcify](https://outsourcify.com) caters to businesses seeking freelance developers.
 - Topcoder: Specializing in competitive programming and coding challenges, Topcoder hosts coding competitions and projects.
 - YunoJuno: Targeting freelancers in the creative and tech industries, YunoJuno offers opportunities in design, development, and more.
-- Microworkers: A microtask platform, Microworkers allows freelancers to complete small tasks for pay.
+- Microworkers: A microtask platform, [Microworkers](https://microworkers.com) allows freelancers to complete small tasks for pay.
 - Remote.co: Offering remote job listings across various industries, Remote.co includes freelance opportunities in its repertoire.
 - Truelancer: A platform catering to freelancers in web development, design, writing, and other fields.
 - Designhill: Known for its design contests and freelance projects, Designhill focuses on graphic design services.
@@ -110,16 +110,14 @@ Want to increase your income? Start searching for additional freelance platforms
 - ProBlogger Job Board: Known for its blogging and writing opportunities, ProBlogger lists freelance writing gigs.
 - GrowthMentor: Focused on mentorship and advice, GrowthMentor allows freelancers to offer consulting services. 
 - We Work Remotely: Listing remote jobs across multiple industries, including freelance opportunities.
-- Pangara: Targeting software developers and engineers, Pangara connects freelancers with tech projects.
+- Pangara: Targeting software developers and engineers, [Pangara](https://pangara.com) connects freelancers with tech projects.
 - CrowdSource: Providing freelance opportunities in content creation, data processing, and moderation.
 - CatalyzeX: Targeting data scientists and AI professionals, CatalyzeX hosts freelance projects in research and development.
 - OnSite: Specializing in providing on-site gigs for freelancers, particularly in events, marketing, and promotions.
 - StartUpLift: Offering website testing and feedback gigs for freelancers interested in user experience analysis.
 - Workhoppers: Focusing on local freelance opportunities, Workhoppers connects freelancers with businesses needing on-site assistance.
 - ProZ: A platform for freelance translators, ProZ offers translation projects in various languages and domains.
-- Envato Studio: Known for design and web development services, Envato Studio provides freelance gigs.
 - Wono: Offering a platform for freelancers to exchange their skills and services without traditional currency.
-- Catalant: Specializing in business strategy and consulting, Catalant connects freelancers with corporate projects.
 - X-Team: Targeting developers and tech professionals, X-Team offers remote freelance opportunities.
 - Codestunts: Focused on freelance coding and programming projects across various languages and frameworks.
 - Ureed: Global platform catering to Arabic content creators, offering freelance opportunities in writing, translation, and design.
