@@ -20,34 +20,37 @@ Before diving into the technical aspects of creating a blog, take some time to b
 ### 1. Choose a Blog Topic 
 
 Here are a few blog topics to start with:
-- Affiliate blog - An affiliate blog generates profits from a third party or vendor. They are the most common type of blog because they are easy to set up and maintain.
-- Artist blog - The artist blog displays the artwork of an artist, i.e., drawings, paintings, photography, etc.
-- Case study blog - The case study provides the audience with real-life examples, techniques, and strategies to find out what works.
-- Gamer blog - A gamer blog can cover several gamer topics like console reviews, game reviews, how to play games, gaming news, Esport news and events.
-- Corporate blog - The corporate blog is about a business's brand, products, and services. Usually, people develop corporate blogs for growth and development.
-- Edublog - Edublogs or educational blogs are developed for educational purposes by students, businesses, administrators, and teachers.
-- Niche blog - A niche blog covers a specific niche market, i.e., DIY, food, health, music, parenting, sports, and travel. Typically, niche bloggers earn revenue from affiliate links, digital products, and pay-per-click advertising.
-- Personal blog - A personal blog is like a diary. It focuses on the events that occur in the author's life.
-- Professional blog - A professional blog is a blog that is a website in which the author makes a living.
-- Repair service blog - A repair service blog covers repair issues. These sites help car repairs, computer repairs, laptop repairs, home repairs, etc.
-- Podcast - The podcast is a series of digital audio files.
+
+- Affiliate blog: An affiliate blog generates profits from a third party or vendor. They are the most common type of blog because they are easy to set up and maintain.
+- Artist blog: The artist blog displays the artwork of an artist, i.e., drawings, paintings, photography, etc.
+- Case study blog: The case study provides the audience with real-life examples, techniques, and strategies to find out what works.
+- Gamer blog: Gamer blogs can cover several gamer topics like console reviews, game reviews, how to play games, gaming news, Esport news and events.
+- Corporate blog: Corporate blogs are about a business's brand, products, and services. Usually, people develop corporate blogs for growth and development.
+- Edublog: An Edublog or educational blog are developed for educational purposes by students, businesses, administrators, and teachers.
+- Niche blog: Niche blogs cover a specific niche market, i.e., DIY, food, health, music, parenting, sports, and travel. Typically, niche bloggers earn revenue from affiliate links, digital products, and pay-per-click advertising.
+- Personal blog: A personal blog is like a diary. It focuses on the events that occur in the author's life.
+- Professional blog: A professional blog is a blog that is a website in which the author makes a living.
+- Repair service blog: A repair service blog covers repair issues. These sites help car repairs, computer repairs, laptop repairs, home repairs, etc.
+- Podcast: The podcast is a series of digital audio files.
 
 ### 2. Find Your Niche
 
+Before diving into the technical aspects of creating a blog, take some time to brainstorm and define the purpose of your blog. What do you want to share with your audience, and who is your target demographic? Whether you're passionate about travel, cooking, fashion, or business, understanding your niche and target audience will help shape the content and design of your blog.
+
 After you figure out the type of blog you want to create, it's time to find your niche. When choosing a topic, remember that the goal is to deliver value to your audience. Therefore, it's essential to identify a subject of your passion.
+
 Selecting a blog topic that you're passionate about enables you to create interesting content. Of course, creating fascinating content enables you to deliver valuable material, which is the end goal. In addition, it gives you the ability to do something you love. Of course, it's much easier to work when you love what you do for a living.
 
+### 3. Find a Free Web Hosting Service
 
-### 3. Find a Free Content Management System
+Now that you've chosen a topic for your blog, it's time to choose a company to host your site. Choosing a reliable Web hosting service that you're comfortable with is critical. Many bloggers will tell you to develop a blog using WordPress or Bluehost because they earn a generous commission. However, I believe you should choose a Web host that caters to your skills and experience. Why, because blogging for beginners is different from blogging experts. Hence, every webhosting company is different. Some cater towards beginners, and others experts.
 
-Now that you've chosen a topic for your blog, it's time to choose a content management system (CMS). Choosing a reliable Web hosting service that you're comfortable with is critical. Many bloggers will tell you to develop a blog using WordPress or Bluehost because they earn a generous commission. However, I believe you should choose a Web host that caters to your skills and experience. Why, because blogging for beginners is different than blogging experts. Hence, every webhosting company is different. Some cater towards beginners, and others experts.
-
-- Blogger - Millions of Blogger.com is a free blog publishing service owned by Google. Publishers use this platform to publish a blog in most countries around the globe.
-- Wix - You can develop a free website or blog at [Wix.com](https://wix.com). In all honesty, the free version does not come with all the bells and whistles, therefore, most members pay to upgrade to the paid version. You'll definitely earn online money from your material no matter which version you choose.
-- Tumblr - Tumblr.com can be used for micro blogging and social networking. You can use [Tumblr.com](https://tumblr.com) social networking site to promote your site. Likewise, you can use the micro blogging platform to create a blog for free.
-- Joomla - [Joomla.com](https://joomla.com) is a user-friendly open source content management system that allows an individual to publish material on the Web. This company started off as a CMS designed to service websites. As time passed, Joomla began to diversify serving blogs and websites. At any rate, there are many developers that create productive sites through Joomla's content management system.
-- Hubpages - Hubpages is a revenue sharing website that you can use to write articles. Hubpages has Google Adsense ads integrated within its platform. Ads will run automatically after you publish an article. You can also choose to not have ads automatically displayed on your articles.
-- WordPress - Wordpress is the most popular content management system in the world. Most companies and bloggers use [Wordpress.com](https://wordPress.com)  to create blogs and websites. It is recommended to learn how to use this site before developing material. However, there is a free version you can use to get familiar with the site. It is recommended that you analyze your competitors adequately. You can gain an advantage analyzing your competitors. Therefore, executing the groundwork should be your first priority.
+- Blogger: [Blogger.com](https://blogger.com) is a free blog publishing service owned by Google. Publishers use this platform to publish a blog in most countries around the globe.
+- Wix: You can develop a free website or blog at [Wix.com](https://wix.com). In all honesty, the free version does not come with all the bells and whistles, therefore, most members pay to upgrade to the paid version. You'll definitely earn online money from your material no matter which version you choose.
+- Tumblr: [Tumblr.com](https://tumblr.com]) can be used for micro blogging and social networking. You can use Tumblr's social networking site to promote your site. Likewise, you can use the micro blogging platform to create a blog for free.
+- Joomla: [Joomla.com](https://joomla.com) is a user-friendly open source content management system that allows an individual to publish material on the Web. This company started off as a CMS designed to service websites. As time passed, Joomla began to diversify serving blogs and websites. At any rate, there are many developers that create productive sites through Joomla's content management system.
+- Hubpages: Hubpages is a revenue sharing website that you can use to write articles. Hubpages has Google Adsense ads integrated within its platform. Ads will run automatically after you publish an article. You can also choose to not have ads automatically displayed on your articles.
+- WordPress: [Wordpress.com](https://wordpress.com) is the most popular content management system in the world. Most companies and bloggers use WordPress to create blogs and websites. It is recommended to learn how to use this site before developing material. However, there is a free version you can use to get familiar with the site. It is recommended that you analyze your competitors adequately. You can gain an advantage analyzing your competitors. Therefore, executing the groundwork should be your first priority.
 
 ### 4. Choose Your Domain Name
 
@@ -70,6 +73,7 @@ If you have a blog, you must drive traffic to your site in order to make money. 
 ### 8. Monetize Your Blog
 
 What does it mean to [monetize your blog](/blog/how-to-monetize-a-blog)? The definition of "monetize" is to turn into currency. 
+
 How can you monetize your blog? There are several ways to turn your blog into cash. A few methods include affiliate marketing, selling digital products, or placing ads on your site. If you are unsure about which strategy you should use, check out the strategies your competitors are using. Every site is different. Therefore, it's critical to identify profitable monetization strategies. More importantly, you need to understand why these strategies are profitable.
 
 ### 9. Create Your First Post
