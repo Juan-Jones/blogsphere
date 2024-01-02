@@ -47,13 +47,11 @@ The next step is to establish your brand name. This refers to the separation of 
 
 ### Market Your Online Store
 
-On completing all the above procedures, one should establish a promising marketing strategy and a marketing plan for the store. There are several marketing strategies that one can employ, they include; social media marketing, search engines optimization, email marketing, influencer marketing, and pay-per-click marketing method.
-
-Considering the current state of an active pandemic, most people are shopping on the internet. That being so, many entrepreneurs that own digital markets are earning generous profits.
+On completing all the above procedures, one should establish a promising marketing strategy and a marketing plan for the store. There are several marketing strategies that one can employ, they include; social media marketing, search engines optimization, email marketing, influencer marketing, and pay-per-click marketing method. Considering the current state of an active pandemic, most people are shopping on the internet. That being so, many entrepreneurs that own digital markets are earning generous profits.
 
 #### 4 Ways to Earn Money From Online Stores
 
-Launching a digital storefront mirrors owning a business, requiring competition dominance for success. Unfamiliar with startup procedures? Prior research is crucial. As with any business, customers are paramount – they are the store's life force. Without a customer base, a store's existence is futile. Thus, prioritizing customer satisfaction becomes paramount. Your primary goal should be to establish a robust online presence via a user-friendly platform. This platform should facilitate seamless navigation and comprehension. If you've made online purchases before, you grasp the significance of customer convenience in shaping successful transactions. Below are 3 _ways to earn money online from digital stores_:
+Launching a digital storefront mirrors owning a business, requiring competition dominance for success. Unfamiliar with startup procedures? Prior research is crucial. As with any business, customers are paramount – they are the store's life force. Without a customer base, a store's existence is futile. Thus, prioritizing customer satisfaction becomes paramount. Your primary goal should be to establish a robust online presence via a user-friendly platform. This platform should facilitate seamless navigation and comprehension. If you've made online purchases before, you grasp the significance of customer convenience in shaping successful transactions. Below are 4 _ways to earn money online from digital stores_:
 
 ##### 1. Sell Digital Downloads
 
