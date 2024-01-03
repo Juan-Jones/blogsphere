@@ -11,7 +11,7 @@ logo_text = "Earn Money Online"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Complete guide to earn money online and work from home, Find side hustle ideas, passive income investments, entrepreneurship info, freelance jobs & more."
+description = "Complete guide to earn money online, work from home, and build wealth. Find side hustle ideas, passive income investments, entrepreneurship info, freelance jobs & more."
 author = "Dejuan Jones"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -42,7 +42,7 @@ mainSections = ["blog"]
 # about widget content
 about_widget_content = "Connect with us on social media!"
 # footer content
-footer_content = "This platform is dedicated to empowering individuals from diverse backgrounds to embrace the digital realm and explore genuine avenues for financial success in the virtual world."
+footer_content = "This platform aims to dig deep into the multifaceted avenues available to aspiring online earners, providing insights and strategies to navigate this dynamic landscape effectively."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
@@ -62,10 +62,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Earn **Money** Online"
-title_small = "Wealth Building Guide"
+title_small = "Side Hustles, Passive Income, Investments"
 image = "images/earn-money.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Complete guide to earn money online and work from home, Find side hustles, passive income ideas, wealth building tips, entrepreneurship info & more."
+content = "Want to earn money online? Find real ways to build wealth on the internet via side hustles, passive income ideas, investments and more."
 button_label = "Start Here"
 button_link = "guide/"
 
