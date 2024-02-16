@@ -11,7 +11,7 @@ logo_text = "Earn Money Online"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = ""
+description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan Jones"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -65,7 +65,7 @@ title_large = "Earn **Money** Online"
 title_small = "Side Hustles & Passive Income Ideas"
 image = "images/earn-money.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Want to earn money online? Find real ways to build wealth on the internet via side hustles, passive income ideas, investments and more."
+content = "Online income guide, find side hustles, passive income ideas, online jobs, investments, freelance gigs, financial advice, success stories, expert tips & more."
 button_label = "Start Here"
 button_link = "guide/"
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Paid Survey Sites"
 description: "Find the best survey sites and opportunities and earn cash, rewards, or gift cards. Get paid top dollar opinions completing questionnaires."
-image: "images/post/how-to-build-online-stores.jpg"
+image: "images/post/best-survey-sites.jpg"
 date: 2014-04-20T18:19:25+06:00
 categories: ["side hustles"]
 tags: ["additional income"]

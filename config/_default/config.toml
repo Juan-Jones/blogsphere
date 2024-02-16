@@ -15,6 +15,7 @@ autoHeadingID = true
 enableRobotsTXT = true
 # canonify urls
 canonifyurls = true
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
@@ -48,12 +49,10 @@ maxAge = "720h"
 dir = ":resourceDir/_gen"
 maxAge = "720h"
 
-
 ############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
-
 
 ############################ Media types ############################
 [mediaTypes]
@@ -75,5 +74,3 @@ rel = "manifest"
 [taxonomies]
   tag = "tags"
   category = "categories"
-
-
