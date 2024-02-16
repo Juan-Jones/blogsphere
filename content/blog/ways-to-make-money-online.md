@@ -1,6 +1,6 @@
 ---
 title: "Real Ways to Make Money Online"
-description: "Discover real ways to make money online, f startup cost, resources 
+description: "Explore real ways to make money online, find average earnings, startup cost, level of difficulty resources and more!"
 image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]
