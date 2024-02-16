@@ -6,7 +6,7 @@ date: 2020-08-05T18:19:25+06:00
 categories: ["ecommerce"]
 tags: ["digital storefront"]
 type: "regular" # available types: [featured/regular]
-draft: true
+draft: false
 ---
 
 Business-to-business (B2B) ecommerce refers to the online transaction of goods and services between businesses. Unlike business-to-consumer (B2C) ecommerce, where businesses sell directly to consumers, B2B ecommerce involves transactions between companies, such as manufacturers, wholesalers, and distributors. The realm of B2B ecommerce encompasses a wide array of industries and verticals, ranging from manufacturing and distribution to healthcare and technology.

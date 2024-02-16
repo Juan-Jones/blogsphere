@@ -6,7 +6,7 @@ date: 2013-09-15T14:19:25+06:00
 categories: ["side hustles"]
 tags: ["additional income"]
 type: "featured" # available types: [featured/regular]
-draft: true
+draft: false
 ---
 
 In today's digital age, every dollar counts. With the rise of in-app purchases and the ubiquity of credit cards, there's a golden opportunity to _earn cash back_ on your spending. It's like getting a little bonus every time you swipe or tap. Let's dive into how you can leverage this to your advantage and fatten up your wallet.
@@ -37,7 +37,7 @@ Once you download the app, sign up by providing a valid email address. You can c
 
 - Rakuten: {{< cloakedlink "Rakuten" "https://www.rakuten.com/r/JONESD1531?eeid=28187" "Recommends Rakuten" >}}, formerly known as Ebates, is a place to go online shopping. In addition, it is one of the largest eCommerce sites in the world. Members can receive up to % from purchases. You can also receive $ for every member you refer. Signing up for a Rakuten membership is % free!
 - CheckOut: At Checkout, members can find multiple ways to earn money. You can get rebates for gas or groceries. You can easily start saving money on brands that you love! Then earn money or rewards every time you make a purchase. In the event you leave your cell phone at home, don't worry, you can use Checkout  from any device.
-- Dosh: Dosh is definitely one of the easiest systems to use. All you have to do is provide your credit or debit card number to be reimbursed, and [Dosh](http://dosh.com/) does the rest. Most sites will require you to take a snapshot of your receipt to be reimbursed. Dosh gives members cash back automatically for dining, shopping, booking hotels, and much more.
+- Dosh: Dosh is definitely one of the easiest systems to use. All you have to do is provide your credit or debit card number to be reimbursed, and [Dosh](https://dosh.com/) does the rest. Most sites will require you to take a snapshot of your receipt to be reimbursed. Dosh gives members cash back automatically for dining, shopping, booking hotels, and much more.
 - Ibotta: If you like freebies, you'll love recommends/ibotta/ Ibotta! Ibotta will give you $ just to sign up and use their services. People have saved over  million dollars using Ibotta’s site. The company partners with over , retailers. This provides you with many options to earn rewards.
 - MyGiftCards: MyGiftCards is an app you can use to buy gift cards and get cashback! They have some of the most popular companies in the U.S. You can find gift cards for Lowes, Target, Nike, and many others. So if you need extra money for the holidays, try MyGiftCards.
 - SavingStar: SavingStar.com has several opportunities for members to get cashback or rebates. They partner with over , stores, providing you with many options for savings. When your account reaches $, you can withdraw your funds to your bank PayPal account or donate to charity.

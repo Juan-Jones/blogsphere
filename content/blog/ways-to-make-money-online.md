@@ -1,6 +1,6 @@
 ---
 title: "Real Ways to Make Money Online"
-description: "Find real ways to make money online today like Amazon work from home jobs, associate marketing, freelance opportunities and more."
+description: "Discover real ways to make money online, f startup cost, resources 
 image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]
@@ -33,6 +33,8 @@ Crafting effective monetization strategies requires understanding your audience,
 
 Launching an app involves a combination of affordable and more significant investments, depending on project scope and aspirations. While it requires effort to master, the wealth of online resources and the supportive developer community can significantly ease the learning curve.
 
+_Avg Earnings for App Development:_ The average earnings vary widely depending on factors like complexity, platform, and market demand. Experienced developers can earn anywhere from $75,000 to $150,000 annually.
+
 _App Development Startup Cost:_ Low to Moderate. Open-source tools and platforms like Android Studio and Xcode are free to use. Entry-level smartphones for testing purposes are relatively affordable. However, costs may increase for premium devices, software licenses, or third-party services.
  
 _Application Development Level of Difficulty:_ Moderate to High. Learning app development basics is accessible, but mastering the intricacies can be challenging. Beginners may find initial hurdles in understanding programming languages, architecture, and platform-specific nuances. Continuous learning is required to stay updated with evolving technologies and best practices
@@ -44,6 +46,8 @@ _Optional App Resources:_ High-Performance Devices: For extensive testing on var
 ### 2. Crowdfunding
 
 One thing for sure, [crowdfunding](/blog/crowdfunding-guide) has revolutionized the way individuals and businesses secure financial backing for their projects. By harnessing the power of online platforms, you can now reach a vast audience of potential supporters who are eager to contribute to innovative and impactful endeavors.
+
+_Crowdfunding Average Earning:_ Crowdfunding earnings depend on the success of individual campaigns. Successful campaigns can raise anywhere from a few thousand dollars to millions, with some high-profile projects raising tens of millions of dollars.
 
 _Crowdfunding Initial Cost:_ Initiating a crowdfunding campaign demands a relatively low initial investment. Expect expenses primarily for platform fees and promotional efforts.
 
@@ -57,6 +61,8 @@ _Crowdfunding Resources:_ A compelling narrative outlining your project's vision
 
 Domain flipping is undeniably a lucrative online venture, offering substantial returns on investment. The process involves buying domains at comparatively modest prices then selling them later. Nonetheless, if you want to earn considerable profits you must learn how to effectively [flip domain names](/blog/flip-domain-names/).
 
+_Domain Flipping Avg Pay:_ Highly variable, ranging from a few hundred dollars to tens of thousands per domain.
+
 _Domain Flipping Startup Cost:_ Engaging in domain flipping demands a moderate initial investment. Expect expenses primarily for domain acquisition, hosting, and potentially, renewal fees.
 
 _Level of Difficulty:_ Flipping domain names require a blend of skill and market insight. It's a task that involves meticulous research on domain trends, understanding buyer preferences, and analyzing potential returns.
@@ -67,17 +73,19 @@ _Domain Flipping Resources:_ Successful domain flipping hinges on robust researc
 
 Compose [persuasive grant proposals](/blog/write-grants-for-clients) tailored to the specific needs of organizations or individuals seeking funding. These proposals aim to secure financial support by presenting compelling arguments and plans for impactful projects or initiatives.
 
+_How Much Can You Earn?_ Rates vary from $50 to $150 per hour.
+
  _Grant Writing Startup Expenses:_ The initial investment for crafting grant proposals is relatively low. Expect minimal expenses, primarily for research materials, software for document creation, and potential training or workshops.
  
  _Grant Writing Level of Difficulty:_ Crafting persuasive grant proposals involves a moderate level of complexity. It demands strong writing skills, a deep understanding of project planning, and the ability to articulate compelling arguments and plans concisely.
  
  _Grant Writing Resources:_ Success in grant proposal writing relies on comprehensive research materials, access to data and statistics supporting the project, writing and editing tools, and potentially, workshops or courses focusing on grant writing skills.
 
-### 5. Earn Money or Rewards From Your Receipts
+### 5. Earn Money for Submitting Your Receipts
 
 {{< image src="images/post/earn-rewards.jpg" caption="" alt="Earn Rewards" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Earn Rewards" webp="false" >}}
 
-How can you earn money or rewards from your receipts? First, you'll need to find apps that pay money for receipts. Besides that, all you have to do is snap a photo.
+_Avg Earnings for Submitting Receipts:_ Varies from a few cents to several dollars per receipt. First, you'll need to find apps that pay money for receipts. Besides that, all you have to do is snap a photo.
 
 _Startup Cost:_ Minimal to none. Most receipt apps are free to download and use. However, some might require occasional purchases to unlock additional features or benefits within the app.
 
@@ -88,6 +96,8 @@ _Resources:_ A smartphone with a camera and access to the internet are the prima
 ### 6. Offer Live Chat Support
 
 Provide real-time chat assistance to websites or businesses, engaging with customers instantly to address inquiries or concerns. This service aims to enhance customer experience by offering immediate and personalized support.
+
+_How Can You Make from Offering Live Chat Support?_ Average: $10 to $30 per hour.
 
 _Live Chat Support Initial Investment:_ The startup cost can be minimal. There are numerous free and affordable chat software available, though more advanced or specialized solutions might involve subscription fees or onetime purchases.
 
@@ -103,6 +113,8 @@ _Training and Support:_ Some chat software providers offer tutorials or customer
 
 You can earn online from [passive income investments](/blog/passive-income-investments), but it requires careful research, strategy, and risk management. Nonetheless, anyone with the right approach can make money from investments.
 
+_How Much Can You Earn from Investments?_ Highly variable, ranging from a few percent annually to higher returns.
+
 _Passive Income Startup Investment:_ The initial investment amount can vary widely based on the type of investment. Some investments require significant capital upfront, while others can start with smaller amounts. Research and understanding the investment type are essential to determine the initial capital needed.
 
 _Passive Income Investments Level of Difficulty:_ Moderate to high. Successful investing involves understanding market trends, conducting thorough research, and staying updated with financial news. It demands a certain level of financial literacy, patience, and the ability to manage risks.
@@ -117,6 +129,8 @@ _Time and Patience:_ Making money from investments is a long-term endeavor. It r
 
 Embark on a journey of connecting eager audiences to the events of their dreams by becoming an online ticket reseller. This venture empowers you to curate experiences, offering sought-after event tickets through digital platforms. Below is a breakdown to guide your entry into this thrilling realm:
 
+_Average Earnings:_ Highly variable, depending on demand and markup.
+
 _Event Ticket Reselling Startup Cost:_ The entry barrier is low, requiring minimal upfront investment. You can begin with a modest budget to purchase tickets for resale.
 
 _Event Ticket Reselling Level of Difficulty:_ While it demands dedication and perseverance, the process isn't overwhelmingly complex. A keen eye for market trends and ticket demand is advantageous.
@@ -128,6 +142,8 @@ _Ticket Selling Resources:_ A reliable internet connection, a computer or smartp
 {{< image src="/images/post/instacart-delivery.jpg" caption="" alt="Instacart Food Delivery, Riding Motercycle" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Instacart Food Delivery" webp="false" >}}
 
 Join the rideshare community and deliver goods for {{< cloakedlink "Instacart" "https://instacart.oloiyb.net/c/2747132/413183" "Recommends Instacart" >}}. This opportunity offers a flexible income-generating opportunity, attracting individuals seeking autonomy in their work. However, the reality encompasses a dynamic landscape with challenges ranging from navigating customer service dilemmas to income unpredictability. Working with Instacart offers a pathway to earning income while providing a vital service to the community.
+
+_Average Earnings:_ $10 to $25 per hour.
 
 _Instacart Initial Investment:_ The startup cost is minimal. There's typically no initial investment required to join Instacart as a shopper. However, you might need to cover expenses like a smartphone, reliable transportation, and insulated bags for 
 grocery delivery.
@@ -144,6 +160,8 @@ _Flexibility and Availability:_ Instacart offers flexible working hours, allowin
 
 If you decide to write an eBook, just know you'll need to understand a topic in and out to attain success. In other words, you must have a perpetual expert amount of knowledge about the content you cover.
 
+_How Much Can You Earn Writting an Ebook?_ Highly variable, ranging from a few hundred to several thousand dollars per month.
+
 _Ebook Writing Startup Cost:_ Writing an eBook generally has minimal startup costs. Basic expenses might include software for writing (such as a word processor or specialized writing software) and potential costs for editing or cover design if outsourcing these services.
 
 _Ebook Writing Level of Difficulty:_ The level of difficulty varies but can be moderate to high. It requires a deep understanding of the chosen topic, strong writing skills, and the ability to organize information coherently. Researching, writing, and editing demand dedication and perseverance.
@@ -153,6 +171,8 @@ _Ebook Writing Resources:_ Research materials, reliable sources, and access to d
 ### 11. Begin Teaching Fitness Classes Online
 
 Become a certified fitness instructor and offer virtual fitness classes or personal training sessions. Use platforms like Zoom or specialized fitness platforms to connect with clients.
+
+_Average Pay:_ $20 to $100 per hour.
 
 _Online Fitness Class Startup Cost:_ The initial investment might include certification costs for becoming a fitness instructor, which can vary based on the certification program. Additionally, expenses for equipment like fitness gear, a quality camera, or a microphone for virtual classes might be necessary.
 
@@ -168,6 +188,8 @@ _Technology and Resources:_ Access to a reliable internet connection, suitable e
 
 If you're fluent in multiple languages, offer language tutoring services online. Platforms like italki or Verbling connect language learners with tutors for virtual lessons.
 
+_Average Pay:_ $15 to $50 per hour.
+
 _Language Tutoring Initial Investment:_ Beginning language tutoring online can have minimal startup expenses. You may require a computer, a stable internet connection, a headset or microphone, and a webcam for virtual lessons. Some tutoring platforms may charge a commission for each session conducted through their site.
 
 _Language Tutoring Level of Difficulty:_ The level of difficulty can range from moderate to high. Proficiency in the languages you plan to tutor is essential, along with an understanding of effective teaching methods. Creating lesson plans, adapting to various learning styles, and managing online sessions can be challenging but rewarding.
@@ -179,6 +201,8 @@ _Teaching Platform and Tools:_ Learn how to navigate tutoring platforms like ita
 ### 13. Teach Woodworking Classes Online
 
 Offer online woodworking classes, instructing individuals in various woodworking techniques and projects. These courses aim to impart woodworking skills through digital instruction and demonstration.
+
+_Average Pay:_ $20 to $100 per hour.
 
 _Woodwork Teaching Startup Cost:_ Initiating online woodworking classes might entail moderate startup expenses. Essential items could include woodworking tools, a camera or smartphone for filming, video editing software, and a platform or website for hosting the classes. Additionally, marketing materials for promoting the courses may be necessary.
 
@@ -192,6 +216,8 @@ _Woodwork Teaching Resources:_ Access to woodworking tools, materials, and a sui
 
 YouTube is constantly innovating, launching new opportunities to make money. Publishers are earning tons of revenue. How can you do this? [Start a YouTube channel](/blog/how-to-start-a-youtube-channel) and monetize it through ads, sponsorships, and merchandise sales. Consistently create engaging content in your niche to attract subscribers and build a loyal audience.
 
+_Publisher Average Pay:_ YouTube ad revenue varies widely based on factors such as niche, audience demographics, and video length. Successful channels can earn anywhere from $0.50 to $10 per 1,000 views.
+
 _YouTube Startup Cost:_ Starting a YouTube channel typically involves minimal to moderate initial expenses. Essential items might include a decent camera or smartphone for recording, basic video editing software, a microphone for better audio quality, and perhaps lighting equipment. Additionally, consider costs for branding, such as a logo and channel art.
 
 _YouTube Startup Level of Difficulty:_ The level of difficulty can vary from moderate to high. Consistently creating engaging and high-quality content, mastering video editing techniques, understanding YouTube's algorithm and SEO (Search Engine Optimization), and effectively engaging with your audience can be challenging.
@@ -201,6 +227,8 @@ _YouTube Startup Resources:_ Access to video editing software like Adobe Premier
 ### 15. Present Online Comedy Workshops
 
 Develop educational courses focused on comedy writing or stand-up performance. Then, market and sell these courses online to aspiring comedians or individuals interested in honing their comedic skills.
+
+_Average Pay:_ $50 to $200 per hour.
 
 _Comedy Workshops Startup Expenses:_ Initiating educational courses for comedy writing or stand-up performances may involve moderate to high startup costs. This includes investments in video production equipment (cameras, microphones, lighting), video editing software, a platform for hosting courses, and potentially marketing expenses to reach the target audience.
 
@@ -213,6 +241,8 @@ _Comedy Workshops Educational Resources:_ Access to comedy writing guides, stand
 {{< image src="/images/post/print-on-demand.jpg" caption="" alt="Print on Demand" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Print on Demand" webp="false" >}}
 
 Create and sell custom-designed products like t-shirts, mugs, and phone cases through print-on-demand platforms like [Printful](https://www.printful.com) or Teespring. You upload your designs, and they handle the printing, shipping, and customer service.
+
+_How Much Can You Earn?_ Highly variable, earn anywhere from a few hundred to several thousand dollars per month.
 
 _Startup Cost:_ Starting a print-on-demand venture often requires minimal initial investment. Essential costs include a computer with internet access, design software for creating designs (Adobe Illustrator, Canva), and possibly a small budget for marketing.
 
@@ -228,6 +258,8 @@ _Platform Selection and Product Range:_ Platforms like Printful, Teespring, [Red
 
 If you have a knack for photography, sell your photos on stock photography websites like [Shutterstock](https://www.shutterstock.com), Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
 
+_Average Pay Selling Stock Photos:_ $0.25 - $5 per download, with potential for higher earnings for exclusive and high-demand images.
+
 _Photography Sales Initial Investment:_ Starting to sell photos on stock websites generally has a low initial investment. You'll need a camera (which could be a smartphone camera or a professional DSLR), access to photo editing software for post-processing, and a computer with an internet connection to upload your images. Some platforms might charge a small fee or commission upon selling photos.
 
 _Photography Sales Level of Difficulty:_ The level of difficulty can vary. It requires photography skills, an eye for appealing compositions, and knowledge of image editing. Understanding the preferences of the market and producing high-quality, unique, and commercially viable images can be challenging. However, with practice and dedication, one can improve and succeed.
@@ -239,6 +271,8 @@ _Creative Vision and Uniqueness: Selling photos on stock websites demands a crea
 ### 18. Extend Transcription Services
 
 Transcribe audio or video files into written form. You can extend transcription services on platforms like Rev or [TranscribeMe](https://www.transcribeme.com).
+
+_How Much Can You Earn?_ Average: $10 to $30 per hour.
 
 _Transcription Services Startup Cost:_ Starting a transcription venture requires minimal initial investment. You might need a computer or a laptop with a reliable internet connection. Additionally, some transcription platforms may have registration fees or software costs, although many offer free sign-ups.
 
@@ -253,6 +287,8 @@ _Training and Practice:_ While no specific qualifications are necessary, gaining
 {{< image src="images/post/dropshipping.jpg" caption="" alt="Dropshipping" height="400" width="300" position=".center" command="fit" option="q100" class="img-fluid" title="Dropshipping" webp="false" >}}
 
 Dropshipping offers an entrepreneurial avenue without the need for inventory management. Launching a dropshipping service acting as a middleman, outsourcing services and selling them at a higher rate. While its initial hurdles may appear low, achieving prominence necessitates an adaptive mindset aligned with shifting market dynamics. 
+
+_Average Earnings:_ Profit margins typically range from 10% to 30% of the product price. Income can vary greatly depending on product selection, marketing efforts, and competition.
 
 _Dropshipping Startup Cost:_ Low initial investment. Typically, you'll need funds for setting up a website, domain, and marketing expenses.
 No inventory costs: You won't need to purchase inventory upfront, reducing initial financial burdens.
@@ -271,6 +307,8 @@ _Marketing Tools:_ Utilize social media, SEO, email marketing, and paid advertis
 
 Develop and distribute software programs or plugins. Next, market and sell them to users or businesses seeking enhanced digital solutions.
 
+Highly variable, depending on distribution channels and demand.
+
 _Software Program Distribution Startup Cost:_ The startup cost for developing software programs or plugins can vary significantly. It might involve expenses such as acquiring necessary development tools or software, hiring developers or designers, licensing fees for certain software libraries or APIs, and marketing expenses. Costs could range from moderate to high depending on the complexity of the project.
 
 _Software Program Distribution Level of Difficulty:_ Developing software programs or plugins can be highly challenging. It requires expertise in programming languages, understanding software architecture, and possibly user interface design. The level of difficulty may vary based on the complexity of the project and the experience of the developers involved.
@@ -283,6 +321,8 @@ _Software Program Distribution Resources:_ Resources needed for software develop
 
 Vlogging has emerged as an exciting and profitable avenue for individuals seeking to express themselves, share knowledge, and earn income simultaneously.
 
+_How Much Can You Earn?_ Highly variable, ranging from a few hundred to millions of dollars annually.
+
 _Startup Cost:_ The startup cost for vlogging can vary. It typically involves the investment in camera equipment, microphones, lighting, and possibly video editing software. Costs can range from moderate to high depending on the quality of equipment desired.
 
 _Level of Difficulty:_ The level of difficulty in vlogging varies. Creating engaging content requires creativity, consistency, and an understanding of video editing techniques. Learning how to film, edit, and produce quality content can take time and effort.
@@ -292,6 +332,8 @@ _Resources:_ Essential resources for vlogging include a good quality camera (can
 ### 22. Supply Virtual Administrative Aid
 
 Provide administrative, organizational, or technical support to individuals or businesses remotely. Tasks may include email management, scheduling, research, data entry, or social media management.
+
+_Average Pay:_ $15 to $50 per hour.
 
 _Startup Cost:_ The startup cost for offering remote administrative support is typically low. Basic expenses may include setting up a home office with a computer, high-speed internet, software subscriptions for task management or communication tools, and potential marketing expenses.
 
@@ -305,6 +347,8 @@ _Resources:_ Access to essential tools and software like project management tool
 
 Buy and sell virtual properties in online games or virtual worlds.
 
+_Whats the Average Commission?_ Commission ranges from 1% to 3% of the property sale price.
+
 _Startup Cost:_ The startup cost for buying and selling virtual properties can vary from low to moderate. Initial expenses might include acquiring in-game currency or assets, investing in virtual property, and potential fees associated with online platforms or marketplaces.
 
 _Level of Difficulty:_ The level of difficulty can range from low to moderate. It requires knowledge of the particular game or virtual world, understanding market trends, and identifying opportunities for purchasing and selling virtual properties at profitable prices.
@@ -315,6 +359,8 @@ _Resources:_ Access to the specific game or virtual world platform is essential.
 
 Offer online guidance and tips for home organization, sharing insights and strategies through digital platforms. This service assists individuals in optimizing their living spaces and maintaining an organized lifestyle remotely.
 Our Recommendation: Find out how to [Set up a home based consulting business](https://johnspencerellis.com/setting-up-a-home-based-consulting-business/).
+
+_How Much Can You Earn?_ Average: $50 to $200 per hour.
 
 _Startup Cost:_ Starting an online home organization service might involve low to moderate startup costs. These could include expenses for a website or platform hosting, basic design tools, and potentially marketing expenses to reach the target audience.
 
@@ -338,6 +384,8 @@ _Resources and Tools:_ Access to web design software, like Adobe XD, Sketch, or 
 
 Provide online genealogy research services catering to individuals seeking information about their family history. This involves conducting in-depth research using digital resources to uncover and compile ancestral details for clients. Our recommendations [Ancestry.com](https://www.ancestry.com/c/affiliates) and [TheGenealogist.com](https://www.thegenealogist.com/affiliate/).
 
+_Average Pay:_ $20 to $50 per hour.
+
 _Genealogy Research Startup Cost:_ Starting genealogy research services online can have minimal to moderate startup costs. Expenses might include subscriptions to genealogy websites, access to historical records or databases, and genealogy software or tools. Additionally, consider costs for creating a website or marketing materials.
 
 _Genealogy Research Level of Difficulty:_ The level of difficulty can vary from moderate to high. Conducting in-depth genealogical research requires patience, attention to detail, and proficiency in utilizing various online resources. Expertise in deciphering historical records and family connections is essential.
@@ -349,6 +397,8 @@ _Research Resources:_ Access to genealogy databases, historical records, archive
 {{< image src="images/post/print-on-demand.jpg" caption="" alt="" height="400" width="200" position=".center" command="fit" option="q100" class="img-fluid" title="Print on Demand" webp="false" >}}
 
 TaskRabbit can be a lucrative opportunity to earn extra income with relatively low startup costs, offering flexibility and a diverse range of tasks. Understanding the platform, maintaining quality service, and managing your schedule efficiently can lead to a successful experience as a Tasker.
+
+_Average Pay:_ $15 to $50 per hour.
 
 _TaskRabbit Initial Investment:_ TaskRabbit typically has a low barrier to entry. You might need to invest in some basic tools or equipment based on the tasks you plan to offer (e.g., cleaning supplies, tools for furniture assembly). Registration 
 
@@ -362,6 +412,8 @@ _Basic Skills Required:_ Many tasks don’t require specific qualifications, but
 
 Craft tailor-made WordPress themes, addressing a range of website needs and preferences. Market and sell these themes online or through your website.
 
+_Average Pay:_ Varies from a few hundred to several thousand dollars per theme sold.
+
 _WordPress Theme Selling Startup Expenses:_ The startup costs for crafting WordPress themes can vary. It might include expenses for tools like design software (such as Adobe Photoshop, Sketch, or Figma), a development environment, and a domain for showcasing and selling your themes. Additionally, consider ongoing costs for hosting your portfolio and website.
 
 _WordPress Theme Selling Level of Difficulty:_ The level of difficulty can range from moderate to high. Crafting WordPress themes demands proficiency in web design, coding (HTML, CSS, PHP, etc.), and understanding the WordPress platform and its functionalities.
@@ -371,6 +423,8 @@ _WordPress Theme Selling Resources:_ Access to design and development tools, inc
 ### 29. Find Microtasking Opportunities
 
 Microtask work involves completing small, quick tasks online in exchange for payment. You can undertake tasks such as data entry, surveys, transcription, content moderation, and so on. More importantly, you can [find microtasking opportunities](/blog/microtasking) on platforms like Appen, [CIENCE](https://www.cience.com), or Dataloop Al.
+
+_How Much Can You Earn?_ Varies from a few cents to a few dollars per task completed.
 
 _Microtask Startup Cost:_ Microtask work typically involves minimal startup costs. Signing up on platforms like [Appen](https://appen.com), CIENCE, or Dataloop Al is usually free. However, some platforms might require additional verification processes.
 
@@ -385,6 +439,8 @@ _Microtask Payment Structure:_ Microtask platforms offer payment per task comple
 {{< image src="images/post/online-gaming.jpg" caption="" alt="Online Gaming" height="400" width="300" position=".center" command="fit" option="q100" class="img-fluid" title="Online Gaming" webp="false" >}}
 
 Gaming or streaming on platforms like [Twitch](https://www.twitch.tv) involves showcasing skills and entertaining audiences while fostering a community. It's a multifaceted pursuit within a vibrant online ecosystem, offering opportunities for revenue generation and connection-building.
+
+_How Much Can You Earn?_ Highly variable, ranging from a few hundred to millions of dollars annually.
 
 _Gaming/Streaming Startup Cost:_ The startup cost can range from minimal to moderate. Basic requirements include a decent computer or gaming console, a microphone, webcam (optional but beneficial), and high-speed internet. Advanced equipment like professional microphones or capture cards might be additional expenses.
 

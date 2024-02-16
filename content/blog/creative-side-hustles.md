@@ -7,7 +7,6 @@ categories: ["side hustles"]
 tags: ["additional income"]
 type: "featured" # available types: [featured/regular]
 draft: false
-aliases:
 ---
 
 Why do you need _side hustles_ these days? To start with, it's expensive to live this day and age. You can't live comfortable unless you're not earning six figures; even more in many cities. Therefore, you must find an opportunity to earn additional income.
