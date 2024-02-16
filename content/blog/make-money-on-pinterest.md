@@ -3,8 +3,8 @@ title: "How to Make Money on Pinterest"
 description: "Find out how to make money on Pinterest without using a blog or website. Learn how to get started by utilizing six steps!"
 image: "images/post/make-money-on-pinterest.jpeg"
 date: 2020-08-05T18:19:25+06:00
-categories: ["influencing"]
-tags: ["business"]
+categories: ["monetizing"]
+tags: ["social media"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -29,7 +29,7 @@ Transactional landing page – the transactional landing page contains informati
 
 Option #1 (Purchase a landing page) In my opinion purchasing a landing page is the best option simply because you have more control over your content. You can tweak the theme, customize the background, edit code, and much more. Whereas, you have no control over a free landing page. All in all, you have a better chance to influence consumers when you purchase a site. If you are on a limited budget, I suggest purchasing a site through Bluehost.
 
-Option #2 (Get a free landing page) If you don’t want to pay for a landing page. You can create a free landing page on [linktree.com.](https://linktree.com/) Linktree is a freemium social media landing page. You can use this platform to post your affiliate links, products links, or profile links. Here you can post whatever links you desire!
+Option #2 (Get a free landing page) If you don’t want to pay for a landing page. You can create a free landing page on [linktree.com](https://linktree.com/) Linktree is a freemium social media landing page. You can use this platform to post your affiliate links, products links, or profile links. Here you can post whatever links you desire!
 
 ### 2. Create a Pinterest Business Account
 
@@ -86,7 +86,7 @@ Step #2 (Create a TikTok account) – TikTok marketing is underrated. If you don
 
 Step #3 (Create an Instagram account) – For those who don’t know, Instagram is a video-sharing social network service. This network is similar to TikTok. Even more, you can repost. Therefore, you’ll use the same strategy on Instagram as you used on TikTok.
 
-### FAQs
+#### FAQs
 
 A number of entrepreneurs are utilizing Pinterest as a resource to make money online. As a result, it has paid off. Not only can Pinterest help you boost your income. It can also help you drive traffic to your websites or blogs.
 

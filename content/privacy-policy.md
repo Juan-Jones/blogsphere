@@ -34,7 +34,7 @@ By visiting this website, you agree the laws of Washington State, without regard
 Any dispute related in any way to your visit to this website or to products you purchase from us shall be arbitrated by state or federal court in Washington State, and you consent to the exclusive jurisdiction and venue of such courts.
 Comments, Reviews, and Emails
 
-Visitors may post content as long as it is not obscene, illegal, defamatory, threatening, infringing of intellectual property rights, invasive of privacy or injurious in any other way to third parties. Content must be free of software viruses, political campaign, and commercial solicitation. We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content, you grant [name] non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media. License and Site Access. We grant you a limited license to access and make personal use of this website. You are not allowed to download or modify it. This may be done only with written consent from us.
+Visitors may post content as long as it is not obscene, illegal, defamatory, threatening, infringing of intellectual property rights, invasive of privacy or injurious in any other way to third parties. Content must be free of software viruses, political campaign, and commercial solicitation. We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content, you grant name non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media. License and Site Access. We grant you a limited license to access and make personal use of this website. You are not allowed to download or modify it. This may be done only with written consent from us.
 
 ### GDPR data protection rights
 
@@ -61,12 +61,12 @@ The privacy policy at earnonlinemoney.org does not apply to other advertisers or
 
 - Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website or other websites.
 - Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-- How does Google use information from sites and apps that use their services? Read: [https://policies.google.com/technologies/partner-sites](Google Policies).
+- How does Google use information from sites and apps that use their services? Read: [Google Policies](https://policies.google.com/technologies/partner-sites).
 
 If you have not opted out of third-party ad serving, the cookies of other third-party vendors or ad networks may also be used to serve ads on your site, which should also be disclosed in your privacy policy in the following manner:
 
 - Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
 - Provide links to the appropriate vendor and ad network websites.
-- Inform your users that they may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendors uses of cookies for personalized advertising by visiting [www.aboutads.info].
+- Inform your users that they may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendors uses of cookies for personalized advertising by visiting [aboutads](www.aboutads.info).
 
 Because publisher sites and laws across countries vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative for guidance on drafting a privacy policy. For additional details regarding cookie consent notices, please refer to cookiechoices.org.

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://earnonlinemoney.org"
-title = "Earn Money Online | Side Hustles, Passive Income, Investments"
+title = "Earn Money Online"
 theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -10,12 +10,11 @@ paginate = "8"
 summaryLength = "25"
 # google analytics
 googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-disqusShortname = "earnonline" # get your shortname form here : https://disqus.com
 autoHeadingID = true 
 # Robotstxt
 enableRobotsTXT = true
-
+# canonify urls
+canonifyurls = true
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
@@ -34,11 +33,10 @@ quality = 90
 canonifyURLs = true
 
 ####################### Table of Contents ##########################
-
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
 
 ############################# Caches ###############################
 [caches]
@@ -73,6 +71,9 @@ suffixes = [""]
 mediaType = "application/manifest+json"
 rel = "manifest"
 
-############################ Links ###########################
-[permalinks]
-  categories = "/:slug/"
+############################ taxonomies ###########################
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+

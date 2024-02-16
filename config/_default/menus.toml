@@ -18,18 +18,13 @@ weight = 3
 
 [[main]]
 name = "Creative Side Hustles"
-url = "blog/best-side-hustle-ideas/"
+url = "blog/creative-side-hustles/"
 weight = 4
-
-[[main]]
-name = "Passive Income Investments"
-url = "blog/passive-income-investments/"
-weight = 5
 
 [[main]]
 name = "Blog"
 url = "/blog"
-weight = 6
+weight = 5
 hasChildren = false
 
 # footer menu

@@ -11,7 +11,7 @@ logo_text = "Earn Money Online"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Complete guide to earn money online, work from home, and build wealth. Find side hustle ideas, passive income investments, entrepreneurship info, freelance jobs & more."
+description = ""
 author = "Dejuan Jones"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -62,7 +62,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Earn **Money** Online"
-title_small = "Side Hustles, Passive Income, Investments"
+title_small = "Side Hustles & Passive Income Ideas"
 image = "images/earn-money.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Want to earn money online? Find real ways to build wealth on the internet via side hustles, passive income ideas, investments and more."
@@ -91,7 +91,7 @@ sidebar = ["about", "categories", "recent-post", "newsletter"]
 [subscription]
 enable = false
 newsletter_title = "Newsletter"
-newsletter_invitation = "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!"
+newsletter_invitation = "Join thousands of subscribers to get content delivered first hand!"
 newsletter_placeholder = "Type And Hit Enter"
 newsletter_reminder_a = "By Singing Up, You Agree To"
 newsletter_reminder_b = "Privacy Policy"

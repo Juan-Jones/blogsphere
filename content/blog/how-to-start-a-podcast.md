@@ -4,7 +4,7 @@ description: "Learn how to start a podcast from beginning to end. Discover 11 ef
 image: "images/post/start-a-podcast.jpg"
 date: 2020-01-05T18:19:25+06:00
 categories: ["personal finance"]
-tags: ["additional income"]
+tags: ["opportunities"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
@@ -80,8 +80,3 @@ Once you've started your podcast, im sure you want to identify [ways to make mon
 ### 11. Record an Episode
 
 Editing and uploading your first episode will take some work. If you are unsure of what a solid episode looks like, look at other episodes that are up and running. Ordinarily, a solid podcast starts off with a smooth introduction. It may include a theme song. However, you must make sure the music is royalty-free.
-
-#### FAQs
-
-1. How long should my episode be? You can create short or lengthy episodes. An episode should be at least fifteen minutes.
-2. How often should I deliver content? You should upload content on a weekly, bi-weekly, or monthly basis. Whatever option you choose, make sure you are consistent.

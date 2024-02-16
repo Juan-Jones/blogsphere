@@ -16,7 +16,7 @@
           <div class="row mx-0 g-5">
             <!-- recent post -->
             {{ $paginator:= .Paginate (where .Data.Pages "Section" "in" site.Params.mainSections ) }}
-            {{ range $paginator.Pages }}
+                {{ range $paginator.Pages }}
             <div class="col-sm-6 mb-4">
               {{ .Render "post" }}
             </div>

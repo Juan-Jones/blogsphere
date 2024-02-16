@@ -6,7 +6,7 @@ date: 2023-03-11T14:19:25+06:00
 categories: ["gig economy"]
 tags: ["freelancing"]
 type: "featured" # available types: [featured/regular]
-draft: false
+draft: true
 ---
 
 A majority of Fiverr’s independent contractors follow the same blueprint. However, truly mastering the art of freelancing on this platform requires thinking outside the box and embracing unconventional strategies. Therefore, in this post we will cover _how to make money on Fiverr_ for freelancers to consider.
@@ -19,7 +19,6 @@ Fiverr is a popular platform that connects freelancers with clients from around 
 
 ## How to Make Money on Fiverr
 
-- Understanding the Fiverr Landscape: Fiverr operates as a vast marketplace where freelancers offer a myriad of services known as "gigs." From graphic design, writing, programming, digital marketing, to voiceovers, Fiverr accommodates a broad spectrum of skills and services.
 - Crafting Your Services: When creating your services, or "gigs," aim for clarity and specificity. Define what you offer, the scope of your service, delivery timeframes, and any additional features or packages you provide. Clear communication enhances buyer trust and attracts potential clients.
 - Pricing Strategy and Packages: Determining your pricing strategy is pivotal. While Fiverr initially started with services priced at $5, the platform now allows for varying price ranges. Consider the complexity and value of your service when setting prices. Offering different packages (basic, standard, premium) with escalating features allows clients to choose according to their needs, enabling you to earn more for premium offerings.
 - Delivering Exceptional Quality and Service: Consistently delivering high-quality work within the specified timeframe is imperative. Happy clients often translate into repeat business and positive reviews, crucial factors in Fiverr's ranking system. Timely communication, revisions (if needed), and exceeding client expectations contribute to building a stellar reputation.
