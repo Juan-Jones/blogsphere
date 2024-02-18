@@ -1,7 +1,7 @@
 ---
 title: "Get Paid For Your Photos"
 description: "Secrets to success in selling stock photos with our comprehensive guide. Discover essential strategies for portfolio diversification, technical excellence, market research, and platform selection."
-image: "images/post/make-money-online.jpg"
+image: "images/post/paid-for-photo.jpg"
 date: 2024-02-17T18:19:25+06:00
 categories: ["personal finance"]
 tags: ["opportunities"]
@@ -47,7 +47,7 @@ Once you've honed your craft and built a compelling portfolio, it's time to expl
 - Stock Photography: Explore stock photography platforms such as [500px.com]{:rel="nofollow"}, [Smugmug.com]{:rel="nofollow"}, and [iStockPhoto.com]{:rel="nofollow"} provide a platform for photographers to license their images to businesses, media outlets, and creatives worldwide. By uploading your photos to these platforms, you can earn royalties each time your image is downloaded or licensed for use.
 - Print Sales: For photographers who prefer a more tangible form of art, selling prints of your work can be a lucrative venture. Whether through online galleries, art fairs, or exhibitions, there is a growing demand for high-quality prints that adorn homes, offices, and public spaces.
 - Freelance Assignments: Freelancing offers photographers the flexibility to pursue a variety of projects and assignments based on their interests and expertise. From editorial commissions to commercial gigs, freelance opportunities abound for photographers who are willing to network, pitch their ideas, and deliver exceptional results.
-- Social Media and [Influencer Marketing](/blog/influencer-marketing-ecommerce-growth): Social media platforms such as Instagram, Facebook, and TikTok have become powerful tools for photographers to showcase their work, connect with audiences, and attract potential clients. By leveraging your social media presence and cultivating a loyal following, you can attract sponsorship deals, brand collaborations, and paid partnerships with companies seeking authentic and engaging visual content.
+- Social Media Marketing: Social media platforms such as Instagram, Facebook, and TikTok have become powerful tools for photographers to showcase their work, connect with audiences, and attract potential clients. By leveraging your social media presence and cultivating a loyal following, you can attract sponsorship deals, brand collaborations, and paid partnerships with companies seeking authentic and engaging visual content.
 
 ### Accept Feedback and Critisism
 
@@ -57,4 +57,4 @@ Seeking constructive criticism and soliciting feedback from peers can help photo
 
 #### Empowerment through the Lens of Photography
 
-Getting paid for your photos is not just a pipe dream; it's a tangible reality for photographers who are willing to invest the time, effort, and dedication required to succeed in a dynamic and competitive industry. By harnessing your creative vision, building a compelling portfolio, exploring diverse monetization opportunities, and protecting your intellectual property rights, you can turn your passion for photography into a sustainable and fulfilling career. So, pick up your camera, unleash your creativity, and embark on a journey of artistic expression and financial empowerment through the lens of photography.
+Getting paid for your photos is not just a pipe dream; it's a tangible reality for photographers who are willing to invest the time, effort, and dedication required to succeed in a dynamic and competitive industry. By harnessing your creative vision, building a compelling portfolio, exploring diverse monetization opportunities, and protecting your intellectual property rights, you can turn your passion for photography into a sustainable way to [earn income online](/blog/ways-to-make-money-online). So, pick up your camera, unleash your creativity, and embark on a journey of artistic expression and financial empowerment through the lens of photography.
