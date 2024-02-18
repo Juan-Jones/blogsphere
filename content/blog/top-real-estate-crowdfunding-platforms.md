@@ -1,7 +1,7 @@
 ---
 title: "15 Trending Real Estate Crowdfunding Platforms"
 description: "Discover 15 trending real estate crowdfunding platforms along with mechanisms, benefits, and potential risks."
-image: "images/post/crowdfunding.jpg"
+image: "images/post/real-estate-crowdfunding.jpg"
 date: 2024-02-17T18:19:25+06:00
 categories: ["investing"]
 tags: ["assets"]
