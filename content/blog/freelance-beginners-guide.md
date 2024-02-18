@@ -113,13 +113,13 @@ Determining your pricing strategy can be challenging but essential for sustainab
 
 ### 12. Offer Freelance Writing Services
 
-If your're a newbie and have a way with words freelance writing is a good place to start. [Offering freelance writing services](/blog/offer-freelance-writing-services) can be a lucrative way to make money quickly. Whether you specialize in blog posts, articles, copywriting, or content marketing, businesses and publications are always in need of quality written content. Websites like [Problogger]{:rel="nofollow"}, [FreelanceWritingJobs.com], and Contena offer job listings and resources for freelance writers looking to find paid writing opportunities.
+If your're a newbie and have a way with words freelance writing is a good place to start. [Offering freelance writing services](/blog/offer-freelance-writing-services) can be a lucrative way to make money quickly. Whether you specialize in blog posts, articles, copywriting, or content marketing, businesses and publications are always in need of quality written content. Websites like [Problogger.com]{:rel="nofollow"}, [FreelanceWritingJobs.com]{:rel="nofollow"}, and Contena offer job listings and resources for freelance writers looking to find paid writing opportunities.
 
 ### 13. Find Freelance Websites and Opportunities that Align With Your Skills
 
-Embark on your freelance journey by exploring the vast array of opportunities tailored to your skills and interests. From creative writing to software development, these platforms offer a spectrum of projects that align with your passions, providing a pathway to both professional fulfillment and financial reward. With intuitive interfaces and robust search features, navigating these platforms becomes a seamless experience, empowering you to connect with projects that resonate with your expertise and aspirations.
+As you embark on your freelance journey you will find a vast array of opportunities tailored to your skills and interests on [freelance websites](/blog/find-freelance-websites). From creative writing to software development, these platforms offer a spectrum of projects that align with your passions. With intuitive interfaces and robust search features, navigating these platforms becomes a seamless experience, empowering you to connect with projects that resonate with your expertise and aspirations. As a result, you can [make money on Fiverr](/blog/how-to-make-money-on-fiverr), [Behance.com], [Dribble.com], and many others. 
 
-You can [find freelance websites](/blog/find-freelance-websites) such as Upwork, Freelancer, and Fiverr, connect freelancers with clients seeking specific skills and services. Create a compelling profile that highlights your expertise, experience, and portfolio, and actively bid on relevant projects. Be prepared to compete with other freelancers, and consider starting with smaller projects to build your reputation and client base.
+Create a compelling profile that highlights your expertise, experience, and portfolio, and actively bid on relevant projects. Be prepared to compete with other freelancers, and consider starting with smaller projects to build your reputation and client base.
 
 #### Become a Freelance Graphic Designer
 

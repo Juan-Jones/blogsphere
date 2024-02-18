@@ -63,7 +63,7 @@ Launching and growing a successful ecommerce business requires careful planning,
     
 3. Website Development: Invest in professional web design and user experience (UX) to create a visually appealing and intuitive online storefront.
     
-4. Marketing and Promotion: Implement a multi-channel marketing strategy encompassing search engine optimization (SEO), social media marketing, email campaigns, and influencer partnerships to drive traffic and generate sales.
+4. Marketing and Promotion: Implement a multi-channel marketing strategy encompassing search engine optimization (SEO), social media marketing, email campaigns, and [influencer marketing](influencer-marketing-ecommerce-growth) to drive traffic and generate sales.
     
 5. Customer Acquisition and Retention: Focus on acquiring new customers through targeted advertising and referrals, while nurturing existing customers through loyalty programs and personalized communications.
     

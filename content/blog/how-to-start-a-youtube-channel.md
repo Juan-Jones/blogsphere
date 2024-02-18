@@ -35,7 +35,7 @@ Once you've logged in to YouTube, click on your profile picture in the top right
 
 Don't forget to optimize your channel settings for searchability by including relevant keywords in your channel name, description, and tags.
 
-### Step 4. Select a Topic for Your Channel
+### Step 4: Select a Topic for Your Channel
 
 I highly recommended choosing a topic that you’re familiar with when starting your channel. Begin with your niche, a topic you’re passionate about. It allows you to provide valuable content as a content creator. If you have a decent amount of knowledge about a subject, you can work more consistently and diligently. It allows you to work on things you enjoy.
 
@@ -93,10 +93,9 @@ Pay attention to which videos perform well and which ones don't, and use that in
 
 ### Step 11: Monetize Your Channel
 
-Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [monetize your YouTube channel](youtube-monetization), i.e., earn money from ads, channel memberships, and merchandise sales.
+Once you've built a loyal audience and consistently produce high-quality content, you may be eligible to [monetize your YouTube channel](/blog/youtube-monetization), i.e., earn money from ads, channel memberships, and merchandise sales.
 
-Once you meet the eligibility criteria, you can apply for the YouTube Partner Program and start earning revenue from your videos. Keep in mind that monetization is just one way to generate income from your channel; you can also explore other 
-revenue streams like sponsored content, affiliate marketing, and selling digital products or services.
+Once you meet the eligibility criteria, you can apply for the YouTube Partner Program and start earning revenue from your videos. Keep in mind that monetization is just one way to generate income from your channel; you can also explore other revenue streams like sponsored content, affiliate marketing, and selling digital products or services.
 
 #### Stay Commited to Producing Quality Content
 

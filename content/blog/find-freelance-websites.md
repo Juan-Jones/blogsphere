@@ -34,7 +34,7 @@ To begin with, [Upwork](https://www.upwork.com){:rel="nofollow"} is the _top fre
 
 ### Fiverr
 
-Following closely is Fiverr, celebrated for its unique gig-based model. Fiverr offers a platform where freelancers can showcase their specific services, known as "gigs," allowing clients to easily browse and engage with the exact skills they require There are several opportunities to [make money on Fiverr](/blog/how-to-make-money-on-fiverr) including graphic designing, logos, games, posters, flyers, business cards, postcards, social media, and many others. One of the most beneficial aspects of Fiverr is there are lots of businesses and gurus who use {{< cloakedlink "Fiverr's" "https://go.fiverr.com/visit/?bta=194809&brand=fiverraffiliates" "Recommends Fiverr" >}} services. As a result, as an independent contractor you can name your price and get paid fair value.
+Following closely is Fiverr, celebrated for its unique gig-based model. Fiverr offers a platform where freelancers can showcase their specific services, known as "gigs," allowing clients to easily browse and engage with the exact skills they require There are several opportunities including graphic designing, logos, games, posters, flyers, business cards, postcards, social media, and many others. One of the most beneficial aspects of Fiverr is there are lots of businesses and gurus who use {{< cloakedlink "Fiverr's" "https://go.fiverr.com/visit/?bta=194809&brand=fiverraffiliates" "Recommends Fiverr" >}} services. As a result, as an independent contractor you can name your price and get paid fair value.
 
 ### Contently
 
@@ -70,7 +70,6 @@ The Writer Finder might be the most expensive, but they deliver skilled on-deman
 - designs: A hub for designers, designs caters specifically to graphic designers, offering contests and project-based work.
 - Crowded: This platform utilizes AI to match freelancers with suitable projects across different industries.
 - Nexxt: Offering freelance gigs alongside traditional job listings, Nexxt provides opportunities in various industries.
-- TaskRabbit: Focused on local tasks and services, TaskRabbit allows freelancers to offer services like cleaning, moving, and handyman work.
 - Workana: Targeting Latin American freelancers, Workana hosts projects in design, programming, writing, and marketing.
 - SolidGigs: A subscription-based platform that curates freelance opportunities from various sources for its members.
 - CloudPeeps: Concentrating on marketing and content creation, CloudPeeps connects freelancers with businesses needing these services.
