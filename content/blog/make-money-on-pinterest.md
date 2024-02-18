@@ -3,8 +3,8 @@ title: "How to Make Money on Pinterest"
 description: "Find out how to make money on Pinterest without using a blog or website. Learn how to get started by utilizing six steps!"
 image: "images/post/make-money-on-pinterest.jpeg"
 date: 2020-08-05T18:19:25+06:00
-categories: ["monetizing"]
-tags: ["social media"]
+categories: ["social media"]
+tags: ["business"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---

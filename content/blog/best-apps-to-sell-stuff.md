@@ -23,7 +23,7 @@ With over 2.8 billion monthly active users, Facebook Marketplace has become a go
 
 ### 3. Poshmark
 
-Poshmark is a social commerce platform specifically designed for buying and selling fashion items. Whether you're cleaning out your closet or looking to refresh your wardrobe, [Poshmark](https://poshmark.com) offers a seamless way to sell your gently used clothing, shoes, and accessories. The app's social features, such as sharing listings and following other users, help increase visibility for your items and attract potential buyers.
+Poshmark is a social commerce platform specifically designed for buying and selling fashion items. Whether you're cleaning out your closet or looking to refresh your wardrobe, [Poshmark](https://poshmark.com){:rel="nofollow"} offers a seamless way to sell your gently used clothing, shoes, and accessories. The app's social features, such as sharing listings and following other users, help increase visibility for your items and attract potential buyers.
 
 ### 4. Mercari
 
@@ -43,7 +43,7 @@ Letgo is another app that focuses on local buying and selling, allowing users to
 
 ### 8. Gumtree
 
-Gumtree is a classified ads platform that originated in the UK but has since expanded to other countries around the world. It allows users to buy and sell a wide range of items, including vehicles, real estate, jobs, and services. Gumtree's robust search filters and location-based listings make it easy to find buyers in your area.
+[Gumtree.com]{:rel="nofollow"} is a classified ads platform that originated in the UK but has since expanded to other countries around the world. It allows users to buy and sell a wide range of items, including vehicles, real estate, jobs, and services. Gumtree's robust search filters and location-based listings make it easy to find buyers in your area.
 
 ### 9. Vinted
 

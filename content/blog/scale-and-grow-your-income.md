@@ -4,7 +4,7 @@ description: "Discover actionable strategies, tools, and insights to expand your
 image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]
-tags: ["residual income"]
+tags: [""]
 type: "featured" # available types: [featured/regular]
 draft: true
 ---

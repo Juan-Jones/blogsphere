@@ -15,7 +15,9 @@ autoHeadingID = true
 enableRobotsTXT = true
 # canonify urls
 canonifyurls = true
-
+# canonify ref links
+refLinksErrorLevel = 'warning'
+refLinksNotFoundURL = '/blog/ways-to-make-money-online/#how-to-earn-money-online'
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
