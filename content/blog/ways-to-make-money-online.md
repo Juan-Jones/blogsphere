@@ -112,7 +112,7 @@ _Training and Support:_ Some chat software providers offer tutorials or customer
 
 {{< image src="/images/post/investment.jpg" caption="" alt="Investments, Earn Online Investing" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Investments" webp="false" >}}
 
-There are many way to mYou can earn online from [passive income investments](/blog/passive-income-investments), but it requires careful research, strategy, and risk management. Nonetheless, anyone with the right approach can make money from investments.
+There are many way to you can earn online from [passive income investments](/blog/passive-income-investments), but it requires careful research, strategy, and risk management. Nonetheless, anyone with the right approach can make money from investments.
 
 _How Much Can You Earn from Investments?_ Highly variable, ranging from a few percent annually to higher returns.
 
@@ -257,7 +257,7 @@ _Platform Selection and Product Range:_ Platforms like [Redbubble.com]{:rel="nof
 
 {{< image src="images/post/sell-photos.jpg" caption="" alt="Sell Photos" height="400" width="300" position=".center" command="fit" option="q100" class="img-fluid" title="Sell Photos" webp="false" >}}
 
-If you have a knack for photography, you can get paid for your photos on stock photography websites like [Shutterstock.com]{:rel="nofollow"}, Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
+If you have a knack for photography, you can [get paid for your photos](/blog/get-paid-for-your-photos) on stock photography websites like [Shutterstock.com]{:rel="nofollow"}, Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
 
 _Average Pay Selling Stock Photos:_ $0.25 - $5 per download, with potential for higher earnings for exclusive and high-demand images.
 
