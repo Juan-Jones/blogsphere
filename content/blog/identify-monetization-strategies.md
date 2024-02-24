@@ -37,7 +37,7 @@ Revenue streams are the channels through which money flows into your business. T
 
 ### Assessing Market Opportunities
 
-Stay attuned to market trends and emerging opportunities within your industry. Identify gaps in the market where your products or services can fulfill unmet needs or provide innovative solutions. By tapping into niche markets or untapped segments, you can uncover new avenues for monetization. A monetization strategy you might like: [What is Microtasking](what-is-microtasking).
+Stay attuned to market trends and emerging opportunities within your industry. Identify gaps in the market where your products or services can fulfill unmet needs or provide innovative solutions. By tapping into niche markets or untapped segments, you can uncover new avenues for monetization. A monetization strategy you might like: [What is Microtasking](/blog/what-is-microtasking).
 
 ### Leveraging Social Media Monetization
 
