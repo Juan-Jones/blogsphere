@@ -6,7 +6,7 @@ date: 2023-03-11T14:19:25+06:00
 categories: ["gig economy"]
 tags: ["freelancing"]
 type: "featured" # available types: [featured/regular]
-draft: true
+draft: false
 ---
 
 A majority of Fiverr’s independent contractors follow the same blueprint. However, truly mastering the art of freelancing on this platform requires thinking outside the box and embracing unconventional strategies. Therefore, in this post we will cover _how to make money on Fiverr_ for freelancers to consider.

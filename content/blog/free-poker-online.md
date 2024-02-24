@@ -1,7 +1,7 @@
 ---
 title: "Free Poker Online"
 description: "Discover the excitement of free poker online! Hone your skills, compete with players worldwide, and experience the thrill of the game without risking a dime"
-image: "images/post/free-poker-online.jpg"
+image: "images/post/free-poker.jpg"
 date: 2024-02-22T18:19:25+06:00
 categories: ["personal finance"]
 tags: ["opportunities"]

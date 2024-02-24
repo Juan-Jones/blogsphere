@@ -1,0 +1,3 @@
+<!-- layouts/shortcodes/nofollow.html -->
+{{ $href := .Get "href" }}
+<a href="{{ $href | safeURL }}" rel="nofollow">{{ .Inner }}</a>

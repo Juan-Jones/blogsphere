@@ -15,9 +15,7 @@ autoHeadingID = true
 enableRobotsTXT = true
 # canonify urls
 canonifyurls = true
-# canonify ref links
-refLinksErrorLevel = 'warning'
-refLinksNotFoundURL = '/blog/ways-to-make-money-online/#how-to-earn-money-online'
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
@@ -35,12 +33,6 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 quality = 90
 canonifyURLs = true
 
-####################### Table of Contents ##########################
-[markup.tableOfContents]
-endLevel = 4
-ordered = false
-startLevel = 2
-
 ############################# Caches ###############################
 [caches]
 [caches.images]
@@ -53,6 +45,10 @@ maxAge = "720h"
 
 ############################# Markup ###############################
 [markup]
+[markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
 [markup.goldmark.renderer]
 unsafe = true
 

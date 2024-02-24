@@ -1,10 +1,10 @@
 ---
 title: "TikTok Monetization Strategies"
 description: "Our TikTok monetization complete guide lists over 25 opportunities to earn money from their content, ranging from the Creator Fund and brand partnerships to livestream gifts and merchandise sales."
-image: "images/post/monetize-tiktok.jpeg"
+image: "images/post/monetize-tiktok.jpg"
 date: 2024-02-05T18:19:25+06:00
 categories: ["monetizing"]
-tags: ["residual income"]
+tags: ["business"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
@@ -28,9 +28,13 @@ Unlocking effective _TikTok monetization strategies_ requires a deep understandi
 
 ### TikTok Creator Marketplace
 
-{{< image src="images/post/creator-marketplace.jpg" caption="" alt="TikTok Creator Marketplace" height="935" width="689" position=".center" command="fit" option="q100" class="img-fluid" title="TikTok Creator Marketplace" webp="false" >}}
+{{< image src="images/post/creator-marketplace.jpg" caption="" alt="TikTok Creator Marketplace" height="935" width="689" position="center" command="fit" option="q100" class="img-fluid" title="TikTok Creator Marketplace" webp="false" >}}
 
-TikTok has introduced a Creator Marketplace, which serves as a platform for connecting brands with creators for sponsored content opportunities. Creators can register on the marketplace and apply for campaigns that align with their interests and audience demographics. Through the marketplace, creators gain access to a wide range of brand partnerships and collaborations, expanding their monetization potential on TikTo
+TikTok has introduced a Creator Marketplace, which serves as a platform for connecting brands with creators for sponsored content opportunities. Creators can register on the marketplace and apply for campaigns that align with their interests and audience demographics. Through the marketplace, creators gain access to a wide range of brand partnerships and collaborations, expanding their monetization potential on TikTok.
+
+### TikTok Creator Funds
+
+TikTok Creator Funds epitomize the platform's commitment to nurturing its vibrant community of creators. The mechanism operates on a revenue-sharing model, wherein eligible creators have the chance to earn compensation directly from TikTok itself. This revolutionary approach empowers creators to monetize their content without solely relying on traditional methods like [blog monetization](/blog/how-to-monetize-a-blog) or [Facebook's monetization features](/blog/facebook-monetization).
 
 #### Creator Fund Eligibility
 
