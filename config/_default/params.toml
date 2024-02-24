@@ -8,10 +8,11 @@ logo = "images/logo.png"
 logo_width = "150x"
 # logo text will only show when logo is missing.
 logo_text = "Earn Money Online"
+# if logo_webp set false, it will not generate WEBP version of logo
+logo_webp = true # default is true
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-[metadata]
 keywords = ["earn money online", "side hustles", "make money online", "passive income ideas", "make money from home", "side hustle ideas", "make money online quick", "earn money online free"]
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan Jones"
@@ -23,8 +24,9 @@ email = ""
 # contact form action
 contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works with https://formspree.io
 # search
-search = true
-
+search = false
+# google adsense, see https://www.google.com/adsense/
+google_adsense = "ca-pub-9965740454699088" # example: ca-pub-XXXXXXXXXX
 # Posts related Titles & Contents
 categories_title = "Blog Categories"
 posts_title = "Featured"
@@ -78,7 +80,7 @@ link = "https://blogify.pxf.io/c/3661625/1910828/22875"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
@@ -91,7 +93,7 @@ sidebar = ["about", "categories", "recent-post", "newsletter"]
 
 # Subscription
 [subscription]
-enable = false
+enable = true
 newsletter_title = "Newsletter"
 newsletter_invitation = "Join thousands of subscribers to get content delivered first hand!"
 newsletter_placeholder = "Type And Hit Enter"
