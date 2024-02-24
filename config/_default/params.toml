@@ -13,7 +13,6 @@ logo_webp = true # default is true
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-keywords = ["earn money online", "side hustles", "make money online", "passive income ideas", "make money from home", "side hustle ideas", "make money online quick", "earn money online free"]
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan Jones"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
