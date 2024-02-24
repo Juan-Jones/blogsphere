@@ -3,8 +3,8 @@ title: "What is a Blog"
 description: "Discover the essence of blogging and its significance with our insightful guide. Explore the diverse realms of blogging, from its definition to its multifaceted purposes."
 image: "images/post/blog-101.jpg"
 date: 2024-02-21T18:19:25+06:00
-categories: ["monetization"]
-tags: ["opportunities"]
+categories: ["monetizing"]
+tags: ["business"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---

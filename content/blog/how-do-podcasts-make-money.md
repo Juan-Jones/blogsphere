@@ -3,7 +3,7 @@ title: "How Do Podcasts Make Money"
 description: "How do podcasts make money? Find ways to earn money podcasting. Discover 11 monetization strategies for your platform."
 image: "images/post/how-podcast-make-money.jpg"
 date: 2020-01-05T18:19:25+06:00
-categories: ["monetization"]
+categories: ["monetizing"]
 tags: ["residual income"]
 type: "regular" # available types: [featured/regular]
 draft: false
@@ -63,7 +63,7 @@ The amount of money a podcast generates depends on the social following. Platfor
 
 The spending on podcast advertising has skyrocketed over the last 6 years. In 2015, advertisers spent $69 million on ads. Two years later (2017), advertisers spent $314 million on advertisements. In 2019, businesses spent $514 million on podcast ads. According to data from the Interactive Advertising Bureau (IAB) and PwC, in 2021, experts expect ad revenue to exceed $1 billion dollars.
 
-There is not a minimum or maximum amount of money a podcast can produce. Podcasting is not like a typical 9- 5 job where employees get paid a certain amount weekly. Here are the top 3 podcasters:
+There is not a minimum or maximum amount of money a podcast can produce. Podcasting is not like a typical 9 - 5 job where employees get paid a certain amount weekly. Here are the top 3 podcasters:
 
 Joe Rogan Experience ($900,000 monthly).  
 Chapo Trap House ($153,000 monthly).  
