@@ -1,7 +1,6 @@
 ---
-title: "What is Ecommerce - History, Types, Components and Future Outlook"
-weight: 3
-description: "Explore the world of eCommerce, a digital realm where virtual markets redefine commerce. Uncover digital storefronts, transactions, and the dynamic landscape of modern business."
+title: "What is Ecommerce - History, Types & Key Components"
+description: "Explore the world of eCommerce, a digital realm where virtual markets redefine commerce. Find digital storefronts & the dynamic landscape of modern business."
 image: "images/post/ecommerce-101.jpg"
 date: 2020-08-05T18:19:25+06:00
 categories: ["ecommerce"]
@@ -63,7 +62,7 @@ Launching and growing a successful ecommerce business requires careful planning,
     
 3. Website Development: Invest in professional web design and user experience (UX) to create a visually appealing and intuitive online storefront.
     
-4. Marketing and Promotion: Implement a multi-channel marketing strategy encompassing search engine optimization (SEO), social media marketing, email campaigns, and [influencer marketing](influencer-marketing-ecommerce-growth) to drive traffic and generate sales.
+4. Marketing and Promotion: Implement a multi-channel marketing strategy encompassing search engine optimization (SEO), social media marketing, email campaigns, and [influencer marketing](/blog/influencer-marketing-ecommerce-growth) to drive traffic and generate sales.
     
 5. Customer Acquisition and Retention: Focus on acquiring new customers through targeted advertising and referrals, while nurturing existing customers through loyalty programs and personalized communications.
     

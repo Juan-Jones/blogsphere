@@ -11,7 +11,9 @@ draft: false
 
 Freelancing represents a dynamic and empowering way to work in the modern world. It offers individuals the freedom to set their own schedules, choose their projects, and define their career paths. Whether you're looking to escape the confines of traditional employment or seeking a side hustle to supplement your income, freelancing can provide the flexibility and autonomy you desire.
 
-## The Ultimate Freelancer Beginner's Guide, Launch Your Career
+{{< toc >}}
+
+## The Ultimate Freelancer Beginner's Guide
 
 Freelancing is by far one of the most lucrative opportunities on the internet. This is the best time in history to become self-employed as a remote worker. However, you must understand a few matters of becoming an independent contractor for obvious reasons. But first, you must understand why you want to pursue this type of online business. It would be easier to start freelancing once you discover your purpose.
 

@@ -1,6 +1,6 @@
 ---
 title: "NFTs Market Breakdown: Buying, Selling, & Trading Non-Fungible Tokens"
-description: "Explore our NFTs market breakdown. The ins and outs of Non-Fungible Tokens (NFTs) in this comprehensive guide.  the  technology, applications, and implications of NFTs across art, music, gaming, and collectibles."
+description: "Our Non-Fungible Tokens (NFTs)  market breakdown addresses technology, applications, and implications of NFTs across art, music, gaming, collectables and more."
 image: "images/post/nfts-market-overview.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["investing"]
@@ -10,6 +10,8 @@ draft: false
 ---
 
 In the digital era, opportunities to earn money online have diversified, and the rise of _Non-Fungible Tokens_ (NFTs) has added a new dimension to the landscape. This article explores how individuals can navigate the NFT space not only for creative expression but also as a means to [earn money online](/blog/ways-to-make-money-online).
+
+{{< toc >}}
 
 ## What are NFTs?
 

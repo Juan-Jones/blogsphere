@@ -12,6 +12,8 @@ draft: false
 
 Why do you need _side hustles_ these days? To start with, it's expensive to live this day and age. You can't live comfortable unless you're not earning six figures; even more in many cities. Therefore, you must find an opportunity to earn additional income.
 
+{{< toc >}}
+
 ## Side Hustle Benefits
 
 What are the benefits of a side hustle? Its Simple Mathmatics! What if you lose your job or your car breaks down? You may even need a vacation! Even more importantly, no one has job security these days. I think it's safe to say, we can't predict the future. Therefore, it's essential to have a backup plan to be prepared for any situation. So the primary reason for discovering side hustle ideas is to earn supplemental income. Most people wouldn't mind earning a few extra coins from home. But as we all know, money doesn't grow on trees. And it's nearly impossible to survive without money. Therefore, it's vital to find [ways to make money](/blog/ways-to-make-money-online). To tell the truth, everyone should brainstorm side hustle ideas to earn extra moneys from home.
@@ -36,8 +38,6 @@ In essence, the importance of a side hustle lies not only in its capacity to aug
 
 To illustrate the point further, let us consider the concept of compound interest—a cornerstone principle in the realm of finance. Much like how small investments accrue interest over time to yield substantial returns, the incremental efforts put forth in a side hustle can culminate in significant dividends over the long term. The mathematical elegance of this principle underscores the transformative potential inherent in consistent and deliberate action.
 
-{{< toc >}}
-
 ## Side Hustles Pay Daily
 
 The allure of side hustles that pay daily lies in their ability to provide immediate financial relief and flexibility. Unlike traditional employment, where pay cycles may be bi-weekly or monthly, these side gigs offer the advantage of earning money on a daily basis. This can be especially beneficial for individuals facing urgent financial needs or seeking to generate additional income without long waiting periods.
@@ -50,9 +50,7 @@ The allure of side hustles that pay daily lies in their ability to provide immed
 
 4. Mystery Shopping: Mystery shopping offers a unique opportunity to earn money by evaluating the customer experience at retail stores, restaurants, and other businesses. As a mystery shopper, you'll visit assigned locations, make purchases or interact with employees, and provide feedback on your experience. With daily pay options offered by some mystery shopping companies, you can earn extra cash while enjoying free meals, products, and services.
 
-5. Microtasks: Microtask platforms such as Amazon Mechanical Turk and Clickworker enable individuals to complete small tasks, such as data entry, transcription, and content moderation, for pay. These platforms offer a steady stream of microtasks that can be completed at your own pace, allowing you to earn money on a daily basis by completing tasks as they become available.
-
-6. Task Based Apps: Task-based apps such as TaskRabbit, Thumbtack, and Gigwalk enable individuals to complete various tasks and assignments for clients in their local area. From assembling furniture to running errands, these platforms match taskers with users seeking assistance, allowing you to earn money for completing tasks on a daily basis.
+5. Task Based Apps: Task-based apps such as TaskRabbit, Thumbtack, and Gigwalk enable individuals to complete various tasks and assignments for clients in their local area. From assembling furniture to running errands, these platforms match taskers with users seeking assistance, allowing you to earn money for completing tasks on a daily basis.
 
 ## Side Hustles also Pay Weekly
 

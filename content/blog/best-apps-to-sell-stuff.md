@@ -5,7 +5,7 @@ image: "images/post/top-apps-for-selling-stuff.jpg"
 date: 2013-09-15T14:19:25+06:00
 categories: ["side hustles"]
 tags: ["additional income"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Did you know each year billions of dollars are earned through selling items? In 
 
 ### 1. eBay
 
-eBay remains one of the most popular online marketplaces, offering a vast audience and a wide range of categories for selling items. From electronics and clothing to collectibles and antiques, [eBay](https://ebay.com) provides sellers with a platform to reach millions of potential buyers worldwide. With features like auction-style listings and Buy It Now options, eBay offers flexibility in how you sell your items.
+eBay remains one of the most popular online marketplaces, offering a vast audience and a wide range of categories for selling items. From electronics and clothing to collectibles and antiques, [eBay.com] provides sellers with a platform to reach millions of potential buyers worldwide. With features like auction-style listings and Buy It Now options, eBay offers flexibility in how you sell your items.
 
 ### 2. Facebook Marketplace
 
@@ -23,7 +23,7 @@ With over 2.8 billion monthly active users, Facebook Marketplace has become a go
 
 ### 3. Poshmark
 
-Poshmark is a social commerce platform specifically designed for buying and selling fashion items. Whether you're cleaning out your closet or looking to refresh your wardrobe, [Poshmark](https://poshmark.com) offers a seamless way to sell your gently used clothing, shoes, and accessories. The app's social features, such as sharing listings and following other users, help increase visibility for your items and attract potential buyers.
+Poshmark is a social commerce platform specifically designed for buying and selling fashion items. Whether you're cleaning out your closet or looking to refresh your wardrobe, [Poshmark.com] offers a seamless way to sell your gently used clothing, shoes, and accessories. The app's social features, such as sharing listings and following other users, help increase visibility for your items and attract potential buyers.
 
 ### 4. Mercari
 

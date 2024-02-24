@@ -47,7 +47,7 @@ footer_content = "This platform aims to dig deep into the multifaceted avenues a
 custom_script= ""
 # copyright
 theme_copyright = true
-copyright = "© Copyright"
+copyright = "© Copyright 2024"
 
 # 404
 error_404_text = "404 Page Not Found!"

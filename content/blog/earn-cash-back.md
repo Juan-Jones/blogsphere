@@ -5,7 +5,7 @@ image: "images/post/cash-back.jpg"
 date: 2013-09-15T14:19:25+06:00
 categories: ["side hustles"]
 tags: ["additional income"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 

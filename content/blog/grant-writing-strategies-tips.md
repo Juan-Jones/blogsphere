@@ -1,6 +1,6 @@
 ---
 title: "Sensational Grant Writing Strategies, Tips, and Best Practices"
-description: "The secrets of successful grant writing for your clients with our comprehensive guide. Learn essential strategies, tips, and best practices to craft compelling proposals that secure funding and drive positive change in your community."
+description: "The secrets of successful grant writing for your clients with our comprehensive guide. Learn essential strategies, tips, and best practices to craft compelling proposals."
 image: "images/post/write-grants.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]
@@ -21,7 +21,7 @@ Once you have a clear understanding of your client's needs, the next step is to 
 
 ### Crafting a Compelling Grant Proposal
 
-How do you create a proposal? [Crafting a compelling grant proposal](https://www.pandadoc.com/blog/grant-proposal/){:rel="nofollow"} requires a blend of persuasive writing, data-driven analysis, and storytelling prowess. Start by outlining a clear and concise narrative that highlights your client's mission, impact, and innovative approaches. Articulate the problem your client seeks to address, the solution they propose, and the measurable outcomes they aim to achieve. Back up your narrative with compelling evidence, including statistics, case studies, and testimonials, to strengthen your argument and build credibility with funders.
+How do you create a proposal? [Crafting a compelling grant proposal](https://www.pandadoc.com/blog/grant-proposal/) requires a blend of persuasive writing, data-driven analysis, and storytelling prowess. Start by outlining a clear and concise narrative that highlights your client's mission, impact, and innovative approaches. Articulate the problem your client seeks to address, the solution they propose, and the measurable outcomes they aim to achieve. Back up your narrative with compelling evidence, including statistics, case studies, and testimonials, to strengthen your argument and build credibility with funders.
 
 ### Structuring Your Proposal
 

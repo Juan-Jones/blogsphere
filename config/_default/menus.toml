@@ -14,23 +14,50 @@ weight = 2
 [[main]]
 name = "Make Money Online"
 url = "blog/ways-to-make-money-online/"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Creative Side Hustles"
 url = "blog/creative-side-hustles/"
+weight = 3
+
+[[main]]
+name = "Passive Income Ideas"
+url = "blog/passive-income-ideas/"
+weight = 3
+
+[[main]]
+name = "Best Freelance Websites"
+url = "blog/find-freelance-websites/"
 weight = 4
 
 [[main]]
-name = "Ecommerce"
-url = "blog/what-is-ecommerce/"
+name = "Online Marketing Guide"
+url = "blog/online-marketing-guide/"
 weight = 5
 
 [[main]]
 name = "Blog"
-url = "/blog"
+url = "blog/"
+weight = 7
+
+[[main]]
+name = "Pages"
+url = "#"
 weight = 6
-hasChildren = false
+hasChildren = true
+
+  [[main]]
+  parent = "Pages"
+  name = "Tags"
+  url = "tags/"
+  weight = 1
+
+  [[main]]
+  parent = "Pages"
+  name = "Categories"
+  url = "categories/"
+  weight = 2
 
 # footer menu
 [[footer]]

@@ -148,9 +148,7 @@ Startup Time: Minimal. Begin by researching legitimate platforms that offer paid
 
 Beginner Tips: As you delve into earning money by clicking ads, exercise caution and skepticism towards platforms promising unrealistic returns or requiring substantial investments upfront. Focus on joining established PTC websites with transparent payment systems and positive user reviews. Be consistent and disciplined in clicking ads daily to accumulate earnings over time. Monitor your progress and track your earnings to ensure transparency and accountability. Avoid clicking on ads indiscriminately or engaging in fraudulent activities, as this can result in account suspension or termination.
 
-### 18. Create and Sell Online Courses
-
-If you have expertise in a particular field or skill, consider creating and selling online courses. Platforms like [Udemy](https://udemy.com), {{< cloakedlink "Teachable affiliate program" "https://teachable.sjv.io/EKE0Oe" "Recommends Teachable" >}}, and Skillshare provide a marketplace for instructors to share their knowledge and earn passive income through course sales.
+### 18. 
 
 Startup Time: Moderate to high. Plan and develop your course content, create engaging video lectures, and launch your online course on the platform of your choice.
 

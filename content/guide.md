@@ -38,7 +38,7 @@ Launching a successful blog is an exciting journey that requires dedication, con
 
 ### Passive Income Investments
 
-Exploring various avenues such as real estate, dividend-yielding stocks, peer-to-peer lending, or royalties from creative work presents opportunities for generating earnings with minimal ongoing effort. These investment avenues can diversify portfolios, offering consistent returns over time. Engaging in diverse investment strategies like these aligns with the concept of [passive income investments](/blog/passive-income-investments).
+Exploring various avenues such as real estate, dividend-yielding stocks, peer-to-peer lending, or royalties from creative work presents opportunities for generating earnings with minimal ongoing effort. These investment avenues can diversify portfolios, offering consistent returns over time. Engaging in diverse investment strategies like these aligns with the concept of [passive income ideas](/blog/passive-income-ideas).
 
 #### Sign up for Newsletter
 

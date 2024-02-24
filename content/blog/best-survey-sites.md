@@ -5,7 +5,7 @@ image: "images/post/best-survey-sites.jpg"
 date: 2014-04-20T18:19:25+06:00
 categories: ["side hustles"]
 tags: ["additional income"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 

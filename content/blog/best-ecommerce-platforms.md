@@ -29,7 +29,7 @@ Before diving into the array of ecommerce platforms, it's essential to assess yo
 
 ### Shopify
 
-Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With its intuitive interface and extensive app store, [Shopify](/blog/shopify) allows users to create customizable online stores with ease. Key features include:
+Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With its intuitive interface and extensive app store, [Shopify](/blog/sell-on-shopify) allows users to create customizable online stores with ease. Key features include:
 
 - User-friendly interface,
 - Extensive app store for additional functionalities,

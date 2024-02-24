@@ -4,7 +4,7 @@ description: "Find real ways to make money online today like Amazon work from ho
 image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]
-tags: ["additional income"]
+tags: ["opportunities"]
 type: "featured" # available types: [featured/regular]
 draft: true
 ---

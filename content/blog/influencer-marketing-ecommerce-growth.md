@@ -5,7 +5,7 @@ image: "images/post/how-to-build-online-stores.jpg"
 date: 2024-02-17T18:19:25+06:00
 categories: ["ecommerce"]
 tags: ["digital storefront"]
-type: "featured" # available types: [featured/regular]
+type: "regular" # available types: [featured/regular]
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Components of B2B Ecommerce"
-description: "Explore the dynamic realm where businesses connect and transact online. Discover efficient procurement processes, seamless transactions, and tailored solutions reshaping the landscape of business-to-business commerce."
+description: "Unlock the potential of B2B ecommerce with innovative solutions tailored to streamline transactions and foster collaboration, from seamless transactions to robust data security."
 image: "images/post/b2b-ecommerce.jpg"
 date: 2020-08-05T18:19:25+06:00
 categories: ["ecommerce"]
