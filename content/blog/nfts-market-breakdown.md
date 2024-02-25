@@ -1,5 +1,5 @@
 ---
-title: "NFTs Market Breakdown: Buying, Selling, & Trading Non-Fungible Tokens"
+title: "Non-Fungible Tokens (NFTs): Buying, Selling, & Trading "
 description: "Our Non-Fungible Tokens (NFTs)  market breakdown addresses technology, applications, and implications of NFTs across art, music, gaming, collectables and more."
 image: "images/post/nfts-market-overview.jpg"
 date: 2011-08-24T18:19:25+06:00
