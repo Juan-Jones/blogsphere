@@ -1,4 +1,4 @@
-{{ $url := .Get 0 }}
-{{ $text := .Get 1 }}
-
-<a href="{{ $url | relURL }}">{{ $text }}</a>
+<a href="{{ .Get "url" }}">
+  <img src="{{ .Get "image" }}" alt="{{ .Get "alt" }}">
+  {{ .Get "text" }}
+</a>

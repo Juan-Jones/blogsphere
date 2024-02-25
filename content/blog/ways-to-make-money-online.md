@@ -193,7 +193,7 @@ Technology and Resources: Access to a reliable internet connection, suitable equ
 
 ### 12. Provide Language Tutoring Services
 
-{{< image src="/images/post/online-tutoring.jpg" caption="" alt="Online Tutoring" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Online Tutoring" webp="false" >}}
+{{< link url="https://teachable.sjv.io/c/3661625/1682405/12646" image="/images/instacart-delivery.jpg" alt="Make Money While You Sleep" text="Teachable" >}}
 
 If you're fluent in multiple languages, offer language tutoring services online. Platforms like italki or Verbling connect language learners with tutors for virtual lessons.
 
