@@ -41,8 +41,8 @@
             <!-- Previous page. -->
             {{ if $paginator.HasPrev }}
             <li class="page-item prev d-flex align-items-center">
-              <a class="page-link disabled" href="{{ .Paginator.Prev.URL | absURL }}" aria-label="Pagination Arrow"><i
-                  class="fas fa-arrow-left me-3"></i>{{ site.Params.previous_button }}
+              <a class="page-link disabled" href="{{ $paginator.Prev.URL }}" aria-label="Pagination Arrow"><i
+                class="fas fa-arrow-left me-3"></i>{{ site.Params.previous_button }}
               </a>
             </li>
             {{ else }}
@@ -93,8 +93,8 @@
             <!-- Next page. -->
             {{ if $paginator.HasNext }}
             <li class="page-item next d-flex align-items-center">
-              <a class="page-link arrow" href="{{ .Paginator.Next.URL | absURL }}" aria-label="Pagination">{{ site.Params.next_button }}<i
-                  class="fas fa-arrow-right ms-3"></i>
+              <a class="page-link arrow" href="{{ $paginator.Next.URL }}" aria-label="Pagination">{{ site.Params.next_button }}<i
+                class="fas fa-arrow-right ms-3"></i>
               </a>
             </li>
             {{ else }}
