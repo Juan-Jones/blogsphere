@@ -193,8 +193,9 @@ Technology and Resources: Access to a reliable internet connection, suitable equ
 
 ### 12. Provide Language Tutoring Services
 
-{{< link url="https://teachable.sjv.io/c/3661625/1682405/12646" image="/images/instacart-delivery.jpg" alt="Make Money While You Sleep" text="Teachable" >}}
-
+<!-- Paste your Impact HTML code snippet here -->
+<div id="impact-widget">
+<a href="https://blogify.pxf.io/c/3661625/1910840/22875" target="_top" id="1910840"><img src="//a.impactradius-go.com/display-ad/22875-1910840" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/3661625/1910840/22875" style="position:absolute;visibility:hidden;" border="0" /></div>
 If you're fluent in multiple languages, offer language tutoring services online. Platforms like italki or Verbling connect language learners with tutors for virtual lessons.
 
 Average Pay: $15 to $50 per hour.

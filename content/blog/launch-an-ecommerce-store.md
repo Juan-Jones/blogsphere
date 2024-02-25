@@ -30,7 +30,7 @@ Before diving into the intricacies of _launching your online store_, it's essent
 
 The first step in building your ecommerce store involves selecting the [best ecommerce platform](/blog/best-ecommerce-platforms). There are numerous ecommerce platforms available, each with its own features and capabilities.
 
-Consider factors such as your budget, technical expertise, scalability requirements, and desired customization options when choosing a platform. Shopify, for example, offers a user-friendly interface and comprehensive support, making it ideal for beginners. On the other hand, WooCommerce, a plugin for WordPress, provides greater flexibility and control for users familiar with the WordPress ecosystem.
+Consider factors such as your budget, technical expertise, scalability requirements, and desired customization options when choosing a platform. Shopify, for example, offers a user-friendly interface and comprehensive support, making it easy for beginners to [sell on Shopify](/blog/sell-on-shopify). On the other hand, WooCommerce, a plugin for WordPress, provides greater flexibility and control for users familiar with the WordPress ecosystem.
 
 ### Setting Up Your Store
 
