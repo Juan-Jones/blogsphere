@@ -22,7 +22,6 @@
 
     <!-- Include your custom description meta tag here -->
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.Description }}{{ else }}{{ .Params.Description }}{{ end }}" />
-    <link rel="canonical" href="{{ .Permalink }}" />
 
     {{ partial "head.html" . }}
 
