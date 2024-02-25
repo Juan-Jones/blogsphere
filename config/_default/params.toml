@@ -12,7 +12,10 @@ logo_text = "Earn Money Online"
 logo_webp = true # default is true
 # navbar fixed to top
 navbar_fixed = false
-
+# OpenGraph / Twitter Card metadata
+description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
+author = "Dejuan Jones"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
@@ -20,7 +23,7 @@ email = ""
 # contact form action
 contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works with https://formspree.io
 # search
-search = false
+search = true
 # google adsense, see https://www.google.com/adsense/
 google_adsense = "ca-pub-9965740454699088" # example: ca-pub-XXXXXXXXXX
 # Posts related Titles & Contents
@@ -37,7 +40,6 @@ related_posts = "Related Posts"
 showing_posts = "Showing Post From"
 no_categories_found = "No Categories Found"
 no_tags_found = "No Tags Found"
-
 mainSections = ["blog"]
 # about widget content
 about_widget_content = "Connect with us on social media!"
