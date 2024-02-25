@@ -11,6 +11,10 @@ draft: false
 
 In today's digital age, the traditional 9-to-5 job structure is gradually giving way to more flexible and diverse employment opportunities. One such trend that has gained significant traction is microtasking – the process of breaking down complex tasks into smaller, manageable units that can be distributed to a large number of people over the internet. Whether you're looking to supplement your income, explore new skills, or simply make the most of your spare time, microtasking offers a plethora of opportunities.
 
+{{< toc >}}
+
+## Where to Find MicroTask Gigs Online
+
 Before we jump into _finding microtask opportunities_ its important to understand the [definition of microtasks](/blog/what-is-microtasking). A microtask is a small, easily achievable task that typically requires minimal time and effort to complete. It is a component of a larger project or task that can be broken down into smaller, more manageable parts. Microtasks are often simple and straightforward, such as data entry, image labeling, or short surveys. They are designed to be completed quickly, allowing individuals to work on them in short bursts of time. Microtasks are commonly used in crowdsourcing and distributed labor models, where large projects are divided among a decentralized workforce to leverage collective efforts efficiently. The concept of microtasking has gained popularity in the digital age, offering flexible work opportunities and enabling businesses to outsource tasks effectively while optimizing productivity.But where exactly can you _find these microtasking gigs_? Let's delve into some of the most popular platforms and avenues where microtasking opportunities abound.
 
 ## CrowdSourcing Platforms

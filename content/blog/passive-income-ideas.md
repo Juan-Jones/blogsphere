@@ -20,8 +20,6 @@ What is Passive Income?
 -  Build assets: Building something for a source of income.
 -  Share or sell assets: Sharing can be renting out your garage or a room in your house. Selling assets could be selling unwanted items you don't use anymore.
 
-{{< toc >}}
-
 ## Factors to Consider Before Investing
 
 Before embarking on your _passive income investment_ journey, it's essential to assess several key factors to align your investment strategy with your financial goals and risk tolerance.

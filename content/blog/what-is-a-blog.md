@@ -7,10 +7,11 @@ categories: ["monetizing"]
 tags: ["business"]
 type: "featured" # available types: [featured/regular]
 draft: false
-tableOfContents: true
 ---
 
 In the digital landscape, where information flows ceaselessly and connectivity pervades every aspect of our lives, blogs stand as pillars of knowledge, creativity, and expression. But what exactly is a blog? Beyond its surface definition lies a dynamic platform that shapes conversations, empowers voices, and bridges communities. In this post we will exploring the essence of blogging, its origins, evolution, significance, and the myriad forms it takes in today's digital ecosystem.
+
+{{< toc >}}
 
 ## What is a Blog
 

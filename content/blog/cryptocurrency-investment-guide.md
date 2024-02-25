@@ -22,8 +22,6 @@ Investing in cryptocurrencies offers several potential benefits:
 
 Despite the compelling advantages of crypto investment, it's essential to recognize the inherent risks and volatility associated with this nascent asset class. Price fluctuations, regulatory uncertainty, security vulnerabilities, and market manipulation pose significant challenges for investors, underscoring the importance of diligence, research, and risk management strategies.
 
-{{< toc >}}
-
 ## What is Crypto?
 
 Cryptocurrencies are decentralized digital currencies that leverage cryptography for secure financial transactions. Unlike traditional fiat currencies, cryptocurrencies operate on decentralized networks, such as blockchain, which ensures transparency, immutability, and censorship resistance.

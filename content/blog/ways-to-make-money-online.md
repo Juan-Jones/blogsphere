@@ -17,6 +17,18 @@ The internet has transformed the way we work in the current digital era, present
 
 {{< toc >}}
 
+## History of Earning Money Online
+
+The [history](/blog/history) of earning money online traces back decades. The first money made online by a "normal person" is a fascinating story that reflects the transformative power of the internet. While there isn't a single definitive account due to the internet's decentralized nature and the countless transactions that have occurred, there are several notable instances that illustrate this milestone.
+
+One such story involves a man named Gary Thuerk, who is often credited with sending the first unsolicited mass email, or spam, in 1978. Thuerk, a marketing manager at Digital Equipment Corporation (DEC), used ARPANET, the precursor to the internet, to promote DEC's new line of computers. Although his email generated significant backlash and controversy, it also demonstrated the potential for reaching a wide audience quickly and inexpensively.
+
+Another pioneering example is the sale of a Sting CD on August 11, 1994, which is often considered one of the earliest e-commerce transactions. According to reports, a CD of Sting's "Ten Summoner's Tales" album was sold online through the NetMarket platform to a consumer in Philadelphia. This transaction marked a significant milestone in the history of online commerce, showcasing the feasibility and convenience of purchasing goods over the internet.
+
+Furthermore, the emergence of online auctions, particularly with the founding of eBay in 1995, provided ordinary individuals with a platform to buy and sell goods online. The story of Pierre Omidyar, eBay's founder, highlights how a simple idea for an online marketplace transformed into a global phenomenon, enabling individuals to conduct business from the comfort of their homes.
+
+These early examples demonstrate how ordinary individuals, armed with innovative ideas and access to the internet, were able to generate revenue and participate in online commerce. Over time, the internet has evolved into a vast ecosystem that has democratized entrepreneurship and commerce, empowering countless individuals to pursue their passions and create economic opportunities in ways that were previously unimaginable.
+
 ## Best Ways to Earn Money Online
 
 - Content Creation: Use content creation to share your expertise and creativity. Content creation encompasses a wide range of mediums. You can [create a blog for free](/blog/create-a-blog-for-free/), produce content on social media, [start a podcast](/blog/how-to-start-a-podcast), and so on. Consistency, authenticity, and value are key to building a loyal audience and monetizing your content effectively.

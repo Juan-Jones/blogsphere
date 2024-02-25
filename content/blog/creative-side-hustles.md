@@ -12,8 +12,6 @@ draft: false
 
 Why do you need _side hustles_ these days? To start with, it's expensive to live this day and age. You can't live comfortable unless you're not earning six figures; even more in many cities. Therefore, you must find an opportunity to earn additional income.
 
-{{< toc >}}
-
 ## Side Hustle Benefits
 
 What are the benefits of a side hustle? Its Simple Mathmatics! What if you lose your job or your car breaks down? You may even need a vacation! Even more importantly, no one has job security these days. I think it's safe to say, we can't predict the future. Therefore, it's essential to have a backup plan to be prepared for any situation. So the primary reason for discovering side hustle ideas is to earn supplemental income. Most people wouldn't mind earning a few extra coins from home. But as we all know, money doesn't grow on trees. And it's nearly impossible to survive without money. Therefore, it's vital to find [ways to make money](/blog/ways-to-make-money-online). To tell the truth, everyone should brainstorm side hustle ideas to earn extra moneys from home.
