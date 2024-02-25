@@ -1,5 +1,5 @@
 ---
-title: "Find the Best Freelance Websites on the Internet"
+title: "Find the Best Freelance Websites Online"
 description: "Find the best freelance websites and opportunities online. Explore platforms like Upwork, Fiverr, Freelancer and more."
 image: "images/post/freelance-sites.jpg"
 date: 2019-02-16T11:17:25+04:00
@@ -7,6 +7,8 @@ categories: ["gig economy"]
 tags: ["freelancing"]
 type: "featured" # available types: [featured/regular]
 draft: false
+aliases:
+  - "/blog/find-freelance-websites"
 ---
 
 This comprehensive guide unveils a curated list of the _best freelance websites_, serving as a compass for those navigating the expansive gig economy. From specialized platforms catering to writers, designers, developers, and beyond, to invaluable resources offering insights, tips, and support, this compilation aims to empower freelancers with a comprehensive toolkit for success in their professional endeavors.
