@@ -6,6 +6,13 @@
 <base href="{{ site.BaseURL }}">
 {{ end }}
 
+{{- if isset .Params "canonical" -}}
+  <link rel="canonical" href="{{ .Params.canonical }}" />
+{{- else -}}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{- end }}
+
+
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}
@@ -19,7 +26,8 @@
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
 <meta name="description" content="{{ .Params.Description | default site.Params.description }}">
-{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ with site.Params.author }}
+<meta name="author" content="{{ . }}">{{ end }}
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}

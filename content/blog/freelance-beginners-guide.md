@@ -115,7 +115,7 @@ Determining your pricing strategy can be challenging but essential for sustainab
 
 ### 12. Offer Freelance Writing Services
 
-If your're a newbie and have a way with words freelance writing is a good place to start. [Offering freelance writing services](/blog/offer-freelance-writing-services) can be a lucrative way to make money quickly. Whether you specialize in blog posts, articles, copywriting, or content marketing, businesses and publications are always in need of quality written content. Websites like {{< nofollow href="https://www.problogger.com" >}}Problogger{{< /nofollow >}}, {{< nofollow href="https://www.freelancewritingjobs.com" >}}FreelanceWritingJobs{{< /nofollow >}}, and Contena offer job listings and resources for freelance writers looking to find paid writing opportunities.
+If your're a newbie and have a way with words freelance writing is a good place to start. [Offering freelance writing services](/blog/offer-freelance-writing-services) can be a lucrative way to make money quickly. Whether you specialize in blog posts, articles, copywriting, or content marketing, businesses and publications are always in need of quality written content. Websites like (Problogger)[https://www.problogger.com], (FreelanceWritingJobs)[https://www.freelancewritingjobs.com], and Contena offer job listings and resources for freelance writers looking to find paid writing opportunities.
 
 ### 13. Find Freelance Websites and Opportunities that Align With Your Skills
 

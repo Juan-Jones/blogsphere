@@ -14,8 +14,12 @@ autoHeadingID = true
 # Robotstxt
 enableRobotsTXT = true
 # canonify urls
-canonifyurls = true
-
+canonifyurls = false
+[params]
+  Description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
+  Twitter_Image = "/images/logo.png"
+  Twitter_Site = "@PennysPetPresents"
+  Image = "/images/logo.png"  
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]

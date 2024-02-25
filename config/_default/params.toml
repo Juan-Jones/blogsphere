@@ -79,7 +79,7 @@ link = "https://blogify.pxf.io/c/3661625/1910828/22875"
 
 # cookies
 [cookies]
-enable = true
+enable = false
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"

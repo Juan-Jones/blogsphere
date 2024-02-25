@@ -30,8 +30,7 @@ The surge in remote work culture has spurred the proliferation of freelance webs
 
 {{< image src="images/post/upwork.jpg" caption="Upwork" alt="Upwork" height="493" width="1024" position="center" command="fill" option="q100" class="img-fluid" title="Upwork" webp="false" >}}
 
-To begin with, {{< nofollow href="https://www.upwork.com" >}}Upwork{{< /nofollow >}} is the _top freelance platform_ online in my opinion. It stands as a leader within its specific market, annually generating an estimated revenue surpassing $1 billion. Facilitating over three million jobs for a clientele of 5 million registered customers, its trajectory has seen remarkable evolution, solidifying its status as a dominant force since its inception in 1998. Originally known as Elance, the company underwent a series of rebranding and mergers. It transitioned to oDesk in 2003 and subsequently became oDesk-Elance a decade later in 2013. Finally, in 2015, the company reemerged under the brand name Upwork.
-
+To begin with, [Upwork](https://www.upwork.com) is the _top freelance platform_ online in my opinion. It stands as a leader within its specific market, annually generating an estimated revenue surpassing $1 billion. Facilitating over three million jobs for a clientele of 5 million registered customers, its trajectory has seen remarkable evolution, solidifying its status as a dominant force since its inception in 1998. Originally known as Elance, the company underwent a series of rebranding and mergers. It transitioned to oDesk in 2003 and subsequently became oDesk-Elance a decade later in 2013. Finally, in 2015, the company reemerged under the brand name Upwork.
 ### Fiverr
 
 Following closely is Fiverr, celebrated for its unique gig-based model. Fiverr offers a platform where freelancers can showcase their specific services, known as "gigs," allowing clients to easily browse and engage with the exact skills they require There are several opportunities including graphic designing, logos, games, posters, flyers, business cards, postcards, social media, and many others. One of the most beneficial aspects of Fiverr is there are lots of businesses and gurus who use {{< cloakedlink "Fiverrs" "https://go.fiverr.com/visit/?bta=194809&brand=fiverraffiliates" "Recommends Fiverr" >}} services. As a result, not only can you [make money on Fiverr](/blog/how-to-make-money-on-fiverr), but as an independent contractor you can name your price and get paid fair value.
@@ -64,7 +63,7 @@ The Writer Finder might be the most expensive, but they deliver skilled on-deman
 
  In today's digital age, freelancing offers immense opportunities for individuals to earn income, pursue their passions, and enjoy flexible work arrangements. Whether you're a [freelance beginner](/blog/freelance-beginners-guide) or expert, there are several opportunities to kickstart your freelance career and start earning money on your own term. writer, designer, developer, or consultant, this guide will provide you with actionable insights and strategies.
 
-- Guru.com: This platform focuses on connecting freelancers with businesses seeking expertise in fields like programming, design, and writing.
+- [Guru](https://guru.com): This platform focuses on connecting freelancers with businesses seeking expertise in fields like programming, design, and writing.
 - Remote.co: Offering remote job listings across various industries, Remote.co includes freelance opportunities in its repertoire.
 - SimplyHired.com: More than just a freelance platform, SimplyHired aggregates job listings from various sources, including freelance opportunities.
 - designs.com: A hub for designers, designs caters specifically to graphic designers, offering contests and project-based work.
@@ -79,7 +78,7 @@ The Writer Finder might be the most expensive, but they deliver skilled on-deman
 - Outsourcify.com: Primarily for tech and software development, Outsourcify caters to businesses seeking freelance developers.
 - Topcoder.com: Specializing in competitive programming and coding challenges, Topcoder hosts coding competitions and projects.
 - YunoJuno.com: Targeting freelancers in the creative and tech industries, YunoJuno offers opportunities in design, development, and more.
-- Microworkers.com: A microtask platform, {{< nofollow href="https://www.microworkers.com" >}}Microworkers.com{{< /nofollow >}} allows freelancers to complete small tasks for pay.
+- Microworkers.com: A microtask platform, [Microworkers](https://microworkers.com) allows freelancers to complete small tasks for pay.
 - Pangara.com: Targeting software developers and engineers, Pangara connects freelancers with tech projects.
 
 Remember, success in freelancing requires dedication, persistence, and continuous learning. Embrace challenges as opportunities for growth, stay true to your passion, and never stop pursuing your goals. With the right mindset and strategies, you can achieve financial independence and fulfillment through freelancing.

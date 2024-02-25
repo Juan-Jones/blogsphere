@@ -47,7 +47,7 @@ In the dynamic landscape of real estate investment, crowdfunding platforms have 
 
 ### 1. RealtyMogul
 
-{{< nofollow href="https://www.realtymogul.com" >}}RealtyMogul{{< /nofollow >}} is a prominent real estate crowdfunding platform offering a diverse range of investment opportunities, including commercial properties, multifamily residences, and real estate debt. With a user-friendly interface and thorough due diligence process, RealtyMogul provides investors with access to curated investment opportunities across various asset classes.
+RealtyMogul.com is a prominent real estate crowdfunding platform offering a diverse range of investment opportunities, including commercial properties, multifamily residences, and real estate debt. With a user-friendly interface and thorough due diligence process, RealtyMogul provides investors with access to curated investment opportunities across various asset classes.
 
 ### 2. Fundrise
 
@@ -55,7 +55,7 @@ Fundrise.com is a leading real estate investment platform that leverages technol
 
 ### 3. CrowdStreet
 
-CrowdStreet.com is a marketplace connecting accredited investors with institutional-quality real estate investments. With a focus on commercial properties and development projects, {{< nofollow href="https://www.crowdstreet.com" >}}CrowdStreet{{< /nofollow >}} provides investors with access to direct real estate investments and syndicated deals, offering a wide range of investment opportunities across different asset classes and risk profiles.
+CrowdStreet.com is a marketplace connecting accredited investors with institutional-quality real estate investments. With a focus on commercial properties and development projects, CrowdStreet.com provides investors with access to direct real estate investments and syndicated deals, offering a wide range of investment opportunities across different asset classes and risk profiles.
 
 ### 4. RealtyShares
 
@@ -63,7 +63,7 @@ RealtyShares.com is a real estate crowdfunding platform that facilitates debt an
 
 ### 5. PeerStreet
 
-{{< nofollow href="https://www.peerstreet.com" >}}PeerStreet{{< /nofollow >}} is a peer-to-peer lending platform specializing in short-term real estate debt investments. By partnering with vetted private lenders, PeerStreet offers investors access to high-yield, asset-backed loans secured by residential and commercial properties, providing opportunities for passive income and portfolio diversification.
+PeerStreet.com is a peer-to-peer lending platform specializing in short-term real estate debt investments. By partnering with vetted private lenders, PeerStreet offers investors access to high-yield, asset-backed loans secured by residential and commercial properties, providing opportunities for passive income and portfolio diversification.
 
 ### 6. Patch of Land
 

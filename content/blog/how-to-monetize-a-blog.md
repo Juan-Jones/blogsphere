@@ -47,7 +47,7 @@ Google Adsense, a widely recognized monetization tool, allows bloggers to [make 
 
 ### Sell Memberships and Subscriptions
 
-Offering premium content or membership programs to loyal readers can be a lucrative strategy. By providing exclusive access to content, forums, or resources for a subscription fee, bloggers can build a community and generate recurring revenue. Platforms like [Patreon](https://www.patreon.com) and {{< nofollow href="https://www.substack.com" >}}Substack{{< /nofollow >}} enable creators to monetize their content directly from their audience.
+Offering premium content or membership programs to loyal readers can be a lucrative strategy. By providing exclusive access to content, forums, or resources for a subscription fee, bloggers can build a community and generate recurring revenue. Platforms like Patreon.com and Substack.com enable creators to monetize their content directly from their audience.
 
 ### Promote and Sell Physical Products:
 
