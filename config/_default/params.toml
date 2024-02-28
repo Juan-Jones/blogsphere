@@ -14,6 +14,14 @@ logo_webp = false # default is true
 navbar_fixed = false
 author = "Dejuan Jones"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+
+baseURL = "https://earnonlinemoney.org"
+
+
+header = "Earn Money Online"
+facebook = "earnmoneynowonline"
+twitter = "moneyonline_fre"
+linkedin = "earn-money-online-free"
 # contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
