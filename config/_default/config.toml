@@ -16,6 +16,17 @@ enableRobotsTXT = true
 # canonify urls
 canonifyURLs = true
 
+############################# Schema ##############################
+
+[params]
+author = "Dejuan Jones"
+logo = "images/logo.jpg"
+title = "Earn Money Online"
+
+facebook = "earnmoneynowonline"
+twitter = "moneyonline_fre"
+linkedin = "earn-money-online-free"
+
 ############################# Sitemap ##############################
 [sitemap]
   changefreq = "daily"
@@ -37,7 +48,6 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
 quality = 90
-canonifyURLs = true
 
 ############################# Caches ###############################
 [caches]
