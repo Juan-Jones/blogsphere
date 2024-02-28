@@ -18,8 +18,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+<!-- Regular Meta Description -->
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}">
+
+<!-- Open Graph Meta Description -->
+{{ with .Params.description }}
+  <meta property="og:description" content="{{ . }}">
+{{ else }}
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+{{ end }}
+
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}
@@ -33,8 +44,13 @@
 {{ partialCached "site-verifications.html" . }}
 
 
-<!-- opengraph and twitter card -->
-{{ partial "basic-seo.html" . }}
+<!-- Twitter Meta Description -->
+{{ with .Params.twitter_description }}
+  <meta name="twitter:description" content="{{ . }}">
+{{ else }}
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ end }}
+
 
 <!-- custom script -->
 {{ site.Params.custom_script | safeHTML}}
@@ -66,3 +82,8 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
+
+<!-- Open Graph -->
+
+{{ partial "schema.html" . }}
+
