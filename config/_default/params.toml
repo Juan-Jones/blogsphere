@@ -88,7 +88,6 @@ button = "I Accept"
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 # available widget : about,categories,newsletter,recent-post
 
-
 # Subscription
 [subscription]
 enable = true
