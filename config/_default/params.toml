@@ -74,7 +74,7 @@ button_link = "guide/"
 # Advertise
 [advertisement]
 image = "images/earn-internet-income.png"
-link = ""
+link = "https://earnonlinemoney.org"
 
 # cookies
 [cookies]
