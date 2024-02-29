@@ -16,17 +16,6 @@ enableRobotsTXT = true
 # canonify urls
 canonifyURLs = true
 
-############################# Schema ##############################
-
-[params]
-author = "Dejuan Jones"
-logo = "images/logo.jpg"
-title = "Earn Money Online"
-
-facebook = "earnmoneynowonline"
-twitter = "moneyonline_fre"
-linkedin = "earn-money-online-free"
-
 ############################# Sitemap ##############################
 [sitemap]
   changefreq = "daily"
