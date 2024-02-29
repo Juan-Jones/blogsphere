@@ -1,8 +1,6 @@
 ---
 title: "Ultimate Affiliate Marketing Guide"
 description: "Master affiliate marketing with our comprehensive guide. Learn strategies, tips, and tricks to boost revenue and maximize your affiliate earnings."
-twitter_decription: "Master affiliate marketing with our comprehensive guide. Learn strategies, tips, and tricks to boost revenue and maximize your affiliate earnings"
-twitter_description: "Master affiliate marketing with our comprehensive guide. Learn strategies, tips, and tricks to boost revenue and maximize your affiliate earnings."
 image: "images/post/affiliate-marketing.jpg"
 date: 2023-08-27T18:19:25+06:00
 categories: ["digital marketing"]

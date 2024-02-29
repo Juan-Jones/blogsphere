@@ -1,6 +1,6 @@
 ---
 title: Components of B2B Ecommerce"
-description: "Unlock the potential of B2B ecommerce with innovative solutions tailored to streamline transactions and foster collaboration, from seamless transactions to robust data security."
+description: "Unlock B2B ecommerce potential with tailored solutions, streamlining transactions and fostering collaboration, ensuring seamless operations and data security."
 image: "images/post/b2b-ecommerce.jpg"
 date: 2020-08-05T18:19:25+06:00
 categories: ["ecommerce"]
