@@ -25,7 +25,6 @@ require (
 	github.com/gethugothemes/hugo-modules/shortcodes/codepen v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/collapse v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/gallery v0.0.0-20240228105219-38c9f9c6e062 // indirect
-	github.com/gethugothemes/hugo-modules/shortcodes/image v0.0.0-20221221043855-8d5b652c0020 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/notice v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/table-of-contents v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/tabs v0.0.0-20240228105219-38c9f9c6e062 // indirect
@@ -33,6 +32,4 @@ require (
 	github.com/gethugothemes/hugo-modules/shortcodes/vimeo-lite v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/youtube-lite v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
-	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
-	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 )
