@@ -88,7 +88,7 @@ Creators can explore licensing and syndication deals to monetize their content b
 
 ## Strategic Integration with Facebook
 
-Integrating Facebook into the [blog monetization strategy](/blog/monetize-a-blog) enhances visibility, engagement, and monetization potential across the platform's ecosystem. Here are some strategic approaches to maximize Facebook's impact on blog monetization:
+Integrating Facebook into the [blog monetization strategy](/blog/how-to-monetize-a-blog) enhances visibility, engagement, and monetization potential across the platform's ecosystem. Here are some strategic approaches to maximize Facebook's impact on blog monetization:
 
 #### Content Syndication and Promotion
 
