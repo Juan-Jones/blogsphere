@@ -37,7 +37,7 @@ While micro-tasking presents numerous advantages, it's essential to acknowledge 
 - Task Availability: Task availability can fluctuate on micro-tasking platforms, impacting your ability to secure consistent work. Be proactive in seeking new opportunities, and explore multiple platforms to increase your chances of finding tasks regularly.
 - Job Refusal: Task providers may reject your work if it does not meet their standards. While occasional rejections are inevitable, use them as learning experiences to improve your skills and avoid repeated mistakes.
 
-### Where to Find Find Microtasks Gigs
+### Where to Find Find Microtask Gigs
 
 Microtasking has emerged as a flexible and accessible way for individuals to earn extra income. Several online platforms offer a plethora of microtasking opportunities, catering to a wide range of skills and interests. Websites like Amazon Mechanical Turk, TaskRabbit, and Clickworker connect freelancers with short, manageable tasks that can be completed quickly. For those with a flair for creativity, [platforms like Etsy](/blog/sell-products-on-etsy) and Upwork also feature microtasking gigs in areas like graphic design, writing, and digital marketing.
 

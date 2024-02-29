@@ -1,6 +1,6 @@
 ---
 title: "Best Online Course Platforms"
-description: "Discover the best online course platforms for diverse learning needs and interests. Explore leading platforms like Coursera, Udemy, edX, LinkedIn Learning, and Skillshare."
+description: "Discover the best online course platforms for diverse learning needs and interests on platforms like Coursera, Udemy, edX, LinkedIn Learning, and Skillshare."
 image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["side hustles"]

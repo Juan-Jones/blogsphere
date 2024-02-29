@@ -1,6 +1,6 @@
 ---
 title: "Get Paid For Your Photos"
-description: "Find out how to get paid for your photos. Explore secrets to success in selling stock photos, mastering your craft, creating marketing content, accepting feedback, licensing options and more."
+description: "Learn to monetize your photos: Sell stock, master your craft, create marketing content, accept feedback, explore licensing options, and more."
 image: "images/post/paid-for-photo.jpg"
 date: 2024-02-17T18:19:25+06:00
 categories: ["personal finance"]

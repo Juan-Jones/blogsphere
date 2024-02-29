@@ -1,6 +1,6 @@
 ---
-title: "Sensational Grant Writing Strategies, Tips, and Best Practices"
-description: "The secrets of successful grant writing for your clients with our comprehensive guide. Learn essential strategies, tips, and best practices to craft compelling proposals."
+title: "Sensational Grant Writing Tips"
+description: "Master grant writing for your clients with our comprehensive guide. Find strategies, tips, and best practices to craft compelling proposals successfully."
 image: "images/post/write-grants.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Make Money on Udemy"
-description: "Learn how to make money on Udemy. Find strategies to create high-quality courses, optimize visibility, and leverage Udemy's marketing tools. Start your journey to becoming a successful instructor today!"
+description: "Unlock Udemy's money-making secrets: craft stellar courses, boost visibility, and leverage marketing tools to thrive as an instructor!"
 image: "images/post/earn-money-on-udemy.jpg"
 date: 2023-05-15T14:19:25+06:00
 categories: ["side hustles"]
