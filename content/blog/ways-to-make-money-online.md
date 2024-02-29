@@ -218,7 +218,7 @@ Language Tutoring Level of Complexity: The level of difficulty can range from mo
 
 Tutoring Resources: Utilize language learning materials, textbooks, grammar books, and online resources to support your tutoring. Familiarize yourself with language learning apps, dictionaries, and educational websites to provide additional learning tools for your students.
 
-Teaching Platform and Tools: Learn how to navigate tutoring platforms like [Italki](https://Italki.com), Verbling.com, or similar online teaching software. Understanding scheduling features, utilizing interactive tools for teaching, and managing sessions efficiently are key skills to master.
+Teaching Platform and Tools: Learn how to navigate tutoring platforms like Italki.com, Verbling.com, or similar online teaching software. Understanding scheduling features, utilizing interactive tools for teaching, and managing sessions efficiently are key skills to master.
 
 ### 13. Teach Woodworking Classes Online
 
@@ -393,7 +393,7 @@ Website Developer Tools and Resources: Access to web design software, like Adobe
 
 ### 26. Provide Genealogy Research
 
-Help individuals find information about their family history by providing online genealogy research services. This involves conducting in-depth research using digital resources to uncover and compile ancestral details for clients. Our recommendations [Ancestry.com](https://www.ancestry.com/c/affiliates) and TheGenealogist.com.
+Help individuals find information about their family history by providing online genealogy research services. This involves conducting in-depth research using digital resources to uncover and compile ancestral details for clients. Our recommendations Ancestry.com and TheGenealogist.com.
 
 Average Pay: $20 to $50 per hour.
 
