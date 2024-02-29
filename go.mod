@@ -25,7 +25,6 @@ require (
 	github.com/gethugothemes/hugo-modules/shortcodes/codepen v0.0.0-20221221043855-8d5b652c0020 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/collapse v0.0.0-20221221043855-8d5b652c0020 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/gallery v0.0.0-20221221043855-8d5b652c0020 // indirect
-	github.com/gethugothemes/hugo-modules/shortcodes/image v0.0.0-20221221043855-8d5b652c0020 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/notice v0.0.0-20221221043855-8d5b652c0020 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/table-of-contents v0.0.0-20221221043855-8d5b652c0020 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/tabs v0.0.0-20221221043855-8d5b652c0020 // indirect

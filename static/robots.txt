@@ -1,5 +1,7 @@
-Sitemap: https://earnonlinemoney.org/sitemap.xml
-
 User-agent: *
-
+Disallow: /page/*
 Disallow: /tags/
+Disallow: /blog/?p=*
+Disallow: /categories/?p=*
+
+Sitemap: https://earnonlinemoney.org/sitemap.xml
