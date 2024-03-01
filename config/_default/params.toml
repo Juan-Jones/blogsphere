@@ -12,9 +12,11 @@ logo_text = "Earn Money Online"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
+[metadata]
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
+keywords = ["earn money online", "make money online", "side hustles", "passive income ideas", "earn money online quick", "make money online free", "work from home", "passive income ideas"]
 author = "Dejuan Jones"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/og-image.jpg"  # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
@@ -72,7 +74,7 @@ button_link = "guide/"
 
 # Advertise
 [advertisement]
-image = "images/earn-internet-income.png"
+image = "images/money-online.png"
 link = "https://earnonlinemoney.org"
 
 # cookies
