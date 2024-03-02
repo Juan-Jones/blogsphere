@@ -38,11 +38,11 @@ At its core, a blog is a dynamic platform for publishing content in a chronologi
 
 Key components of a blog include:
 
-1.  Content: The lifeblood of any blog, content encompasses articles, stories, tutorials, reviews, and other forms of creative expression.
-2.  Design: The visual layout, typography, and branding elements that shape the look and feel of a blog, reflecting the personality and style of its creator.
-3.  Navigation: Intuitive navigation menus, search functionality, and categories/tags help users explore and discover content within a blog.
-4.  Interactivity: Features such as comments, social sharing buttons, and interactive widgets facilitate engagement and foster community among readers.
-5.  Monetization: Many bloggers explore various monetization strategies, including advertising, sponsored content, affiliate marketing, and product sales, to generate income from their blogs.
+1. Content: The lifeblood of any blog, content encompasses articles, stories, tutorials, reviews, and other forms of creative expression.
+2. Design: The visual layout, typography, and branding elements that shape the look and feel of a blog, reflecting the personality and style of its creator.
+3. Navigation: Intuitive navigation menus, search functionality, and categories/tags help users explore and discover content within a blog.
+4. Interactivity: Features such as comments, social sharing buttons, and interactive widgets facilitate engagement and foster community among readers.
+5. Monetization: Many bloggers explore various monetization strategies, including advertising, sponsored content, affiliate marketing, and product sales, to generate income from their blogs.
 
 ### The Role and Impact of Blogs
 

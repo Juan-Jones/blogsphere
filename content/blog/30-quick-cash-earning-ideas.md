@@ -69,7 +69,6 @@ Startup Time: Low. Creating a listing on rental platforms takes 15-30 minutes. T
 
 Beginner Tips: Give accurate descriptions, be detailed about your space. Research similar spaces for pricing. Be flexible, offer availability during peak hours. Practice clear communication, communicate booking details clearly. Maintain security by installing security measures for safety.
 
-
 ### 8. Participate in Focus Groups
 
 Various companies often conduct focus groups to gather feedback on products, services, and marketing campaigns. Participating in these sessions can earn you cash rewards or gift cards, depending on the duration and complexity of the study. Marketing sites like [FocusGroup.com](https://www.focusgroup.com) and [FindFocusGroups.com](https://findfocusgroups.com) help connect participants with upcoming focus group opportunities in their area.
@@ -134,7 +133,7 @@ Startup Time: Extremly low. Research reputable clinical trial centers online or 
 
 Beginner Tips: Prioritize safety and informed decision-making. Communicate openly with the research team. Follow trial protocols diligently. Keep track of appointments and follow-up visits. Contribute to scientific research while potentially earning compensation.
 
-### 16. Online Data Entry 
+### 16. Online Data Entry
 
 Online data entry involves entering and processing information into spreadsheets, databases, or online forms for businesses, organizations, or individuals. Find data entry jobs on freelance platforms, remote job boards, or specialized data entry websites, and earn money for completing data entry tasks accurately and efficiently.
 
@@ -148,7 +147,7 @@ Startup Time: Minimal. Begin by researching legitimate platforms that offer paid
 
 Beginner Tips: As you delve into earning money by clicking ads, exercise caution and skepticism towards platforms promising unrealistic returns or requiring substantial investments upfront. Focus on joining established PTC websites with transparent payment systems and positive user reviews. Be consistent and disciplined in clicking ads daily to accumulate earnings over time. Monitor your progress and track your earnings to ensure transparency and accountability. Avoid clicking on ads indiscriminately or engaging in fraudulent activities, as this can result in account suspension or termination.
 
-### 18. 
+### 18
 
 Startup Time: Moderate to high. Plan and develop your course content, create engaging video lectures, and launch your online course on the platform of your choice.
 
@@ -194,7 +193,7 @@ Startup Time: High. Research investment options, open an investment account, and
 
 Tips for Beginners: Start with a diversified investment portfolio, spread your investments across different asset classes, sectors, and geographic regions to mitigate risk and enhance long-term returns. Practice disciplined investing habits, set realistic investment goals, and adopt a long-term perspective to weather market volatility and achieve financial success and security over time. Stay informed about market trends, economic indicators, and geopolitical events that may impact investment markets and asset prices, and adjust your investment strategy accordingly to optimize returns and manage risk effectively.
 
-### 24. 
+### 24
 
 _Startup Time:_ Low to moderate. Create profiles on platforms like Upwork, Freelancer, and Fiverr, and start pitching to clients.
 

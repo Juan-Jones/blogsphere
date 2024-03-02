@@ -77,7 +77,7 @@ Threats:
 - Skill obsolescence: Rapid technological advancements and changes in industry trends can render certain skills obsolete, requiring freelancers to continuously update their skills and stay relevant in the marketplace.
 - Burnout: Could experience burnout due to long working hours, tight deadlines, and the pressure to consistently deliver high-quality work without adequate support or resources.
 
-### 3. Research the Freelance Marketplace 
+### 3. Research the Freelance Marketplace
 
 For beginners, you should always start with researching the freelance marketplace. This will help you indentify threats, opportunities, as well as strenths and weaknesses. You can discover information regarding your competitors as well as your business. Choose Your Niche Specializing in a specific niche can help you stand out in a crowded marketplace and attract clients who value your expertise. Consider the demand for your chosen niche, as well as your level of interest and proficiency in that area.
 
@@ -119,7 +119,7 @@ If your're a newbie and have a way with words freelance writing is a good place 
 
 ### 13. Find Freelance Websites and Opportunities that Align With Your Skills
 
-As you embark on your freelance journey you will find a vast array of opportunities tailored to your skills and interests on [freelance websites](/blog/best-freelance-websites). From creative writing to software development, these platforms offer a spectrum of projects that align with your passions. With intuitive interfaces and robust search features, navigating these platforms becomes a seamless experience, empowering you to connect with projects that resonate with your expertise and aspirations. As a result, you can [make money on Fiverr](/blog/how-to-make-money-on-fiverr), Behance.com, Dribble.com, and many others. 
+As you embark on your freelance journey you will find a vast array of opportunities tailored to your skills and interests on [freelance websites](/blog/best-freelance-websites). From creative writing to software development, these platforms offer a spectrum of projects that align with your passions. With intuitive interfaces and robust search features, navigating these platforms becomes a seamless experience, empowering you to connect with projects that resonate with your expertise and aspirations. As a result, you can [make money on Fiverr](/blog/how-to-make-money-on-fiverr), Behance.com, Dribble.com, and many others.
 
 Create a compelling profile that highlights your expertise, experience, and portfolio, and actively bid on relevant projects. Be prepared to compete with other freelancers, and consider starting with smaller projects to build your reputation and client base.
 

@@ -29,28 +29,27 @@ What are you supposed to do if you’re scammed? If you have a complaint, or som
 
 Detecting Online Scams
 
-1.  Exercise Caution with Unsolicited Emails: Be wary of unsolicited emails claiming to be from reputable organizations or individuals. Phishing emails often masquerade as legitimate correspondence, urging recipients to click on malicious links or provide personal information. Look for telltale signs of phishing, such as generic greetings, spelling errors, and suspicious attachments or URLs.
-    
-2.  Verify the Source: Before clicking on any links or providing confidential information, take the time to verify the authenticity of the sender or website. Double-check email addresses, domain names, and contact details to ensure they align with legitimate sources. When in doubt, contact the organization directly through official channels to confirm the validity of the communication.
-    
-3.  Scrutinize Requests for Personal Information: Exercise caution when asked to provide sensitive information, such as passwords, Social Security numbers, or financial data. Legitimate organizations typically do not request such information via email or unsolicited messages. Refrain from sharing personal or financial details unless you can verify the identity and legitimacy of the recipient.
-    
-4.  Beware of Urgent Appeals: Scammers often create a sense of urgency to pressure individuals into taking immediate action. Whether it's a limited-time offer, a threat of account suspension, or a purported emergency, exercise skepticism when confronted with urgent appeals. Take the time to investigate the legitimacy of the request before proceeding.
-    
-5.  Monitor Financial Transactions: Regularly review your bank statements, credit card bills, and online transactions for any unauthorized or suspicious activity. Report any discrepancies or unauthorized charges to your financial institution immediately. By staying vigilant, you can mitigate the impact of fraudulent transactions and protect your financial assets.
-    
+1. Exercise Caution with Unsolicited Emails: Be wary of unsolicited emails claiming to be from reputable organizations or individuals. Phishing emails often masquerade as legitimate correspondence, urging recipients to click on malicious links or provide personal information. Look for telltale signs of phishing, such as generic greetings, spelling errors, and suspicious attachments or URLs.
+
+2. Verify the Source: Before clicking on any links or providing confidential information, take the time to verify the authenticity of the sender or website. Double-check email addresses, domain names, and contact details to ensure they align with legitimate sources. When in doubt, contact the organization directly through official channels to confirm the validity of the communication.
+
+3. Scrutinize Requests for Personal Information: Exercise caution when asked to provide sensitive information, such as passwords, Social Security numbers, or financial data. Legitimate organizations typically do not request such information via email or unsolicited messages. Refrain from sharing personal or financial details unless you can verify the identity and legitimacy of the recipient.
+
+4. Beware of Urgent Appeals: Scammers often create a sense of urgency to pressure individuals into taking immediate action. Whether it's a limited-time offer, a threat of account suspension, or a purported emergency, exercise skepticism when confronted with urgent appeals. Take the time to investigate the legitimacy of the request before proceeding.
+
+5. Monitor Financial Transactions: Regularly review your bank statements, credit card bills, and online transactions for any unauthorized or suspicious activity. Report any discrepancies or unauthorized charges to your financial institution immediately. By staying vigilant, you can mitigate the impact of fraudulent transactions and protect your financial assets.
 
 Avoiding Online Scams
 
-1.  Educate Yourself: Stay informed about the latest online scams and fraud trends. Familiarize yourself with common tactics used by scammers and learn how to identify red flags. Numerous resources, including government agencies, consumer protection organizations, and cybersecurity blogs, offer valuable insights and guidance on recognizing and avoiding online scams.
-    
-2.  Implement Strong Security Measures: Strengthen your online security by implementing robust password management practices, enabling two-factor authentication, and keeping your software and antivirus programs up to date. Consider using reputable cybersecurity tools and services to safeguard your devices and data from malicious threats.
-    
-3.  Exercise Discretion on Social Media: Exercise caution when sharing personal information or engaging with unfamiliar individuals on social media platforms. Avoid disclosing sensitive details, such as your address, phone number, or vacation plans, to prevent unauthorized access or exploitation by malicious actors. Be selective about accepting friend requests or connections from unknown users.
-    
-4.  Verify Website Authenticity: Before making online purchases or entering sensitive information on a website, verify its authenticity and security measures. Look for HTTPS encryption, padlock icons, and trust seals indicating that the site employs secure protocols for data transmission. Be wary of unfamiliar websites or offers that seem too good to be true.
-    
-5.  Trust Your Instincts: Listen to your instincts and exercise caution when something feels off or too good to be true. If an offer or opportunity seems suspicious or overly enticing, take a step back and conduct thorough research before proceeding. Trusting your intuition can help you avoid falling victim to online scams and fraudulent schemes.
+1. Educate Yourself: Stay informed about the latest online scams and fraud trends. Familiarize yourself with common tactics used by scammers and learn how to identify red flags. Numerous resources, including government agencies, consumer protection organizations, and cybersecurity blogs, offer valuable insights and guidance on recognizing and avoiding online scams.
+
+2. Implement Strong Security Measures: Strengthen your online security by implementing robust password management practices, enabling two-factor authentication, and keeping your software and antivirus programs up to date. Consider using reputable cybersecurity tools and services to safeguard your devices and data from malicious threats.
+
+3. Exercise Discretion on Social Media: Exercise caution when sharing personal information or engaging with unfamiliar individuals on social media platforms. Avoid disclosing sensitive details, such as your address, phone number, or vacation plans, to prevent unauthorized access or exploitation by malicious actors. Be selective about accepting friend requests or connections from unknown users.
+
+4. Verify Website Authenticity: Before making online purchases or entering sensitive information on a website, verify its authenticity and security measures. Look for HTTPS encryption, padlock icons, and trust seals indicating that the site employs secure protocols for data transmission. Be wary of unfamiliar websites or offers that seem too good to be true.
+
+5. Trust Your Instincts: Listen to your instincts and exercise caution when something feels off or too good to be true. If an offer or opportunity seems suspicious or overly enticing, take a step back and conduct thorough research before proceeding. Trusting your intuition can help you avoid falling victim to online scams and fraudulent schemes.
 
 Here are 11 ways to avoid scams:
 

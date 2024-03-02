@@ -22,7 +22,7 @@ Creating a blog for free involves navigating through a sea of platforms, finding
 
 Before diving into the technical aspects of creating a blog, take some time to brainstorm and define the purpose of your blog. What do you want to share with your audience, and who is your target demographic? . Below is 11 steps to _create your own free blog_ and start making an impact online:
 
-### 1. Choose a Blog Topic 
+### 1. Choose a Blog Topic
 
 Here are a few blog topics to start with:
 
@@ -79,7 +79,7 @@ So the next question is, [how can you monetize your blog](/blog/how-to-monetize-
 
 If you are unsure about the monetizing strategies you should use, you could always look at the strategies your competitors are using. Every site is different. Therefore, it’s critical to identify profitable monetization strategies. More importantly, you need to understand why these strategies are profitable.
 
-### 9. Proofread and Edit your Blog 
+### 9. Proofread and Edit your Blog
 
 You'll need to tidy up your blog before you create your first post. This involves proofreading, analyzing technical issues, and addressing SEO optimization elements. Addressing these issues is important because your blog will be visible across the Web once it's published.
 

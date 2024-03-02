@@ -31,9 +31,10 @@ The surge in remote work culture has spurred the proliferation of freelance webs
 {{< image src="images/post/upwork.jpg" caption="Upwork" alt="Upwork" height="493" width="1024" position="center" command="fill" option="q100" class="img-fluid" title="Upwork" webp="false" >}}
 
 To begin with, [Upwork](https://www.upwork.com) is the _top freelance platform_ online in my opinion. It stands as a leader within its specific market, annually generating an estimated revenue surpassing $1 billion. Facilitating over three million jobs for a clientele of 5 million registered customers, its trajectory has seen remarkable evolution, solidifying its status as a dominant force since its inception in 1998. Originally known as Elance, the company underwent a series of rebranding and mergers. It transitioned to oDesk in 2003 and subsequently became oDesk-Elance a decade later in 2013. Finally, in 2015, the company reemerged under the brand name Upwork.
+
 ### Fiverr
 
-Following closely is Fiverr, celebrated for its unique gig-based model. Fiverr offers a platform where freelancers can showcase their specific services, known as "gigs," allowing clients to easily browse and engage with the exact skills they require There are several opportunities including graphic designing, logos, games, posters, flyers, business cards, postcards, social media, and many others. One of the most beneficial aspects of Fiverr is there are lots of businesses and gurus who use {{< cloakedlink "Fiverrs" "https://go.fiverr.com/visit/?bta=194809&brand=fiverraffiliates" "Recommends Fiverr" >}} services. As a result, not only can you [make money on Fiverr](/blog/how-to-make-money-on-fiverr), but as an independent contractor you can name your price and get paid fair value.
+Following closely is Fiverr, celebrated for its unique gig-based model. Fiverr offers a platform where freelancers can showcase their specific services, known as "gigs," allowing clients to easily browse and engage with the exact skills they require There are several opportunities including graphic designing, logos, games, posters, flyers, business cards, postcards, social media, and many others. One of the most beneficial aspects of Fiverr is there are lots of businesses and gurus who use {{< cloakedlink "Fiverrs" "<https://go.fiverr.com/visit/?bta=194809&brand=fiverraffiliates>" "Recommends Fiverr" >}} services. As a result, not only can you [make money on Fiverr](/blog/how-to-make-money-on-fiverr), but as an independent contractor you can name your price and get paid fair value.
 
 ### Contently
 
@@ -45,7 +46,7 @@ Contently is a freelance platform that connects businesses with publishers. This
 
 {{< image src="images/post/freelancer.jpg" caption="Freelancer" alt="Freelancer.com" height="688" width="1024" position="center" command="fill" option="q100" class="img-fluid" title="Freelancer" webp="false" >}}
 
-Why choose {{< cloakedlink "Freelancer" "https://www.freelancer.com/get/freelegitmonefve" "Recommends Freelancer" >}}. For starters, there are many reasons to use Freelancer.com. To begin with, it's an established network that is liked by most independent contractors. Freelancer.com employs over 40 million workers and on-demand workers around the world. The company has a global reach that services 24-7 countries, regions, and territories. In addition, memberships are free. More importantly, members can quickly find gigs and get paid.
+Why choose {{< cloakedlink "Freelancer" "<https://www.freelancer.com/get/freelegitmonefve>" "Recommends Freelancer" >}}. For starters, there are many reasons to use Freelancer.com. To begin with, it's an established network that is liked by most independent contractors. Freelancer.com employs over 40 million workers and on-demand workers around the world. The company has a global reach that services 24-7 countries, regions, and territories. In addition, memberships are free. More importantly, members can quickly find gigs and get paid.
 
 ### ProBlogger
 
