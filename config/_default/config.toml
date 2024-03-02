@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://earnonlinemoney.org"
 title = "Earn Money Online"
-theme = "iwriter-hugo"
-# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "UTC"
+theme = "geeky-hugo"
+languageName = "En"
+languageCode = "en-us"
 # post pagination
-paginate = "4" # see https://gohugo.io/extras/pagination/
+paginate = "8"
 # post excerpt
-summaryLength = "15" # see https://gohugo.io/content-management/excerpts/
+summaryLength = "25"
 # google analytics
 googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 autoHeadingID = true 
@@ -15,15 +15,18 @@ autoHeadingID = true
 enableRobotsTXT = true
 # canonify urls
 canonifyURLs = true
-# disable language
-disableLanguages = [] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
-hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+
+############################# Sitemap ##############################
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 1.0
 
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.88.1"
+min = "0.87.0"
 
 ############################# Outputs ##############################
 [outputs]
@@ -45,15 +48,15 @@ maxAge = "720h"
 dir = ":resourceDir/_gen"
 maxAge = "720h"
 
-
 ############################# Markup ###############################
 [markup]
+[markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+[markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-
-[markup.highlight]
-style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
-
 
 ############################ Media types ############################
 [mediaTypes]
@@ -64,13 +67,11 @@ suffixes = ["webmanifest"]
 delimiter = ""
 suffixes = [""]
 
-
 ############################ Output Format ###########################
 [outputFormats]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
-
 
 ############################ taxonomies ###########################
 [taxonomies]
