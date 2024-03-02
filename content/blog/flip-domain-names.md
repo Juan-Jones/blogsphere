@@ -57,7 +57,7 @@ Last but not least, it's important to avoid the use of special characters like h
 
 ### Register a Domain Name
 
-There are several hosting companies on the internet offering inexpensive domain names. You can purchase a reasonable domain name anywhere between $8 – $200. A few platforms that sell domain names for reasonable prices are Bluehost.com, {{< cloakedlink "Namecheap" "https://namecheap.pxf.io/g1ORqO" "Recommends Namecheap" >}} and {{< cloakedlink "Domain.com" "https://domain.mno8.net/c/3661625/581154/9560" "Recommends Domain.com" >}}.
+There are several hosting companies on the internet offering inexpensive domain names. You can purchase a reasonable domain name anywhere between $8 – $200. A few platforms that sell domain names for reasonable prices are Bluehost.com, {{< cloakedlink "Namecheap" "<https://namecheap.pxf.io/g1ORqO>" "Recommends Namecheap" >}} and {{< cloakedlink "Domain.com" "<https://domain.mno8.net/c/3661625/581154/9560>" "Recommends Domain.com" >}}.
 
 The registration process doesn’t take much time. The domain name can include extensions. Extensions will increase the chances of selling the domain name faster. It’s advised to pursue top-level domain extensions. The three top-level extensions are .com, .org, and .net. The most recommended domain extension is .com. Domain names with .com extensions are the most (popular) than any other extensions. Most people are used to websites with .com extensions thus causing them to be the most popular. You can use other extensions like .org or .net which also sell, but the probability of selling .com is higher than .org.
 

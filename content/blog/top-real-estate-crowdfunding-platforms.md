@@ -11,7 +11,6 @@ draft: false
 
 The landscape of real estate investment has undergone a remarkable transformation in recent years, thanks to the advent of crowdfunding platforms. Traditional avenues for investing in real estate often required significant capital and expertise, limiting access to only a select few. However, real estate crowdfunding has democratized this asset class, allowing individuals to participate in lucrative property investments with relatively modest sums. In this blog, we will point out the [top 15 real estate crowdfunding platforms](#top-15-real-estate-crowdfunding-platforms)!
 
-
 ## Real Estate Crowdfunding
 
 Real estate crowdfunding involves pooling funds from multiple investors to finance real estate projects. These projects can range from residential developments and commercial properties to hospitality ventures and mixed-use developments. Crowdfunding platforms serve as intermediaries, connecting investors with developers seeking capital for their projects.

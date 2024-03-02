@@ -13,7 +13,7 @@ In today's digital age, every dollar counts. With the rise of in-app purchases a
 
 {{< toc >}}
 
-## How Does it Work? 
+## How Does it Work?
 
 Let's start with the basics. Cash back is like a hidden treasure waiting to be discovered. It's essentially a percentage of the amount you spend that is returned to you. Picture it as a thank you bonus for being an avid app user. Or, a [way to make money on the side](/blog/creative-side-hustles) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
 
@@ -26,14 +26,14 @@ One popular way for apps to make money is through in-app purchases. These are it
 Another way apps make money is by selecting the right credit card(s). However, not all credit cards are created equal. To make the most out of your in-app purchases, it's crucial to select a credit card that offers attractive cash back rewards. Look for cards that align with your spending habits and offer higher cash back percentages on categories that matter to you. Below are three steps to get started;
 
 1. Download the app of your choice and sign up using a valid email address. You can select from the list of apps provided below or explore additional options through your browser.
-    
+
 2. Browse for products you wish to purchase. Once you find a product, compare rebates and prices across different platforms. For instance, if you discover a hotel listing on Rakuten, look for potentially cheaper prices on platforms like Hotwire or Kayak.
-    
+
 3. (Optional) Invite your friends and family to join. While this step is not mandatory, it can significantly enhance your earnings. If you lack a website or means to generate leads, start by promoting through your social media accounts. Below, you'll find recommended platforms to earn cashback from apps.
 
 ### Shop with Certain Retailers
 
-Once you download the app, sign up by providing a valid email address. You can choose from apps below, or search for additional apps through your browser.    
+Once you download the app, sign up by providing a valid email address. You can choose from apps below, or search for additional apps through your browser.
 
 - Rakuten: {{< cloakedlink "Rakuten" "https://www.rakuten.com/r/JONESD1531?eeid=28187" "Recommends Rakuten" >}}, formerly known as Ebates, is a place to go online shopping. In addition, it is one of the largest eCommerce sites in the world. Members can receive up to % from purchases. You can also receive $ for every member you refer. Signing up for a Rakuten membership is free!
 - CheckOut: At Checkout, members can find multiple ways to earn money. You can get rebates for gas or groceries. You can easily start saving money on brands that you love! Then earn money or rewards every time you make a purchase. In the event you leave your cell phone at home, don't worry, you can use Checkout from any device.

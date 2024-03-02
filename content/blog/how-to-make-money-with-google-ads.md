@@ -19,8 +19,8 @@ Google AdSense, a program developed by Google, serves as an advertising platform
 
 How does all this work? Google has a program called Ad-words, which companies or individuals can use to boost website traffic. Companies or individuals offer a specific amount which they will pay per click to the Adwords program. They have two options, Pay Per Click (PPC) or Pay Per Impression (PPI).
 
--  PPC Model: With the pay-per-click model, website owners earn revenue each time a visitor clicks on an ad displayed on their site. The amount earned per click varies based on factors like ad type, content relevance, and advertiser bids.
--  PPI Model: In the pay-per-impression model, earnings are based on the number of times the ad is displayed (per thousand impressions). Website owners receive revenue for every thousand impressions, regardless of clicks.
+- PPC Model: With the pay-per-click model, website owners earn revenue each time a visitor clicks on an ad displayed on their site. The amount earned per click varies based on factors like ad type, content relevance, and advertiser bids.
+- PPI Model: In the pay-per-impression model, earnings are based on the number of times the ad is displayed (per thousand impressions). Website owners receive revenue for every thousand impressions, regardless of clicks.
 
 First: The publisher (you) signs up for a Google Adsense account.
 Next: An advertiser pays Google for clicks or impressions.
@@ -38,8 +38,8 @@ Whether it's monetizing a website, amplifying brand visibility, or exploring new
 5. Affiliate Marketing with Ads: Combine affiliate marketing with Google Ads to earn commissions by promoting third-party products or services. Strategic ad placements and compelling content drive conversions, translating into affiliate revenue.
 6. App Monetization: For app developers, leveraging Google Ads within mobile apps can generate revenue through in-app ads or by promoting other apps or services.
 7. Local Business Advertising: For brick-and-mortar businesses, Google Ads offers targeted local advertising. Utilize location-based targeting to reach potential customers in specific geographical areas.
-8.  Consulting or Agency Services: Leverage your expertise in managing Google Ads campaigns to offer consulting or agency services. Help businesses optimize their ad strategies for a fee.
-9.  E-commerce Product Promotion: Drive sales for e-commerce businesses by strategically promoting products through Google Shopping ads, targeting users actively searching for similar items.
+8. Consulting or Agency Services: Leverage your expertise in managing Google Ads campaigns to offer consulting or agency services. Help businesses optimize their ad strategies for a fee.
+9. E-commerce Product Promotion: Drive sales for e-commerce businesses by strategically promoting products through Google Shopping ads, targeting users actively searching for similar items.
 
 ## How to Get Started
 

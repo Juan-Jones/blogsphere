@@ -13,9 +13,10 @@ Amazon has not only established dominance in the ecommerce market but has also e
 
 ## 8 Reasons You Should Work for Amazon
 
-Why should you work for Amazon? Well, it's simple ... Amazon has emerged as a pivotal force, offering a diverse array of work-from-home opportunities that cater to various skill sets and professional aspirations. Thus giving one the ability to [make money online](/blog/ways-to-make-money-online#side-hustles/). 
+Why should you work for Amazon? Well, it's simple ... Amazon has emerged as a pivotal force, offering a diverse array of work-from-home opportunities that cater to various skill sets and professional aspirations. Thus giving one the ability to [make money online](/blog/ways-to-make-money-online#side-hustles/).
 
 Below are a few more reasons you should consider working for Amazon;
+
 1. Surge in Remote Job Offerings: Recent statistics demonstrate a significant surge in the availability of work-from-home positions at Amazon, showcasing a substantial increase in remote job offerings across diverse departments and roles within the company.
 2. Heightened Application Rates: Reports indicate a notable rise in the number of applicants vying for Amazon's remote positions. The allure of flexible work arrangements and diverse job roles has led to increased interest and competition among job seekers.
 3. Diversity in Applicant Pool: The availability of remote roles at Amazon has attracted a more diverse pool of applicants, transcending geographical boundaries and fostering a workforce that embodies a broad spectrum of skills, backgrounds, and experiences.
@@ -24,6 +25,7 @@ Below are a few more reasons you should consider working for Amazon;
 6. Enhanced Workforce Retention: The positive work environment and supportive policies fostered by Amazon contribute to higher retention rates among its remote employees, indicating the success of its remote work initiatives in retaining a contented and committed workforce.
 7. Diverse Job Functions: Amazon's remote job offerings span a wide array of roles and responsibilities, accommodating various skill sets and career aspirations. This diverse range of positions reflects the company's commitment to providing opportunities for different job functions within a remote setup.
 8. Growth in Remote Employment Trends: The statistics surrounding Amazon's Work From Home Jobs align with the larger trend of remote employment growth globally. Amazon's substantial increase in remote job offerings contributes to this expanding trend in remote work.
+
 
 ## Amazon Work From Home Jobs and Opportunities
 

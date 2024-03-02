@@ -15,19 +15,20 @@ What is Passive Income?
 : In short, passive income is unearned income gained from the slightest effort thats easily maintained or sustained. This type of income does not require too much effort and the owner is not actively involved. Unlike active income, which necessitates continuous time and effort, passive income streams enable individuals to earn money while focusing on other pursuits, such as career advancement, personal interests, or spending time with loved ones. _Passive income ideas_ can include dividends from stocks, rental income from real estate properties, interest from peer-to-peer lending, and royalties from creative works, among others.
 
  The _four types of passive income_ include:
--  Reverse _passive income_: Shaving your spending habits. The act of lowering your monthly expenses.
--  Buy monetary assets: Use your money to make money. Purchasing a website or blog.
--  Build assets: Building something for a source of income.
--  Share or sell assets: Sharing can be renting out your garage or a room in your house. Selling assets could be selling unwanted items you don't use anymore.
+
+- Reverse _passive income_: Shaving your spending habits. The act of lowering your monthly expenses.
+- Buy monetary assets: Use your money to make money. Purchasing a website or blog.
+- Build assets: Building something for a source of income.
+- Share or sell assets: Sharing can be renting out your garage or a room in your house. Selling assets could be selling unwanted items you don't use anymore.
 
 ## Factors to Consider Before Investing
 
 Before embarking on your _passive income investment_ journey, it's essential to assess several key factors to align your investment strategy with your financial goals and risk tolerance.
 
- - Risk Tolerance: Understand your risk tolerance and investment objectives to determine the appropriate asset allocation and risk management strategies. While some investments offer higher potential returns, they may also entail greater volatility and downside risk.
- - Investment Goals: Define clear investment goals, whether it's generating supplemental income, saving for retirement, funding education expenses, or achieving financial independence. Establishing specific and measurable objectives will guide your investment decisions and asset allocation strategies.
- - Time Horizon: Consider your investment time horizon, which refers to the duration you plan to hold your investments before needing to access the funds. Longer time horizons allow for greater exposure to growth-oriented investments, while shorter time frames may require a more conservative approach to capital preservation.
- - Market Conditions: Stay informed about prevailing market conditions, economic trends, and geopolitical events that may impact investment performance and asset valuations. Maintain a diversified portfolio to mitigate risks associated with market volatility and unforeseen disruptions.
+- Risk Tolerance: Understand your risk tolerance and investment objectives to determine the appropriate asset allocation and risk management strategies. While some investments offer higher potential returns, they may also entail greater volatility and downside risk.
+- Investment Goals: Define clear investment goals, whether it's generating supplemental income, saving for retirement, funding education expenses, or achieving financial independence. Establishing specific and measurable objectives will guide your investment decisions and asset allocation strategies.
+- Time Horizon: Consider your investment time horizon, which refers to the duration you plan to hold your investments before needing to access the funds. Longer time horizons allow for greater exposure to growth-oriented investments, while shorter time frames may require a more conservative approach to capital preservation.
+- Market Conditions: Stay informed about prevailing market conditions, economic trends, and geopolitical events that may impact investment performance and asset valuations. Maintain a diversified portfolio to mitigate risks associated with market volatility and unforeseen disruptions.
 
 ## Common Mistakes to Avoid
 
@@ -154,7 +155,7 @@ Dividend stocks are stocks that pay a portion of their profits to shareholders i
 
 ### 22. Real Estate Crowdfunding
 
-[Real estate crowdfunding]() involves investing in a diversified portfolio of real estate projects through an online platform. This type of crowdfunding can offer the potential for high returns, but it also carries risks and may not be suitable for everyone.
+[Real estate crowdfunding](top-real-estate-crowdfunding-platforms) involves investing in a diversified portfolio of real estate projects through an online platform. This type of crowdfunding can offer the potential for high returns, but it also carries risks and may not be suitable for everyone.
 
 ### 23. Commodities
 

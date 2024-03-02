@@ -34,7 +34,7 @@ To become a successful affiliate marketer, you must learn what it takes? That wa
 4. Find the Best Affiliate Programs to Join: Joining affiliate programs does not cost a dime. It only takes only a few minutes. All you need is a valid email address, valid checking account, PayPal, and an address or P.O. box. Then you can find the [best affiliate programs online](/blog/best-affiliate-programs-online) in any industry, i.e., business, eCommerce, health, travel, weight loss, etc.
 5. Promote your Affiliate Campaign: After you build your platform, you must promote affiliate links to earn profits. There are several options for promotion, some are free and others cost money. However, reaching as many customers as possible is the key to generating profits as an affiliate. Therefore, don’t just limit yourself to one or two outlets for promotion. Instead, use as many outlets as possible. You can promote using [content marketing techniques](/blog/content-marketing), email marketing, video marketing or search engine marketing (SEM), or search engine optimization (SEO).
 
-###  Affiliate Marketing Statistics
+### Affiliate Marketing Statistics
 
 There are many advantages to becoming an affiliate marketer. To begin, affiliate marketing provides you with opportunities to earn passive income. You can make money around the clock 24-7. There are several reasons why you should _consider affiliate marketing_. As noted, affiliate marketing enables you to get paid while you sleep! There are a select few online business opportunities in which you can generate income on auto-pilot 24-7. In addition, these opportunities can provide you with multiple sources of additional income! Additional reasons you consider affiliate marketing are:
 

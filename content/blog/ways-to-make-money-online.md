@@ -89,12 +89,12 @@ Compose [persuasive grant proposals](/blog/grant-writing-strategies-tips) tailor
 _How Much Can You Earn Writing Grants?_ Rates vary from $50 to $150 per hour.
 
  Grant Writing Startup Expenses: The initial investment for crafting grant proposals is relatively low. Expect minimal expenses, primarily for research materials, software for document creation, and potential training or workshops.
- 
+
  Is Grant Writing Difficult? Crafting persuasive grant proposals involves a moderate level of complexity. It demands strong writing skills, a deep understanding of project planning, and the ability to articulate compelling arguments and plans concisely.
- 
+
  Grant Writing Resources: Success in grant proposal writing relies on comprehensive research materials, access to data and statistics supporting the project, writing and editing tools, and potentially, workshops or courses focusing on grant writing skills.
 
-### 5. Work with Taskrabbit 
+### 5. Work with Taskrabbit
 
 {{< image src="images/post/print-on-demand.jpg" caption="" alt="" height="400" width="200" position="center" command="fit" option="q100" class="img-fluid" title="Print on Demand" webp="false" >}}
 
@@ -102,7 +102,7 @@ TaskRabbit can be a lucrative opportunity to earn extra income with relatively l
 
 Average Pay: $15 to $50 per hour.
 
-TaskRabbit Initial Investment: TaskRabbit typically has a low barrier to entry. You might need to invest in some basic tools or equipment based on the tasks you plan to offer (e.g., cleaning supplies, tools for furniture assembly). Registration 
+TaskRabbit Initial Investment: TaskRabbit typically has a low barrier to entry. You might need to invest in some basic tools or equipment based on the tasks you plan to offer (e.g., cleaning supplies, tools for furniture assembly).
 
 TaskRabbit Fees: There might be minor registration or background check fees involved, but these are generally affordable.
 
@@ -128,7 +128,7 @@ Microtasking Payment Structure: Microtask platforms offer payment per task compl
 
 {{< image src="images/post/sell-photos.jpg" caption="" alt="Sell Photos" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Sell Photos" webp="false" >}}
 
-If you have a knack for photography, you can [get paid for your photos](/blog/get-paid-for-your-photos) on stock photography websites like (Shutterstock)[https://shutterstock.com], Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
+If you have a knack for photography, you can [get paid for your photos](/blog/get-paid-for-your-photos) on stock photography websites like [Shutterstock](https://shutterstock.com), Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
 
 _Average Profit Selling Stock Photos:_ $0.25 - $5 per download, with potential for higher earnings for exclusive and high-demand images.
 
@@ -279,9 +279,9 @@ Launching an app involves a combination of affordable and more significant inves
 _App Developers Average Earnings:_ The average earnings vary widely depending on factors like complexity, platform, and market demand. Experienced developers can earn anywhere from $75,000 to $150,000 annually.
 
 App Development Startup Cost: Low to Moderate. Open-source tools and platforms like Android Studio and Xcode are free to use. Entry-level smartphones for testing purposes are relatively affordable. However, costs may increase for premium devices, software licenses, or third-party services.
- 
+
 Application Development Level of Difficulty: Moderate to High. Learning app development basics is accessible, but mastering the intricacies can be challenging. Beginners may find initial hurdles in understanding programming languages, architecture, and platform-specific nuances. Continuous learning is required to stay updated with evolving technologies and best practices
- 
+
 Essential Application Resources: Hardware: A computer or laptop with decent specifications for coding and testing. Software: Install Android Studio (for Android) or Xcode (for iOS) as the primary development environment. Programming Skills: Proficiency in languages like Java, Swift, or Kotlin. Device for Testing: An Android device and an iOS device for thorough testing.
 
 Optional App Resources: High-Performance Devices: For extensive testing on various devices. Cloud Testing Services: Platforms like AWS Device Farm or Firebase Test Lab for broader device coverage. Advanced IDE Features: Investing in premium features or plugins for enhanced development experience. Collaboration Tools: As the project scales, tools like Slack or Trello for team collaboration.

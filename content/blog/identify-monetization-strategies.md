@@ -33,7 +33,7 @@ Your audience holds the key to unlocking profitable monetization strategies. Con
 Revenue streams are the channels through which money flows into your business. They can take various forms, including product sales, subscription models, advertising, and licensing agreements. Evaluate the viability and scalability of each revenue stream in relation to your business model and target audience.
 
 - Make Money with Google Ads - Did you know you can [Make money with Google Adsense](/blog/how-to-make-money-with-google-ads) You can earn everytime your content is clicked or visited. Even better, Google allows you to place ads on as much content as you'd like. Think about it, if you have one website that generates two thousand dollars a month, you would earn twenty-four thousand a year. Well, what if you had 10.
-- Earn Revenue with {{< cloakedlink "Media" "https://bit.ly/3LtuRRq" "Recommends Media.net" >}} - Empowering publishers to effectively monetize their digital content, Media.net is a premier contextual advertising platform. With advanced ad targeting and a broad advertiser network, it maximizes revenue potential while enhancing user experience. Trusted by publishers worldwide, Media.net remains at the forefront of digital monetization strategies.
+- Earn Revenue with {{< cloakedlink "Media" "<https://bit.ly/3LtuRRq>" "Recommends Media.net" >}} - Empowering publishers to effectively monetize their digital content, Media.net is a premier contextual advertising platform. With advanced ad targeting and a broad advertiser network, it maximizes revenue potential while enhancing user experience. Trusted by publishers worldwide, Media.net remains at the forefront of digital monetization strategies.
 
 ### Assessing Market Opportunities
 

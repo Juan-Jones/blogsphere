@@ -32,6 +32,6 @@ The beauty of editable printable cards lies in their versatility and customizati
 
 No two relationships are alike, and neither should be the cards that celebrate them. Editable printable cards allow you to tailor each creation to suit the recipient's preferences and the occasion's tone. Whether you're crafting a heartfelt birthday message or a lighthearted thank-you note, customization ensures that every word and design element reflects the intended sentiment.
 
-#### Conclusion
+### Conclusion
 
 Creating editable printable cards is a rewarding endeavor that allows you to express creativity, thoughtfulness, and sentiment in tangible form. Whether you're celebrating a milestone, expressing gratitude, or simply spreading joy, a custom-made card speaks volumes in a digital world. By following the steps outlined in this guide, you can craft beautiful, editable printable cards that leave a lasting impression on the recipient. So gather your tools, unleash your imagination, and let the art of card-making inspire moments of connection and celebration.
