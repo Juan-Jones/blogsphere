@@ -5,9 +5,9 @@ theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "8"
+paginate = "6"
 # post excerpt
-summaryLength = "25"
+summaryLength = "20"
 # google analytics
 googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 autoHeadingID = true 
@@ -15,6 +15,11 @@ autoHeadingID = true
 enableRobotsTXT = true
 # canonify urls
 canonifyURLs = true
+# OpenGraph / Twitter Card metadata
+[metadata]
+description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
+author = "Dejuan Jones"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 ############################# Sitemap ##############################
 [sitemap]

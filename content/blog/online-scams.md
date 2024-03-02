@@ -1,5 +1,5 @@
 ---
-title: "Online Scams: Dating Scams, "
+title: "Online Scams: Dating Sca"
 description: "Find real ways to make money online today like Amazon work from home jobs, associate marketing, freelance opportunities and more."
 image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
@@ -25,7 +25,7 @@ Scams primarily take place on these platforms because there are millions of peop
 
 How can you avoid scams? I hate to say it but many people get scammed because they don’t research. For example, when you first sign up for a social media account. The website will tell you to read all policies and disclaimers. In addition, a majority of these policies warn you about sharing any personal information. Sadly, most users continue to create social accounts reading none of the material provided.
 
-What are you supposed to do if you’re scammed? If you have a complaint, or someone scammed you file a [report to the Federal Trade Commission (FTC)](https://reportfraud.ftc.gov/#/).
+What are you supposed to do if you’re scammed? If you have a complaint, or someone scammed you file a [report to the Federal Trade Commission (FTC)](https://reportfraud.ftc.gov/).
 
 Detecting Online Scams
 
