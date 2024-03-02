@@ -1,0 +1,3 @@
+[submodule "iwriter-hugo"]
+	path = iwriter-hugo
+	url = https://github.com/statichunt/iwriter-hugo.git

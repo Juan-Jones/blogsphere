@@ -8,7 +8,7 @@ logo_dark = "images/logo-white.png"
 # Note: logo_width is not work with .svg file
 logo_width = "120px"
 # logo text will only show when logo is missing.
-logo_text = "Earn Money Online"
+logo_text = "iWriter"
 
 # navbar fixed to top
 navbar_fixed = true
@@ -29,7 +29,7 @@ netlify = true # set to false if using formspree.io
 contact_form_action = "#"
 # copyright
 theme_copyright = true
-copyright = "earnonlinemoney."
+copyright = "Copyright by your company"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -40,8 +40,8 @@ theme_default = "system" # available options [light/dark/system]
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["make money online", "earn money online", "earn money online free", "side hustles", "passive income ideas", "side hustle ideas", "earn money online quick", "make money online free"]
-description = "Online income guide, find side hustles, passive income ideas, online jobs, investments, freelance gigs, financial advice, success stories, expert tips & more."
+keywords = ["Hugo", "Blog", "Statichunt", "iWriter"]
+description = "iWriter is a blog template based on Bootstrap and powered by Hugo"
 author = "Statichunt"
 image = "images/og-image.jpg"      # this image will be used as fallback if a page has no image of its own
 
@@ -86,12 +86,12 @@ sidebar = ["search", "categories", "recent-post", "social"]
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.facebook.com/earnmoneynowonline/"
+link = "#"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://twitter.com/moneyonline_fre/"
+link = "#"
 
 [[social]]
 title = "mastodon"
@@ -104,11 +104,11 @@ icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icon
 link = "#"
 
 [[social]]
-title = "Pinterest"
+title = "github"
 icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.pinterest.com/makeonlinemoneyfree/"
+link = "#"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://linkedin.com/earn-money-online-free/"
+link = "#"
