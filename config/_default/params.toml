@@ -12,7 +12,7 @@ logo_text = "Earn Money Online"
 logo_webp = false # default is true
 # navbar fixed to top
 navbar_fixed = false
-image = "images/logo.png"
+
 # contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
