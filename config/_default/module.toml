@@ -51,6 +51,9 @@ path = "github.com/gethugothemes/hugo-modules/shortcodes/video"
 path = "github.com/gethugothemes/hugo-modules/shortcodes/tabs"
 
 [[imports]]
+path = "github.com/gethugothemes/hugo-modules/shortcodes/image"
+
+[[imports]]
 path = "github.com/gethugothemes/hugo-modules/shortcodes/gallery"
 
 [[imports]]

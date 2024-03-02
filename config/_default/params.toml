@@ -9,14 +9,14 @@ logo_width = "150x"
 # logo text will only show when logo is missing.
 logo_text = "Earn Money Online"
 # if logo_webp set false, it will not generate WEBP version of logo
+logo_webp = false # default is true
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 [metadata]
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
-keywords = ["earn money online", "make money online", "side hustles", "passive income ideas", "earn money online quick", "make money online free", "work from home", "passive income ideas"]
 author = "Dejuan Jones"
-image = "images/og-image.jpg"  # this image will be used as fallback if a page has no image of its own
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
@@ -74,8 +74,8 @@ button_link = "guide/"
 
 # Advertise
 [advertisement]
-image = "images/money-online.png"
-link = "https://earnonlinemoney.org"
+image = "images/earn-internet-income.png"
+link = ""
 
 # cookies
 [cookies]
@@ -88,6 +88,7 @@ button = "I Accept"
 [widgets]
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 # available widget : about,categories,newsletter,recent-post
+
 
 # Subscription
 [subscription]
@@ -107,24 +108,19 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/earnmoneynowonline/"
+link = "https://www.facebook.com/earnmoneynowonline"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/moneyonline_fre/"
-
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/moneyonline_fre"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://linkedin.com/earn-money-online-free/"
+link = "https://linkedin.com/earn-money-online-free"
+
+[[social]]
+title = "pinterest"
+icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.pinterest.com/makeonlinemoneyfree"

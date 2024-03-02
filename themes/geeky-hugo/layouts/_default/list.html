@@ -16,7 +16,7 @@
           <div class="row mx-0 g-5">
             <!-- recent post -->
             {{ $paginator:= .Paginate (where .Data.Pages "Section" "in" site.Params.mainSections ) }}
-            {{ range $paginator.Pages }}
+                {{ range $paginator.Pages }}
             <div class="col-sm-6 mb-4">
               {{ .Render "post" }}
             </div>
@@ -42,7 +42,7 @@
             {{ if $paginator.HasPrev }}
             <li class="page-item prev d-flex align-items-center">
               <a class="page-link disabled" href="{{ $paginator.Prev.URL }}" aria-label="Pagination Arrow"><i
-                  class="fas fa-arrow-left me-3"></i>{{ site.Params.previous_button }}
+                class="fas fa-arrow-left me-3"></i>{{ site.Params.previous_button }}
               </a>
             </li>
             {{ else }}
@@ -94,7 +94,7 @@
             {{ if $paginator.HasNext }}
             <li class="page-item next d-flex align-items-center">
               <a class="page-link arrow" href="{{ $paginator.Next.URL }}" aria-label="Pagination">{{ site.Params.next_button }}<i
-                  class="fas fa-arrow-right ms-3"></i>
+                class="fas fa-arrow-right ms-3"></i>
               </a>
             </li>
             {{ else }}

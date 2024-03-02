@@ -1,7 +1,7 @@
 [build]
   publish = "exampleSite/public"
   command = "cd exampleSite && hugo --minify --gc --themesDir ../.."
-
+  
 [build.environment]
   HUGO_VERSION = "0.109.0"
   HUGO_THEME = "repo"
@@ -15,13 +15,3 @@
   X-XSS-Protection = "1; mode=block"
   Referrer-Policy = "same-origin"
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-
-[[redirects]]
-  from = "https://earnonlinemoney.org/make-money/make-money-online"
-  to = "/blog/ways-to-make-money-online"
-  status = 301
-
-[[redirects]]
-  from = "https://earnonlinemoney.org/2011/10/blogging-for-cash.html"
-  to = "/blog/how-to-monetize-a-blog"
-  status = 301

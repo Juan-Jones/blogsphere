@@ -38,13 +38,13 @@
           </li>
         </ul>
         <div class="content drop-cap">{{.Content}}</div>
-        <!-- disqus comments -->
-        {{ if .Site.DisqusShortname }}
-        <div class="border rounded p-4">
-          {{ template "_internal/disqus.html" . }}
+          <!-- disqus comments -->
+          {{ if .Site.DisqusShortname }}
+          <div class="border rounded p-4">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+          {{ end }}
         </div>
-        {{ end }}
-      </div>
       <!-- sidebar widgets -->
       <aside class="col-lg-4">
         {{ $widget:= site.Params.widgets.sidebar }}
