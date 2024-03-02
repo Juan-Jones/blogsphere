@@ -1,6 +1,6 @@
 ---
 title: "Make Money Teaching Online Courses"
-description: "Learn how to effectively teach online courses with our comprehensive guide. Discover strategies for engaging students, fostering community, leveraging technology, and promoting inclusivity."
+description: "Learn how to teach online courses. Discover key features of (MOOC) providers like engaging students, diverse learning devices, leveraging technology and more."
 image: "images/post/teach-online-courses.jpg"
 date: 2024-02-24T18:19:25+06:00
 categories: ["personal finance"]

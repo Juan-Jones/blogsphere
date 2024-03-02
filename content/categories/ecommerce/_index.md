@@ -1,5 +1,5 @@
 ---
 title: "Ecommerce"
-description: "Our ecommerce section covers various aspects of creating, managing, and growing online stores. From trending items & exclusive deals to expert tips on navigating the digital marketplace."
+description: "Uncover the latest trends, tools, and success stories in the booming world of ecommerce. Master the art of online selling."
 draft: false
 ---

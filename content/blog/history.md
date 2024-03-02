@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Earning Income Online"
-description: "Discover the evolution from traditional employment to the digital sphere: early online ventures, the rise of freelancing, e-commerce, and diverse monetization models."
+description: "Discover the evolution from traditional employment to the digital sphere: early online ventures, the rise of diverse monetization models."
 image: "images/post/money-online-evolution.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]

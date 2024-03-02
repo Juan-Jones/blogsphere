@@ -1,6 +1,6 @@
 ---
 title: "What is Microtasking"
-description: "Discover the meaning of microtasking. Check out the advantages and disadvantages,  the future trends shaping the evolution of microtasking in the global workforce."
+description: "Discover the purpose and meaning of microtasking. Find advantages and disadvantages along with future trends shaping the evolution of this global workforce."
 image: "images/post/whats-microtasking.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]

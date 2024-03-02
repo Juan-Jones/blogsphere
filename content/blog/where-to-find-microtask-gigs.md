@@ -1,6 +1,6 @@
 ---
 title: "Where to Find Microtask Gigs"
-description: "Explore diverse platforms and strategies for finding microtasking opportunities. Discover how microtasking can supplement your income and provide flexible work options."
+description: "Explore diverse platforms and strategies for finding microtasking opportunities. Discover popular opportunities to supplement your income."
 image: "images/post/find-microtask-gigs.jpg"
 date: 2011-08-24T18:19:25+06:00
 categories: ["personal finance"]

@@ -155,7 +155,7 @@ Dividend stocks are stocks that pay a portion of their profits to shareholders i
 
 ### 22. Real Estate Crowdfunding
 
-[Real estate crowdfunding](top-real-estate-crowdfunding-platforms) involves investing in a diversified portfolio of real estate projects through an online platform. This type of crowdfunding can offer the potential for high returns, but it also carries risks and may not be suitable for everyone.
+[Real estate crowdfunding](/blog/top-real-estate-crowdfunding-platforms) involves investing in a diversified portfolio of real estate projects through an online platform. This type of crowdfunding can offer the potential for high returns, but it also carries risks and may not be suitable for everyone.
 
 ### 23. Commodities
 
