@@ -15,15 +15,7 @@ autoHeadingID = true
 enableRobotsTXT = true
 # canonify urls
 canonifyURLs = true
-
-
-# OpenGraph / Twitter Card metadata
-[metadata]
-description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
-author = "Dejuan Jones"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-
-############################# Sitemap ##############################
+########################## Sitemap ##############################
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"
