@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "img/favicon.png"
 # logo
 logo = "images/logo.png"
 # use `x` with logo_width, example: "100x".
@@ -11,9 +11,15 @@ logo_text = "Earn Money Online"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
 author = "Dejuan Jones"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
+keywords = "earn money online, side hustles, make money online, passive income ideas, make money from home, side hustle ideas, make money online, quick, earn money online free"
+# Used when a given page doesn't set its own.
+defaultDescription = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom"
+defaultKeywords = "earn money online, side hustles, make money online, passive income ideas, make money from home, side hustle ideas, make money online, quick, earn money online free"
+thumbnail = "/img/about-1496x1944.png"
+ISO8601 = "2006-01-02T15:04:05JST"
+image = "img/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
@@ -48,6 +54,7 @@ custom_script= ""
 # copyright
 theme_copyright = true
 copyright = "© Copyright 2024"
+
 
 # 404
 error_404_text = "404 Page Not Found!"

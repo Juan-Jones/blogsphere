@@ -123,7 +123,7 @@ _Average Commission:_ Commission rates on Awin vary based on advertisers and off
 
 ### Rakuten Marketing (formerly LinkShare)
 
-Through {{< cloakedlink "Rakuten marketing" "https://www.rakuten.com/r/JONESD1531?eeid=28187/" "Recommends Rakuten" >}}, marketers and influencers access a vast network of brands and retailers, earning commissions by recommending products and services from a diverse array of merchants across different sectors.
+Through {{< cloakedlink "Rakuten marketing" "<https://www.rakuten.com/r/JONESD1531?eeid=28187/>" "Recommends Rakuten" >}}, marketers and influencers access a vast network of brands and retailers, earning commissions by recommending products and services from a diverse array of merchants across different sectors.
 
 _Payment Threshold:_ $50,
 
@@ -183,7 +183,7 @@ _Average Commission:_ Up to 50% on booking.
 
 ### SEMrush Affiliate Program
 
-Looking to empower businesses with robust marketing solutions? The {{< cloakedlink "SEMrush affiliate program" "https://semrush.sjv.io/c/2747132/995972/13053/" "Recommends SEMrush" >}} provides marketers and content creators the chance to earn commissions by endorsing a suite of powerful tools for SEO, content management, and competitive analysis, catering to the digital marketing sphere;
+Looking to empower businesses with robust marketing solutions? The {{< cloakedlink "SEMrush affiliate program" "<https://semrush.sjv.io/c/2747132/995972/13053/>" "Recommends SEMrush" >}} provides marketers and content creators the chance to earn commissions by endorsing a suite of powerful tools for SEO, content management, and competitive analysis, catering to the digital marketing sphere;
 
 _Payment Threshold:_ $50,
 

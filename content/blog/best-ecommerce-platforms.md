@@ -29,7 +29,7 @@ Before diving into the array of ecommerce platforms, it's essential to assess yo
 
 Shopify stands as one of the most popular and user-friendly ecommerce platforms, catering to businesses of all sizes. With its intuitive interface and extensive app store, [Shopify](/blog/sell-on-shopify) allows users to create customizable online stores with ease. Key features include:
 
-<a href="https://shopify.pxf.io/c/3661625/1499963/13624" target="_top" id="1499963"><img src="//a.impactradius-go.com/display-ad/13624-1499963" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/3661625/1499963/13624" style="position:absolute;visibility:hidden;" border="0" />
+![Shopify](https://shopify.pxf.io/c/3661625/1499963/13624)" target="_top" id="1499963"><img src="//a.impactradius-go.com/display-ad/13624-1499963"  alt="Shopify" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/3661625/1499963/13624" style="position:absolute;visibility:hidden;" />
 
 - User-friendly interface,
 - Extensive app store for additional functionalities,

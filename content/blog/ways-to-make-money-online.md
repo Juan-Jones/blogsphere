@@ -2,10 +2,12 @@
 title: "How to Make Money Online, Best Ways to Earn Internet Income"
 weight: 1
 description: "Find outstanding ways to make money online. Learn how to earn income from the comfort of your living room, find real opportunities to earn internet income!"
-image: "images/post/make-money-online.jpg"
 date: 2011-08-24T18:19:25+06:00
-categories: ["personal finance"]
+lastmod: 2017-07-26T15:01:05+08:00
 tags: ["opportunities"]
+topics: ["aggs"]
+image: "/images/post/make-money-online.jpg"
+categories: ["personal finance"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
