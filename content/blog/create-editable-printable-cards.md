@@ -11,7 +11,7 @@ draft: true
 
 In today's digital age, personalized cards remain a heartfelt way to express emotions, celebrate special occasions, or simply connect with loved ones. With the advent of technology, creating editable printable cards has become easier and more accessible than ever before. In this post, we'll discuss the steps to craft beautiful, editable printable cards that capture your unique style and sentiment.
 
-Editable printable cards have revolutionized the way we express ourselves. Gone are the days of generic store-bought cards that lack personal touch. With editable options, individuals can tailor every aspect of their message, from the design to the sentiment, ensuring it resonates authentically with the recipient
+Editable printable cards have revolutionized the way we express ourselves. Gone are the days of generic store-bought cards that lack personal touch. With editable options, individuals can tailor every aspect of their message, from the design to the sentiment, ensuring it resonates authentically with the recipient.
 
 ## How to Create Editable Printable Cards
 

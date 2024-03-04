@@ -53,7 +53,7 @@ Customize your channel layout to optimize the viewer experience. Organize your p
 
 ### Step 6: Develop a Video Content Strategy
 
-A well-defined content strategy is crucial for attracting and retaining viewers on YouTube. Take the time to brainstorm content ideas that align with your niche and audience preferences. Consider the following questions:
+A well-defined content strategy is crucial for attracting and retaining viewers on YouTube. Take the time to brainstorm content ideas that align with your niche and audience preferences.
 
 #### Planning Your Video Content Strategy
 

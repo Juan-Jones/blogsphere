@@ -51,11 +51,11 @@ Built as an extension of WordPress, WooCommerce is a powerful ecommerce plugin t
 
 BigCommerce is a robust ecommerce platform designed for scalability and growth. With its comprehensive set of features and built-in marketing tools, BigCommerce empowers businesses to create compelling online stores. Key features include:
 
-- Scalable infrastructure to support growing businesses
-- Built-in marketing and conversion tools
-- Seamless integration with leading payment gateways
-- Responsive themes for optimal mobile experience
-- Advanced analytics and reporting capabilities
+- Scalable infrastructure to support growing businesses,
+- Built-in marketing and conversion tools,
+- Seamless integration with leading payment gateways,
+- Responsive themes for optimal mobile experience,
+- Advanced analytics and reporting capabilities.
 
 ### 4. Magento
 

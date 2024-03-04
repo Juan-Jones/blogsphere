@@ -79,7 +79,7 @@ After you create your description, you’ll need to create a cover. Your cover i
 
 ### 10. Identify Ways to Make Money Podcasting
 
-Once you've started your podcast, im sure you want to identify [ways to make money](/blog/ways-to-make-money-online). However, there are several ways to monetize a podcast. Therefore its essential to learn how to make money podcasting. But to make money, you must have knowledge or experience on your platform. I highly recommend that you focus on your respective field when you start a platform. That way you can naturally attract your target market. If you came this far im sure you want to know, [how do podcasts make money]
+Once you've started your podcast, im sure you want to identify [ways to make money](/blog/ways-to-make-money-online). However, there are several ways to monetize a podcast. Therefore its essential to learn how to make money podcasting. But to make money, you must have knowledge or experience on your platform. I highly recommend that you focus on your respective field when you start a platform. That way you can naturally attract your target market. If you came this far im sure you want to know, [how do podcasts make money](/blog/how-do-podcasts-make-money).
 
 ### 11. Record an Episode
 
