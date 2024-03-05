@@ -79,4 +79,9 @@
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
 
+{{ partial "seo-og.html" . }}
+{{ partial "seo-schema.html" . }}
+{{ partial "seo-twittercard.html" . }}
+{{ partial "seo-googlenews.html" . }}
+
 {{ "<!-- LEAVING partial header.html -->" | safeHTML }}

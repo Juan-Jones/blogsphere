@@ -13,11 +13,6 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <head>
   <!-- All the meta tags below will come under this meta partial -->
 	{{ partial "head.html" . }}
-  {{ partial "seo-og.html" . }}
-  {{ partial "seo-schema.html" . }}
-  {{ partial "seo-twittercard.html" . }}
-  {{ partial "seo-googlenews.html" . }}
-
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
 	{{ partialCached "style.html" . }}
