@@ -2,6 +2,7 @@
 title: "Earn Money Online Complete Guide"
 description: "Our earn money online guide contains opportunities for entrepreneurs, like e-biz, work at home jobs, side hustles, monetization tips and more."
 draft: false
+weight: 1000
 ---
 
 Welcome to Earnonlinemoney.org, a comprehensive guide to earning money online. This platform is dedicated to empowering individuals from diverse backgrounds to embrace the digital realm and explore genuine avenues to earn money from home.

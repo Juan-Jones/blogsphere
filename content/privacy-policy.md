@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 description: "Please read our privacy policy."
 draft: false
+weight: 10001
 ---
 
 ## Privacy Policy

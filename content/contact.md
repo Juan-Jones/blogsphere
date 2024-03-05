@@ -3,6 +3,7 @@ title: "Let's, Talk About You"
 description: "Please contact us."
 layout: "contact"
 draft: false
+weight: 10000
 
 message: "Let's, Talk About You"
 button_text: "Send Now"

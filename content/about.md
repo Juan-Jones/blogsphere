@@ -4,6 +4,7 @@ description: "Information about the author Dejuan Jones."
 image: "images/about.png"
 layout: "about"
 draft: false
+weight: 9999
 
 # education
 education:
