@@ -6,7 +6,7 @@ date: 2011-08-24T18:19:25+06:00
 lastmod: 2017-07-26T15:01:05+08:00
 tags: ["opportunities"]
 topics: ["aggs"]
-image: "/images/post/make-money-online.jpg"
+image: "/img/make-money-online.jpg"
 categories: ["personal finance"]
 type: "featured" # available types: [featured/regular]
 draft: false
