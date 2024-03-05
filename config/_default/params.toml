@@ -48,7 +48,7 @@ mainSections = ["blog"]
 # about widget content
 about_widget_content = "Connect with us on social media!"
 # footer content
-footer_content = "This platform aims to dig deep into the multifaceted avenues available to aspiring online earners, providing insights and strategies to navigate this dynamic landscape effectively."
+footer_content = "Our platform is commited to providing comprehensive insights for individuals aspiring to earn online. While we are commited to delivering authentic information, we do not guarantee financial success or earnings. Please be aware that any potential earnings mentioned are not a promise or guarantee of income. This site may contain affiliate links. If you make a purchase through these links, we may earn a commission at no extra cost to you. Your support helps keep this website running. Thank you!"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
