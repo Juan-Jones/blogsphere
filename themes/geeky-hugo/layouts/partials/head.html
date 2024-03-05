@@ -14,17 +14,21 @@
 <link href="http://gmpg.org/xfn/11" rel="profile">
 {{ hugo.Generator }}
 <link rel="canonical" href="{{ .Permalink }}">
-<!-- Enable responsiveness on mobile devices-->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Load type faces -->
 
-<!-- Icons: Add to homescreen for Chrome on Android -->
-<meta name="mobile-web-app-capable" content="yes">
+<!-- multilingual SEO optimizations -->
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}
 
-<!-- Icons: Tile icon for Win8 (144x144 + tile color) -->
-
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<!-- theme meta -->
+<meta name="theme-name" content="geeky-hugo" />
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 
