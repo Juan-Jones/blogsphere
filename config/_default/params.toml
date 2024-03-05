@@ -55,7 +55,6 @@ custom_script= ""
 theme_copyright = true
 copyright = "© Copyright 2024"
 
-
 # 404
 error_404_text = "404 Page Not Found!"
 error_404_button = "Back To Home"
@@ -79,7 +78,7 @@ button_link = "guide/"
 # Advertise
 [advertisement]
 image = "images/earn-internet-income.png"
-link = ""
+link = "/"
 
 # cookies
 [cookies]
@@ -93,7 +92,6 @@ button = "I Accept"
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 # available widget : about,categories,newsletter,recent-post
 
-
 # Subscription
 [subscription]
 enable = true
@@ -106,7 +104,6 @@ newsletter_button = "Sign in"
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
 
 ############################# social site ########################
 [[social]]
