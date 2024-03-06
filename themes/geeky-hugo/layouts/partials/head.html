@@ -4,17 +4,7 @@
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
 <base href="{{ site.BaseURL }}">
 {{ end }}
-<!-- IN .HTACCESS!! <meta http-equiv="x-ua-compatible" content="ie=edge"> -->
-<meta name="description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}Content under '{{ .Title }}' at Earn Money Online, a site about Earning Money Online.{{ end }}{{ end }}">
 
-<meta name="keywords" content="{{if .IsPage}}{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}{{else}}{{.Site.Params.keywords}}{{end}}">
-{{ if .Params.author }}<meta name="author" content="{{ .Params.author }}">{{ end }}
-<link href="http://gmpg.org/xfn/11" rel="profile">
-{{ hugo.Generator }}
-<link rel="canonical" href="{{ .Permalink }}">
-{{ range .AlternativeOutputFormats -}}
-  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-{{ end -}}
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}
@@ -26,11 +16,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-<!-- Load type faces -->
-  <!--<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,400,500,100italic,400italic,500italic|Alegreya:400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
-  <script src="https://use.typekit.net/ihk8ryw.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
-
 
   <!-- Icons -->
   <!-- Icons: General favicon -->
@@ -75,9 +60,6 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
-{{ partial "seo-schema.html" . }}
-{{ partial "seo-og.html" . }}
-{{ partial "seo-twittercard.html" . }}
-{{ partial "seo-googlenews.html" . }}
 
-{{ "<!-- LEAVING partial header.html -->" | safeHTML }}
+{{ partial "blogpost-schema.html" . }}
+
