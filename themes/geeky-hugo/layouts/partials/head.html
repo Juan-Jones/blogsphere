@@ -31,18 +31,19 @@
 
   <!-- Icons -->
   <!-- Icons: General favicon -->
-  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
-  <link rel="icon" type="image/png" href="/static/img/favicon.png" sizes="48x48">
-  <link rel="icon" type="image/png" href="/static/img/favicon.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/static/img/favicon.png" sizes="16x16">
+  <link rel="shortcut icon" href="#">
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" type="image/png" href="/img/favicon.png" sizes="48x48">
+  <link rel="icon" type="image/png" href="/img/favicon.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/img/favicon.png" sizes="16x16">
   <!-- Icons: Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes">
-  <link rel="icon" type="image/png" href="/static/img/android-chrome.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/img/android-chrome.png" sizes="192x192">
   <!-- Icons: Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <link rel="apple-touch-icon" sizes="57x57" href="/static/img/apple-touch-icon.png">
-  <link rel="apple-touch-icon" sizes="100x100" href="/static/img/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="57x57" href="/img/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="100x100" href="/img/apple-touch-icon.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
   <!-- Icons: Tile icon for Win8 (144x144 + tile color) -->
   <link rel="icon" type="image/png" href="/static/img/favicon.png" sizes="16x16">
@@ -78,9 +79,8 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
-
-{{ partial "seo-og.html" . }}
 {{ partial "seo-schema.html" . }}
+{{ partial "seo-og.html" . }}
 {{ partial "seo-twittercard.html" . }}
 {{ partial "seo-googlenews.html" . }}
 
