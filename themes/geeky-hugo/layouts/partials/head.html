@@ -40,8 +40,6 @@
 {{ end }}
 
 
-<link rel="icon" type="image/png" href="{{ .Site.Params.logo | absURL }}">
-
 
   <!-- Icons -->
   <!-- Icons: General favicon -->
@@ -50,6 +48,8 @@
   <meta name="mobile-web-app-capable" content="yes">
   <!-- Icons: Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="logo" sizes="1852x484" href="/logo.png">
+
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -79,6 +79,11 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
+<!-- blogpost schema -->
 
-{{ partial "blogpost-schema.html" . }}
+<!-- twitter cards -->
 
+{{ template "_internal/twitter_cards.html" . }}
+<!-- opengraph -->
+
+{{ template "_internal/opengraph.html" . }}

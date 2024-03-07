@@ -19,6 +19,10 @@ defaultKeywords = "earn money online, side hustles, make money online, passive i
 address = "Seattle, Wa"
 mobile = "+4252434038"
 email = ""
+thumbnail = "about-1496x1944.png"
+ISO8601 = "2006-01-02T15:04:05JST"
+image = "logo.png"
+imagesFolder = 'images'
 # contact form action
 contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works with https://formspree.io
 # search
