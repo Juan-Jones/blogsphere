@@ -17,6 +17,32 @@
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
 
+{{ $description := "" }}
+
+{{ if .IsPage }}
+  {{ if .Params.Description }}
+    {{ $description = .Params.Description }}
+  {{ else }}
+    {{ $description = .Summary }}
+  {{ end }}
+
+{{ else if .Params.Description }}
+  {{ $description = .Params.Description }}
+
+{{ else }}
+  {{ $description = .Site.Params.Description }}
+
+{{ end }}
+
+<meta name="description" content="{{ $description }}">
+{{ with site.Params.author }}
+<meta name="author" content="{{ . }}">
+{{ end }}
+
+
+<link rel="icon" type="image/png" href="{{ .Site.Params.logo | absURL }}">
+
+
   <!-- Icons -->
   <!-- Icons: General favicon -->
   <link rel="shortcut icon" href="#">
@@ -45,18 +71,11 @@
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
 
-
-<!-- opengraph and twitter card -->
-{{ partial "basic-seo.html" . }}
-
-
 <!-- custom script -->
 {{ site.Params.custom_script | safeHTML}}
 
-
 <!-- google analytics -->
 {{ template "_internal/google_analytics.html" . }}
-
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
