@@ -2,7 +2,7 @@ User-agent: *
 
 Disallow: /page/*
 Disallow: /tags/
-Disallow: /blog/?p=*
-Disallow: /categories/?p=*
+Disallow: /blog/page/
+Disallow: /categories/page/
 
 Sitemap: https://earnonlinemoney.org/sitemap.xml
