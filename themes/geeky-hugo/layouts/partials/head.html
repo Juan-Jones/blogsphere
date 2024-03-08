@@ -39,8 +39,6 @@
 <meta name="author" content="{{ . }}">
 {{ end }}
 
-
-
   <!-- Icons -->
   <!-- Icons: General favicon -->
 
@@ -58,14 +56,11 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 
-
 <!-- manifest -->
 {{ partialCached "manifest" . }}
-
 
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
@@ -78,7 +73,9 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
-<!-- blogpost schema -->
+
+<!-- opengraph and twitter card -->
+{{ partial "basic-seo.html" . }}
 
 <!-- twitter cards -->
 

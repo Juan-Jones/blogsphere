@@ -13,16 +13,10 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 author = "Dejuan Jones"
 description = "Authentic earn money online guide, find side hustles, passive income ideas, online jobs & more. Find expert tips on building wealth & gaining financial freedom."
-keywords = "earn money online, side hustles, make money online, passive income ideas, make money from home, side hustle ideas, make money online, quick, earn money online free"
 # Used when a given page doesn't set its own.
-defaultKeywords = "earn money online, side hustles, make money online, passive income ideas, make money from home, side hustle ideas, make money online, quick, earn money online free"# contact info
 address = "Seattle, Wa"
 mobile = "+4252434038"
 email = ""
-thumbnail = "about-1496x1944.png"
-ISO8601 = "2006-01-02T15:04:05JST"
-image = "logo.png"
-imagesFolder = 'images'
 # contact form action
 contact_form_action = "https://formspree.io/f/xdoreeqg" # contact form works with https://formspree.io
 # search
