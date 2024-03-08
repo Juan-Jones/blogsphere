@@ -52,23 +52,12 @@
 {{- end }}
 <meta name="description" content="{{ $summary }}" />
 <meta name="twitter:card" content="{{ if $s.largeTwitterCard }}summary_large_image{{ else }}summary{{ end }}" />
-<meta name="twitter:creator" content="{{ $s.twitter }}">
 <meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:image" content="{{ $image }}"/>
+<meta name="twitter:image" content="{{ .Params.image }}"/>
 <meta property="og:url" content="{{ $permalink }}" />
 <meta property="og:title" content="{{ $title }}" />
 <meta property="og:description" content="{{ $summary }}" />
-<meta property="og:image" content="{{ $image }}" />
-{{- $keywords := "" }}
-{{- with $s.keywords }}
-  {{- $keywords = delimit $s.keywords "," }}
-{{- end }}
-{{- with $p.keywords }}
-  {{- $keywords = delimit . "," }}
-{{- end }}
-{{- with $keywords }}
-  <meta name="keywords" content="{{ $keywords }}" />
-{{- end }}
+<meta property="og:image" content="{{ .Params.image }}" />
 {{- if eq .Section $s.blogDir -}}
   {{- $date := ( .Date.Format "2006-02-01") -}}
   {{- $date := (time .Date) }}
