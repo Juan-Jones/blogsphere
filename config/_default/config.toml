@@ -19,7 +19,6 @@ enableRobotsTXT = true
   changefreq = "daily"
   filename = "sitemap.xml"
   priority = 1.0
-  Weight = [["main", "1"], ["sub2", "0.8"], ["sub3", "0.6"]]
 
 ############################# Modules ##############################
 [module]
