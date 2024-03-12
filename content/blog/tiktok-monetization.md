@@ -1,5 +1,5 @@
 ---
-title: "TikTok Monetization Strategies"
+title: "TikTok Monetization Strategies & Tips"
 description: "Learn how to monetize your TikTok content with our complete guide featuring 25+ opportunities, like Creator Funds, brand partnerships, merchandise sales & more."
 image: "images/post/monetize-tiktok.jpg"
 date: 2024-02-05T18:19:25+06:00
