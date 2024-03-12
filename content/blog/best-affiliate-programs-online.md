@@ -153,7 +153,7 @@ _Average Commission:_ Varies by product category, up to 4%.
 
 ### Target Affiliates
 
-Interested in advocating for a wide range of products? [Affiliate.target](https://affiliate.target.com) collaborate with a retail giant, promoting a diverse array of products and exclusive deals to earn commissions through referrals, tapping into a wide consumer base seeking quality merchandise and competitive prices;
+Interested in advocating for a wide range of products? [Affiliate.target](https:/partners.target.com) collaborate with a retail giant, promoting a diverse array of products and exclusive deals to earn commissions through referrals, tapping into a wide consumer base seeking quality merchandise and competitive prices;
 
 _Payment Threshold:_ $50,
 
