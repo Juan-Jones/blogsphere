@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://earnonlinemoney.org"
-title = "Earn Money Online | Side Hustles & Passive Income Ideas
+title = "Earn Money Online | Side Hustles & Passive Income Ideas"
 theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -10,9 +10,11 @@ paginate = "6"
 summaryLength = "20"
 # google analytics
 googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-autoHeadingID = true 
+autoHeadingID = true
 # Robotstxt
 enableRobotsTXT = true
+# canonify urls
+canonifyURLs = true
 
 ########################## Sitemap ##############################
 [sitemap]
