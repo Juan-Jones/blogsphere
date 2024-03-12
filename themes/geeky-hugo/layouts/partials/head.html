@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <title>{{.Title | default site.Title}}</title>
+
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
 <base href="{{ site.BaseURL }}">
@@ -12,32 +13,13 @@
 {{ end }}
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
- <!-- Enable responsiveness on mobile devices-->
+
+<!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <!-- theme meta -->
 <meta name="theme-name" content="geeky-hugo" />
-
-{{ $description := "" }}
-
-{{ if .IsPage }}
-  {{ if .Params.Description }}
-    {{ $description = .Params.Description }}
-  {{ else }}
-    {{ $description = .Summary }}
-  {{ end }}
-
-{{ else if .Params.Description }}
-  {{ $description = .Params.Description }}
-
-{{ else }}
-  {{ $description = .Site.Params.Description }}
-
-{{ end }}
-
-<meta name="description" content="{{ $description }}">
-{{ with site.Params.author }}
-<meta name="author" content="{{ . }}">
-{{ end }}
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}
@@ -48,6 +30,9 @@
 <!-- site verifications -->
 {{ partialCached "site-verifications.html" . }}
 
+<!-- opengraph and twitter card -->
+{{ partial "basic-seo.html" . }}
+
 <!-- custom script -->
 {{ site.Params.custom_script | safeHTML}}
 
@@ -56,6 +41,3 @@
 
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
-
-<!-- opengraph -->
-{{ partial "opengr.html" . }}
