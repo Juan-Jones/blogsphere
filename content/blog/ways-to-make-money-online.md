@@ -253,7 +253,7 @@ Comedy Workshops Educational Resources: Access to comedy writing guides, stand-u
 
 ### 16. Retail Print-on-Demand Merchandise
 
-{{< image src="/images/post/print-on-demand.jpg" caption="" alt="Print on Demand" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Print on Demand" webp="true" >}}
+{{< image src="/images/post/print-on-demand.jpg" caption="" alt="Print on Demand" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Print on Demand" webp="false" >}}
 
 Create and sell custom-designed products like t-shirts, mugs, and phone cases through print-on-demand platforms like [Redbubble](https://www.redbubble.com), [Printful](https://www.printful.com) or Teespring. You upload your designs, and they handle the printing, shipping, and customer service.
 
