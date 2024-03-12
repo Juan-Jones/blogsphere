@@ -21,7 +21,7 @@ Before you can create a blog, its important to understand its meaning and origin
 
 Creating a blog for free involves navigating through a sea of platforms, finding one that suits your style and purpose. Many hosting sites offer user-friendly interfaces, empowering you to design, write, and publish without spending a dime. From choosing templates to customizing layouts, the process lets you sculpt your digital space, embracing the freedom to share your voice with the world at no cost.
 
-Before diving into the technical aspects of creating a blog, take some time to brainstorm and define the purpose of your blog. What do you want to share with your audience, and who is your target demographic? . Below is 11 steps to _create your own free blog_ and start making an impact online:
+Before diving into the technical aspects of creating a blog, take some time to brainstorm and define the purpose of your blog. What do you want to share with your audience, and who is your target demographic? Below is 11 steps to _create your own free blog_ and start making an impact online:
 
 ### 1. Choose a Blog Topic
 
@@ -62,7 +62,9 @@ So how can you find a fitting domain name? It depends on the aim of your blog. F
 
 What does it mean to customize your blog? It means adding elements like footers, headers, and sidebars just to name a few. There are a few objectives you should aim to accomplish when customizing your blog. First, you need to make sure that visitors can navigate through your site. This is often overlooked, but it's one of the most fundamental elements of site development. For beginners, search engines like Google will penalize sites with poor navigation. In addition, customers will leave your blog if they can't find their way around.
 
-Site structure - Make sure you add categories, tags, and snippets. Above all else, make sure your site is user-friendly.Aim to please your audience - A good blogger writes for the audience, not search engines. Once you create your post, you can always go back and insert keywords. However, it's harder to do it the other way around. Identify content your target audience is seeking.Create SEO-friendly content - Try not to over-optimize your content. Your content must appear natural, therefore, you must avoid keyword stuffing.
+Site structure: Make sure you add categories, tags, and snippets. Above all else, make sure your site is user-friendly.
+Aim to please your audience: A good blogger writes for the audience, not search engines. Once you create your post, you can always go back and insert keywords. However, it's harder to do it the other way around. Identify content your target audience is seeking.
+Create SEO-friendly content: Try not to over-optimize your content. Your content must appear natural, therefore, you must avoid keyword stuffing.
 
 ### 6. Add Pages to Your Blog
 
