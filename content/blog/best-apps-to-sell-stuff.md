@@ -39,13 +39,11 @@ Depop is a marketplace app known for its focus on unique and trendy fashion item
 
 [OfferUp](https://offerup.com) is a mobile marketplace app that emphasizes local buying and selling. It's perfect for selling larger items like furniture, appliances, and vehicles to people in your area. OfferUp's user-friendly interface and secure messaging system make it easy to connect with buyers and negotiate prices. Plus, the app's built-in reputation system helps foster trust between buyers and sellers.
 
-### 7. Letgo
-
-Letgo is another app that focuses on local buying and selling, allowing users to list items for sale within their community. The app's intuitive interface and image recognition technology make it easy to create listings in seconds. [Letgo](https://letgo.com) also offers in-app messaging and secure payments, ensuring a seamless experience for both buyers and sellers.
+- Letgo: Letgo is another app that focuses on local buying and selling, allowing users to list items for sale within their community. However, Letgo officially merged with OfferUp September 21st, 2020.
 
 ### 8. Gumtree
 
-[Gumtree.com](https://gumtree.com) is a classified ads platform that originated in the UK but has since expanded to other countries around the world. It allows users to buy and sell a wide range of items, including vehicles, real estate, jobs, and services. Gumtree's robust search filters and location-based listings make it easy to find buyers in your area.
+Gumtree.com is a classified ads platform that originated in the UK but has since expanded to other countries around the world. [Gumtree](https://www.gumtree.com) allows users to buy and sell a wide range of items, including vehicles, real estate, jobs, and services. Gumtree's robust search filters and location-based listings make it easy to find buyers in your area.
 
 ### 9. Vinted
 
