@@ -8,6 +8,7 @@ tags: ["opportunities"]
 image: "images/post/make-money-online.jpg"
 categories: ["personal finance"]
 type: "featured" # available types: [featured/regular]
+aliases = ["make-money-online"]
 draft: false
 ---
 
