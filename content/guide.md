@@ -2,7 +2,6 @@
 title: "Earn Money Online Complete Guide"
 description: "Our earn money online guide contains opportunities for entrepreneurs, like e-biz, work at home jobs, side hustles, monetization tips and more."
 draft: false
-weight: 1000
 ---
 
 Welcome to Earnonlinemoney.org, a comprehensive guide to earning money online. This platform is dedicated to empowering individuals from diverse backgrounds to embrace the digital realm and explore genuine avenues to earn money from home.
@@ -15,7 +14,7 @@ What can you expect to learn while visiting Earnmoneyonline.org? As you may alre
 
 ## Ways to Make Money Online
 
-It doesn't matter what your current situation is; college student, construction worker, accountant, convicted felon, or jobless. Nor, does it matter where you live (Africa, Panama, South America, Asia, United Kingdom). Here, you will find a impressive list of [ways to make money online](/blog/ways-to-make-money-online):
+It doesn't matter what your current situation is; college student, construction worker, accountant, convicted felon, or jobless. Nor, does it matter where you live (Africa, Panama, South America, Asia, United Kingdom). Here, you will find a impressive list of [ways to make money online](/blog/make-money-online):
 
 ### Side Hustle Ideas
 
