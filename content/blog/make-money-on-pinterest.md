@@ -6,7 +6,7 @@ date: 2020-08-05T18:19:25+06:00
 categories: ["monetizing"]
 tags: ["business"]
 type: "regular" # available types: [featured/regular]
-aliases = ["/make-money/make-money-on-pinterest/"]
+aliases: ["/make-money/make-money-on-pinterest"]
 draft: false
 ---
 
