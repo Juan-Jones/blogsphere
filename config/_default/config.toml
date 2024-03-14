@@ -13,8 +13,6 @@ googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the
 autoHeadingID = true
 # Robotstxt
 enableRobotsTXT = true
-# canonify urls
-canonifyURLs = true
 
 ########################## Sitemap ##############################
 [sitemap]
