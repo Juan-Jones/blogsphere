@@ -74,7 +74,7 @@ YouTube Startup Resources: Access to video editing software like Adobe Premiere 
 
 {{< image src="images/post/domain-flipping.jpg" caption="" alt="Domain Flipping" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Domain Flipping" webp="false" >}}
 
-Domain flipping is undeniably a lucrative internet venture, offering substantial returns on investment. The process involves buying domains at comparatively modest prices then selling them later. Nonetheless, if you want to earn considerable profits you must learn how to effectively [flip domain names](/blog/flip-domain-names/).
+Domain flipping is undeniably a lucrative internet venture, offering substantial returns on investment. The process involves buying domains at comparatively modest prices then selling them later. Nonetheless, if you want to earn considerable profits you must learn how to effectively [flip domain names](/blog/flip-domain-names).
 
 Domain Flipping Avg Pay: Highly variable, ranging from a few hundred dollars to tens of thousands per domain.
 
@@ -130,7 +130,7 @@ Microtasking Payment Structure: Microtask platforms offer payment per task compl
 
 {{< image src="images/post/sell-photos.jpg" caption="" alt="Sell Photos" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Sell Photos" webp="false" >}}
 
-If you have a knack for photography, you can [get paid for your photos](/blog/get-paid-for-your-photos) on stock photography websites like [Shutterstock](https://shutterstock.com), Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
+If you have a knack for photography, you can [get paid for your photos](/blog/get-paid-for-your-photos) on stock photography websites like Shutterstock.com, Adobe Stock, or Getty Images. Whenever someone purchases a license to use your photo, you earn a royalty.
 
 Average Profit Selling Stock Photos: $0.25 - $5 per download, with potential for higher earnings for exclusive and high-demand images.
 
@@ -146,7 +146,7 @@ Creative Vision and Uniqueness: Selling photos on stock websites demands a creat
 
 {{< image src="images/post/online-gaming.jpg" caption="" alt="Online Gaming" height="400" width="300" position="center" command="fit" option="q100" class="img-fluid" title="Online Gaming" webp="false" >}}
 
-Gaming or streaming on platforms like [Twitch](https://www.twitch.tv) involves showcasing skills and entertaining audiences while fostering a community. It's a multifaceted pursuit within a vibrant online ecosystem, offering opportunities for revenue generation and connection-building.
+Gaming or streaming on platforms like Twitch involves showcasing skills and entertaining audiences while fostering a community. It's a multifaceted pursuit within a vibrant online ecosystem, offering opportunities for revenue generation and connection-building.
 
 How Much Can You Generate? Highly variable, ranging from a few hundred to millions of dollars annually.
 
@@ -266,7 +266,7 @@ Degree of Difficulty: Launching a print-on-demand business is relatively easy. H
 
 Print-on-Demand Resources: Utilizing design software and understanding design principles is crucial. Access to high-quality mockup templates and images to display designs on various products can significantly aid in marketing.
 
-Platform Selection and Product Range: Platforms like [Redbubble](https://redbubble.com) offer a range of customizable products such as t-shirts, hoodies, mugs, phone cases, etc. Choosing a platform aligned with your design ideas and audience preferences is essential.
+Platform Selection and Product Range: Platforms like Redbubble.com offer a range of customizable products such as t-shirts, hoodies, mugs, phone cases, etc. Choosing a platform aligned with your design ideas and audience preferences is essential.
 
 ### 17. App Development
 

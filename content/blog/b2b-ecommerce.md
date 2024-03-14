@@ -52,8 +52,8 @@ To thrive in the competitive landscape of B2B ecommerce, businesses can adopt th
 
 A wide range of B2B ecommerce platforms and solutions are available in the market, catering to diverse business needs and requirements. Some popular B2B ecommerce platforms include:
 
-[BigCommerce B2B](https://www.bigcommerce.com/solutions/b2b-ecommerce-platform/)
-[Salesforce Commerce Cloud](https://www.salesforce.com/ap/editions-pricing/commerce-cloud/)
+[BigCommerce B2B](https://www.bigcommerce.com/solutions/b2b-ecommerce-platform)
+[Salesforce Commerce Cloud](https://www.salesforce.com/ap/editions-pricing/commerce-cloud)
 [Oracle Commerce](https://docs.oracle.com/en/cloud/saas/cx-commerce/index.html)
 
 These platforms offer robust features, scalability, and customization options to help businesses build and manage successful B2B ecommerce operations.

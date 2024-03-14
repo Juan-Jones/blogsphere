@@ -36,7 +36,7 @@ At Facebook, the [Performance Bonus program](https://creators.facebook.com/progr
 
 ### Facebook Stars
 
-For creators, [Facebook Stars](https://creators.facebook.com/tools/stars/) offer a way to monetize their content and engage with their audience in real-time. It provides an additional revenue stream beyond traditional advertising or sponsorship deals. Creators can also see their supporters in the chat, fostering a sense of community and connection.
+For creators, [Facebook Stars](https://creators.facebook.com/tools/stars) offer a way to monetize their content and engage with their audience in real-time. It provides an additional revenue stream beyond traditional advertising or sponsorship deals. Creators can also see their supporters in the chat, fostering a sense of community and connection.
 
 ### Facebook Reels
 

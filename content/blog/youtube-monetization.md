@@ -23,17 +23,17 @@ Statistics show why the platform is so dominant;
 - Around 70% of the traffic comes from a mobile device.
 - Globally ranks as the 2nd largest search engine on the internet.
 
-YouTube's extensive global reach has firmly established its position as a premier platform for video content. From innovation to solid content the platform draws a large and diverse audience from across the globe daily. This enables small businesses, corporations and entrepreneurs can easily reach their target audience. More importanty, it creates YouTube monetization opportunities for publishers
+YouTube's extensive global reach has firmly established its position as a premier platform for video content. From innovation to solid content the platform draws a large and diverse audience from across the globe daily. This enables small businesses, corporations and entrepreneurs can easily reach their target audience. More importanty, it creates YouTube monetization opportunities for publishers.
 
 ## YT Monetization Eligibility
 
-Meeting [YouTubes monetization eligibility](https://www.youtube.com/howyoutubeworks/policies/monetization-policies/) criteria is crucial for content creators aspiring to monetize their channels on YouTube. Meeting these standards not only unlocks revenue potential but also signifies a commitment to producing quality, original content in accordance with YouTube's guidelines.
+Meeting [YouTubes monetization eligibility](https://www.youtube.com/howyoutubeworks/policies/monetization-policies) criteria is crucial for content creators aspiring to monetize their channels on YouTube. Meeting these standards not only unlocks revenue potential but also signifies a commitment to producing quality, original content in accordance with YouTube's guidelines.
 
 _Watch Time Requirement:_ Creators aiming for YouTube monetization must achieve a minimum of 4,000 watch hours within the last 12 months. This metric measures the cumulative duration viewers spend watching a channel's content.
 _Subscriber Threshold:_ The eligibility criteria demand a minimum of 1,000 subscribers for a channel. This subscriber count signifies an engaged audience base interested in the creator's content.
 _Adherence to Community Guidelines:_ To qualify for monetization, creators must comply with YouTube's Community Guidelines. This includes creating content that is suitable for all audiences, refraining from using copyrighted material without permission, avoiding hate speech, violence, and other content that violates these guidelines.
 _Original Content Creation:_ YouTube emphasizes originality. Repurposed or recycled content might not meet the criteria for monetization. Creators are encouraged to produce unique and innovative content to qualify.
-_AdSense Account Association:_ Linking a channel to an AdSense account is necessary for revenue collection. Creators need to provide accurate personal and banking information to enable payments.
+_AdSense Account Association:_ Linking a channel to an AdSense account is necessary for revenue collection. Pu need to provide accurate personal and banking information to enable payments.
 _Application Process:_ Once the watch time, subscriber count, and content guidelines are met, creators can apply for the YouTube Partner Program via the YouTube Studio dashboard. The application undergoes a review process conducted by YouTube to verify if all requirements are fulfilled.
 _Review Period:_ The review process for monetization applications might take several weeks due to the volume of applications. Creators need to patiently wait while YouTube evaluates their eligibility.
 _Maintaining Eligibility:_ After gaining access to monetization, creators must continue to meet the criteria and adhere to guidelines. Failure to comply might result in losing monetization privileges.
