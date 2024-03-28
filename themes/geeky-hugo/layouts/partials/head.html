@@ -2,7 +2,7 @@
 <title>{{.Title | default site.Title}}</title>
 
 <!-- base url -->
-{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
+{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://earnonlinemoney.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
 <base href="{{ site.BaseURL }}">
 {{ end }}
 
@@ -35,9 +35,19 @@
 <link rel="apple-touch-icon" sizes="180x180" href="{{$favicon_180.RelPermalink}}">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+
 {{ end }}
 {{ end }}
-<link rel="manifest" href="{{`index.webmanifest` | relURL }}">
+<link rel="manifest" href="{{`site.webmanifest` | relURL }}">
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
 
@@ -154,7 +164,6 @@
 <!-- Crisp Chat -->
 {{ partialCached "crisp-chat.html" . }}
 
-{{ template "_internal/opengraph.html" . }}
 
-{{ template "_internal/twitter_cards.html" . }}
-
+<!-- opengraph and twitter card -->
+{{ partial "basic-seo.html" . }}
