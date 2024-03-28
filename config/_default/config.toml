@@ -1,0 +1,90 @@
+######################## default configuration ####################
+baseURL = "https://earnonlinemoney.org"
+title = "Earn Money Online | Side Hustles & Passive Income Ideas"
+theme = "geeky-hugo"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "20"
+# google analytics
+googleAnalytics = "UA-151135138-1" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+autoHeadingID = true
+# Robotstxt
+enableRobotsTXT = true
+
+########################## Assets ##############################
+[assets]
+  disableHLJS = true
+  # favicon = "<link / abs url>"
+  # favicon16x16 = "<link / abs url>"
+  # favicon32x32 = "<link / abs url>"
+  # apple_touch_icon = "<link / abs url>"
+  # safari_pinned_tab = "<link / abs url>"
+
+########################## Sitemap ##############################
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 1.0
+
+############################# Modules ##############################
+[module]
+[module.hugoVersion]
+extended = true
+min = "0.87.0"
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+############################# Imaging ##############################
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+############################# Markup ###############################
+[markup]
+[markup.tableOfContents]
+  endLevel = 3
+  ordered = false
+  startLevel = 2
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+############################ Media types ############################
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+############################ Output Format ###########################
+[outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "atom"
+
+[outputFormats.JSON]
+  mediatype = "application/json"
+  baseName = "feed"
+
+
+############################ taxonomies ###########################
+[taxonomies]
+  tag = "tags"
+  category = "categories"

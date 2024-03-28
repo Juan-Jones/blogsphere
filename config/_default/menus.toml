@@ -1,0 +1,73 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Guide"
+url = "guide/"
+weight = 2
+
+[[main]]
+name = "Make Money Online"
+url = "blog/ways-to-make-money-online/"
+weight = 2
+
+[[main]]
+name = "Creative Side Hustles"
+url = "blog/creative-side-hustles/"
+weight = 3
+
+[[main]]
+name = "Passive Income Ideas"
+url = "blog/passive-income-ideas/"
+weight = 4
+
+[[main]]
+name = "Best Freelance Websites"
+url = "blog/best-freelance-websites/"
+weight = 5
+
+[[main]]
+name = "Online Marketing Guide"
+url = "blog/online-marketing-guide/"
+weight = 6
+
+[[main]]
+name = "Monetize Your WebBlog"
+url = "blog/how-to-monetize-a-blog/"
+weight = 7
+
+[[main]]
+name = "Build Online Stores"
+url = "blog/launch-an-ecommerce-store/"
+weight = 8
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 9
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
