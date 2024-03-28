@@ -3,11 +3,34 @@
   {{ $imagePath:= .Params.image }}
   {{ if $imagePath }}
   <div class="mb-4 position-relative">
-    {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class" "img-fluid w-100 rounded-4" ) }}
+    <!-- image CDN -->
+    {{ if hasPrefix $imagePath "http" }}
+    <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
+      class="img-fluid w-100 rounded-4">
+    {{ else }}
+    <!-- /image cdn -->
+
+    <!-- image processing for multiple device -->
+    {{ if fileExists (add `assets/` $imagePath) }}
+    {{ $image:= resources.Get $imagePath }}
+    {{ $imageFallback:= $image.Resize "650x" }}
+    {{ $imageLG:= $image.Resize "650x webp" }}
+    {{ $imageMD:= $image.Resize "600x webp" }}
+    {{ $imageSM:= $image.Resize "545x webp" }}
+    <picture>
+      <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+      <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+      <source srcset="{{ $imageLG.RelPermalink }}">
+      <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
+        alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+    </picture>
+    {{ end }}
+    <!-- /image processing for multiple device -->
+    {{ end }}
     <ul class="list-inline card-badge">
       {{ range .Params.categories }}
       <li class="list-inline-item">
-        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary py-1">{{. | title}}</a>
+        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
       </li>
       {{ end }}
     </ul>
@@ -15,7 +38,7 @@
   {{ else }}
   <div class="mb-4">
     {{ range .Params.categories }}
-    <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary d-inline-block">{{. | title}}</a>
+    <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary d-inline-block">{{. | title}}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -26,7 +49,7 @@
     <ul class="list-inline card-meta d-flex align-items-center mb-3">
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-user me-2"></i>
-        <a href="{{`about` | relLangURL}}/">{{site.Params.author}}</a>
+        <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
       </li>
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-calendar me-2"></i>
@@ -34,6 +57,6 @@
       </li>
     </ul>
     <p class="card-text mb-4">{{ .Summary }}</p>
-    <a href="{{.RelPermalink}}" class="btn btn-outline-primary btn-sm">{{ site.Params.read_more_button }}</a>
+    <a href="{{.RelPermalink}}" class="btn btn-outline-primary btn-sm">Read more</a>
   </div>
 </div>

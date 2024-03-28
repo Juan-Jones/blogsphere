@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "imageslogo.png"
+favicon = "/apple-touch-icon.png"
 
 # logo
 logo = "images/logo.png"
